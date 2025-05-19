@@ -1,0 +1,1636 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="AERO S'Mores bars">
+  <data key="d0">Product</data>
+</node>
+<node id="Aero">
+  <data key="d0">Brand</data>
+</node>
+<node id="Chocolate &amp; Treats">
+  <data key="d0">Category</data>
+</node>
+<node id="AERO S'Mores bars Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="lactose)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa butter‡ Unsweetened chocolate‡">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Polyglycerol polyricinoleate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural flavour. ‡Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Scoops Vanilla Bean">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Scoops Vanilla Bean Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa butter‡">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Unsweetened chocolate‡">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Modified palm oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Scoops Double Chocolate">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Scoops Double Chocolate Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Skim milk powder">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Milk fat">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Whey powder">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Polyglycerol polyricinoleate. ‡ Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Scoops Choco Strawberry">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Scoops Choco Strawberry Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa butter">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Unsweetened chocolate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Beet red">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Polyglycerol polyricinoleate. Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Aero Truffle Salted Caramel">
+  <data key="d0">Product</data>
+</node>
+<node id="Aero Truffle Salted Caramel Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa butter*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Unsweetened chocolate*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural flavour. *Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="NESTLÉ AERO TRUFFLE Brownie 105 g Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="NESTLÉ AERO TRUFFLE Brownie 105 g Bar Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa Butter*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Unsweetened Chocolate*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Polyglycerol Polyricinoleate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural Flavour)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sugars (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Lactose)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Modified Palm Oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural Flavour. *Rainforest Alliance certified.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Pep 8ct Jrs 24 8x7.3 g">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Pep 8ct Jrs 24 8x7.3 g Ingredients Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sodium copper chlorophyllin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Turmeric. *Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Hide Me Eggs 100g">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Hide Me Eggs 100g Ingredients Sugars (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Glucose-Fructose)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Palm">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Coconut and Vegetable Oils">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sunflower Lecithin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Gum Arabic">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Polydextrose">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Isopropyl Alcohol">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Citric Acid. Per 13 Pieces (39g): Polydextrose 0.04g. *Rainforest Alliance certified.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Valentine's Minis 30-pack, 219 g">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Valentine's Minis 30-pack">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="219 g Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural Flavour). *Rainforest Alliance certified. May Contain: Wheat.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Easter Chocolate Lamb 5-pack">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Easter Chocolate Lamb 5-pack Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural Flavour). *Rainforest Alliance certified.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="NESTLÉ AERO Novelty Bunny 94g">
+  <data key="d0">Product</data>
+</node>
+<node id="NESTLÉ AERO Novelty Bunny 94g Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="glucose syrup)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Palm and vegetable oils">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sunflower and/or rapeseed lecithin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Gum arabic">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Coconut oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Citric acid">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural flavour. Polydextrose 0.008 g per 47 g serving *Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Halloween 25ct Carton">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Halloween 25ct Carton Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Easter Chocolate Assorted Hide Me Eggs Pouch">
+  <data key="d0">Product</data>
+</node>
+<node id="Easter Chocolate Assorted Hide Me Eggs Pouch Ingredients SMARTIES eggs Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Milk Ingredients">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Unsweetened Chocolate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa Butter">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Wheat Flour">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Rice Starch">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Carnauba Wax">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Citric Acid">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Beeswax">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Fruit and Vegetable Extracts (Safflower">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Radish">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Spirulina">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Black Carrot">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Lemon">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Hibiscus). May contain tree nuts and egg. Coffee Crisp eggs Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Palm Oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Salt. May contain tree nuts and egg.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Tiramisu Milk Chocolate Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Tiramisu Milk Chocolate Bar Ingredients Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="caramelized sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="glucose)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="cocoa butter*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="unsweetened chocolate*">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="modified palm oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="soy and sunflower lecithin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="vegetable oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="polyglycerol polyricinoleate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour. *Rainforest alliance certified™.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar Ingredients Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Milk Chocolate Minis 98g">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Milk Chocolate Minis 98g Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural Flavour). *Rainforest Alliance Certified™. May Contain: Wheat.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Milk Chocolate Minis Pouch (800 g)">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Milk Chocolate Minis Pouch (800 g) Ingredients Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour). *rainforest alliance certified™.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Milk Chocolate Minis">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Milk Chocolate Minis Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Peppermint Milk Chocolate Minis">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Peppermint Milk Chocolate Minis Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Cocoa Mass">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Colour). May Contain: Wheat.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Dark &amp; Milk Chocolate Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Dark &amp; Milk Chocolate Bar Ingredients Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="unsweetened chocolate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="cocoa butter">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="cocoa powder">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="polyglycerol polyricinoleate.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="NESTLÉ® AERO® Milk Chocolate Bar 42g">
+  <data key="d0">Product</data>
+</node>
+<node id="NESTLÉ® AERO® Milk Chocolate Bar 42g Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural Flavour).">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO White Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO White Bar Ingredients Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="White chocolate centre (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="polyglycerol polyricinoleate). *Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Mint - Peppermint Milk Chocolate Bubble Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Mint - Peppermint Milk Chocolate Bubble Bar Ingredients Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="modified palm and vegetable oils">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="cocoa mass">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="sunflower lecithin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavours">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="colour.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Peppermint Share-Size Milk Chocolate Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Peppermint Share-Size Milk Chocolate Bar Ingredients Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="sodium copper chlorophyllin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="tumeric*. *Rainforest Alliance Certified™.">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Milk Chocolate 3-Piece Share Pack">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Milk Chocolate 3-Piece Share Pack Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Milk Chocolate Big Bubble Bar (97 g)">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Milk Chocolate Big Bubble Bar (97 g) Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Peppermint Chocolate Bar">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Peppermint Chocolate Bar Ingredients Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Snack Size, Milk Chocolate, Peanut-free">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Snack Size">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Milk Chocolate">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Peanut-free Ingredients Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour). May contain: Wheat. *Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Prepared in Canada">
+  <data key="d0">Product</data>
+</node>
+<node id="Assorted Minis Carton 25 pack Ingredients AERO Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour). *Rainforest Alliance Certified KITKAT Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Wheat flour">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Palm oil">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Baking soda">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Yeast">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Protease">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Xylanase. * Rainforest Alliance Certified SMARTIES Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="maltodextrin)">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Modified corn starch">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Carnauba wax">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Turmeric">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Carotene">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Anthocyanin">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sodium copper chlorophyllin. *Rainforest Alliance Certified COFFEE CRISP Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="glucose solids">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Coffee">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Xylanase">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Assorted Minis Carton 50 pack Ingredients AERO Ingredients: Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour). *Rainforest Alliance Certified SMARTIES Ingredients: Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sodium copper chlorophyllin. *Rainforest Alliance Certified KITKAT Ingredients: Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Xylanase. * Rainforest Alliance Certified COFFEE CRISP Ingredients: Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Assorted Minis Carton 100 pack Ingredients AERO Ingredients: Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="natural flavour). *Rainforest Alliance Certified. KITKAT Ingredients: Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Xylanase. * Rainforest Alliance Certified SMARTIES Ingredients: Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sodium copper chlorophyllin. *Rainforest Alliance Certified COFFEE CRISP Ingredients: Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Milk Chocolate Bar 4-pack">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Milk Chocolate Bar 4-pack Ingredients Milk Chocolate (Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="NESTLÉ Assorted Minis Carton pack">
+  <data key="d0">Product</data>
+</node>
+<node id="NESTLÉ Assorted Minis Carton pack Ingredients Smarties Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Sodium copper chlorophyllin. *Rainforest Alliance Certified Coffee crisp Sugars (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Natural flavour. *Rainforest Alliance Certified KitKat Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Xylanase. * Rainforest Alliance Certified Aero Milk chocolate (sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="Xylanase. * Rainforest Alliance Certified">
+  <data key="d0">Ingredient</data>
+</node>
+<node id="AERO Peppermint Bar 4-pack">
+  <data key="d0">Product</data>
+</node>
+<node id="AERO Peppermint Bar 4-pack Ingredients Sugar">
+  <data key="d0">Ingredient</data>
+</node>
+<edge source="AERO S'Mores bars" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO S'Mores bars" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO S'Mores bars" target="AERO S'Mores bars Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO S'Mores bars" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO S'Mores bars" target="Cocoa butter‡ Unsweetened chocolate‡">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO S'Mores bars" target="Polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO S'Mores bars" target="Natural flavour. ‡Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="AERO Scoops Vanilla Bean Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Cocoa butter‡">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Unsweetened chocolate‡">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Vanilla Bean" target="Natural flavour. ‡Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="AERO Scoops Double Chocolate Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Cocoa butter‡">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Unsweetened chocolate‡">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Skim milk powder">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Milk fat">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Whey powder">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Double Chocolate" target="Polyglycerol polyricinoleate. ‡ Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="AERO Scoops Choco Strawberry Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Cocoa butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Unsweetened chocolate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Skim milk powder">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Milk fat">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Whey powder">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Beet red">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Scoops Choco Strawberry" target="Polyglycerol polyricinoleate. Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Aero Truffle Salted Caramel Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Aero Truffle Salted Caramel" target="Natural flavour. *Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="NESTLÉ AERO TRUFFLE Brownie 105 g Bar Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Natural Flavour)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Sugars (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Cocoa*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Modified Palm Oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO TRUFFLE Brownie 105 g Bar" target="Natural Flavour. *Rainforest Alliance certified.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="AERO Pep 8ct Jrs 24 8x7.3 g Ingredients Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Sodium copper chlorophyllin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Pep 8ct Jrs 24 8x7.3 g" target="Turmeric. *Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="AERO Hide Me Eggs 100g Ingredients Sugars (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Glucose-Fructose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Palm">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Coconut and Vegetable Oils">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Sunflower Lecithin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Gum Arabic">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Polydextrose">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Isopropyl Alcohol">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Hide Me Eggs 100g" target="Citric Acid. Per 13 Pieces (39g): Polydextrose 0.04g. *Rainforest Alliance certified.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="AERO Valentine's Minis 30-pack">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="219 g Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Valentine's Minis 30-pack, 219 g" target="Natural Flavour). *Rainforest Alliance certified. May Contain: Wheat.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="AERO Easter Chocolate Lamb 5-pack Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Easter Chocolate Lamb 5-pack" target="Natural Flavour). *Rainforest Alliance certified.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="NESTLÉ AERO Novelty Bunny 94g Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="glucose syrup)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Palm and vegetable oils">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Sunflower and/or rapeseed lecithin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Gum arabic">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Polydextrose">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Coconut oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Citric acid">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ AERO Novelty Bunny 94g" target="Natural flavour. Polydextrose 0.008 g per 47 g serving *Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="AERO Halloween 25ct Carton Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Halloween 25ct Carton" target="Natural Flavour). *Rainforest Alliance certified.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Easter Chocolate Assorted Hide Me Eggs Pouch Ingredients SMARTIES eggs Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Milk Ingredients">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Unsweetened Chocolate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Cocoa Butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Natural Flavour)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Wheat Flour">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Rice Starch">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Sunflower Lecithin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Carnauba Wax">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Citric Acid">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Beeswax">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Gum Arabic">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Fruit and Vegetable Extracts (Safflower">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Radish">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Spirulina">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Black Carrot">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Lemon">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Hibiscus). May contain tree nuts and egg. Coffee Crisp eggs Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Palm Oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Easter Chocolate Assorted Hide Me Eggs Pouch" target="Salt. May contain tree nuts and egg.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="AERO Tiramisu Milk Chocolate Bar Ingredients Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="caramelized sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="glucose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="soy and sunflower lecithin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="vegetable oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Tiramisu Milk Chocolate Bar" target="natural flavour. *Rainforest alliance certified™.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar Ingredients Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="natural flavour)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO TRUFFLE Chocolate Mousse Milk Chocolate Bar" target="natural flavour. *Rainforest alliance certified™.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="AERO Milk Chocolate Minis 98g Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis 98g" target="Natural Flavour). *Rainforest Alliance Certified™. May Contain: Wheat.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="AERO Milk Chocolate Minis Pouch (800 g) Ingredients Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis Pouch (800 g)" target="natural flavour). *rainforest alliance certified™.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="AERO Milk Chocolate Minis Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Minis" target="Natural Flavour). *Rainforest Alliance Certified™. May Contain: Wheat.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="AERO Peppermint Milk Chocolate Minis Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="Cocoa Butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="Cocoa Mass">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Milk Chocolate Minis" target="Colour). May Contain: Wheat.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="AERO Dark &amp; Milk Chocolate Bar Ingredients Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="unsweetened chocolate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="cocoa butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="cocoa powder">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Dark &amp; Milk Chocolate Bar" target="polyglycerol polyricinoleate.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="NESTLÉ® AERO® Milk Chocolate Bar 42g Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="Cocoa Butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="Cocoa Mass">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ® AERO® Milk Chocolate Bar 42g" target="Natural Flavour).">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO White Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO White Bar" target="AERO White Bar Ingredients Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="natural flavour)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="White chocolate centre (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO White Bar" target="polyglycerol polyricinoleate). *Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="AERO Mint - Peppermint Milk Chocolate Bubble Bar Ingredients Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="modified palm and vegetable oils">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="cocoa butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="cocoa mass">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="sunflower lecithin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="natural flavours">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Mint - Peppermint Milk Chocolate Bubble Bar" target="colour.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="AERO Peppermint Share-Size Milk Chocolate Bar Ingredients Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="sodium copper chlorophyllin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Share-Size Milk Chocolate Bar" target="tumeric*. *Rainforest Alliance Certified™.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="AERO Milk Chocolate 3-Piece Share Pack Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="Cocoa Butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="Unsweetened Chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate 3-Piece Share Pack" target="Natural Flavour). *Rainforest Alliance certified.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="AERO Milk Chocolate Big Bubble Bar (97 g) Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="Cocoa Butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="Cocoa Mass">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Big Bubble Bar (97 g)" target="Natural Flavour).">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="AERO Peppermint Chocolate Bar Ingredients Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="sodium copper chlorophyllin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Chocolate Bar" target="tumeric*. *Rainforest Alliance Certified™.">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="AERO Snack Size">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="Milk Chocolate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="Peanut-free Ingredients Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Snack Size, Milk Chocolate, Peanut-free" target="natural flavour). May contain: Wheat. *Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="Prepared in Canada" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="Prepared in Canada" target="Assorted Minis Carton 25 pack Ingredients AERO Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="natural flavour). *Rainforest Alliance Certified KITKAT Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="natural flavour)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Wheat flour">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Cocoa*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Baking soda">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Yeast">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Protease">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Xylanase. * Rainforest Alliance Certified SMARTIES Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="maltodextrin)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Modified corn starch">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Carnauba wax">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Gum arabic">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Beet red">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Spirulina">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Turmeric">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Carotene">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Anthocyanin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Sodium copper chlorophyllin. *Rainforest Alliance Certified COFFEE CRISP Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="glucose solids">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Palm and vegetable oils">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Coffee">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Xylanase">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Natural flavour. *Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Assorted Minis Carton 50 pack Ingredients AERO Ingredients: Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="natural flavour). *Rainforest Alliance Certified SMARTIES Ingredients: Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Sodium copper chlorophyllin. *Rainforest Alliance Certified KITKAT Ingredients: Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Xylanase. * Rainforest Alliance Certified COFFEE CRISP Ingredients: Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Assorted Minis Carton 100 pack Ingredients AERO Ingredients: Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="natural flavour). *Rainforest Alliance Certified. KITKAT Ingredients: Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Xylanase. * Rainforest Alliance Certified SMARTIES Ingredients: Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="Prepared in Canada" target="Sodium copper chlorophyllin. *Rainforest Alliance Certified COFFEE CRISP Ingredients: Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="AERO Milk Chocolate Bar 4-pack Ingredients Milk Chocolate (Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="Cocoa Butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="Cocoa Mass">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="Polyglycerol Polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Milk Chocolate Bar 4-pack" target="Natural Flavour).">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="NESTLÉ Assorted Minis Carton pack Ingredients Smarties Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="natural flavour)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="maltodextrin)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Wheat flour">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Modified corn starch">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Carnauba wax">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Gum arabic">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Beet red">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Spirulina">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Turmeric">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Carotene">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Anthocyanin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Sodium copper chlorophyllin. *Rainforest Alliance Certified Coffee crisp Sugars (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="glucose solids">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="lactose)">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Palm and vegetable oils">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Unsweetened chocolate*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Cocoa butter*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Coffee">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Baking soda">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Cocoa*">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Polyglycerol polyricinoleate">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Yeast">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Protease">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Xylanase">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Natural flavour. *Rainforest Alliance Certified KitKat Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Modified palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Palm oil">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Xylanase. * Rainforest Alliance Certified Aero Milk chocolate (sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="NESTLÉ Assorted Minis Carton pack" target="Xylanase. * Rainforest Alliance Certified">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="Aero">
+  <data key="d1">BELONGS_TO</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="Chocolate &amp; Treats">
+  <data key="d1">IN_CATEGORY</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="AERO Peppermint Bar 4-pack Ingredients Sugar">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="modified palm and vegetable oils">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="cocoa butter">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="cocoa mass">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="sunflower lecithin">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="natural flavours">
+  <data key="d1">CONTAINS</data>
+</edge>
+<edge source="AERO Peppermint Bar 4-pack" target="colour.">
+  <data key="d1">CONTAINS</data>
+</edge>
+</graph></graphml>

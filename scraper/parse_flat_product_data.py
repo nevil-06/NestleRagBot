@@ -4,7 +4,7 @@ import json
 import os
 import re
 
-INPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/raw_product_data.json")
+INPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/full_product_data.json")
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/structured_product_data.json")
 
 def find_all_indices(raw, keyword):
