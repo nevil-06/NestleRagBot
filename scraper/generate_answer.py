@@ -1,81 +1,85 @@
+import os
+import json
 from openai import OpenAI
-
-import os, json
-from graph_rag_retrieve import graph_reranked_top_products
 from dotenv import load_dotenv
-from graph_rag_retrieve import get_structured_by_name  # make sure this is imported
-
-
-
 load_dotenv()
-
-# Make sure to set this in your environment
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+from graph_rag_retrieve import graph_reranked_top_products, get_structured_by_name
 
+  # Set this in your environment
 
 
 def build_prompt(query, top_products):
-    structured = json.load(open("data/structured_product_data.json"))
     context_blocks = []
+    structured = json.load(open("data/structured_product_data.json"))
 
     for i, (score, meta) in enumerate(top_products):
-        # ✅ Pull full structured data
         product_struct = get_structured_by_name(meta["product_name"], structured)
         features = product_struct.get("features_benefits", "").strip()
         ingredients = product_struct.get("ingredients", "").strip()
 
-        # ✅ Build each product block
-        context_blocks.append(f"""
-    Product #{i+1}:
-    Name: {meta['product_name']}
-    Brand: {meta['brand']}
-    Category: {meta['category']}
-    Features: {features or 'N/A'}
-    Ingredients: {ingredients or 'N/A'}
-    URL: {meta['url']}
-    """)
+        # Grab only the first sentence of the feature as a short description
+        short_desc = (
+            features.split(".")[0].strip() if features else "No description available"
+        )
 
+        context_blocks.append(
+            f"""
+[{i+1}] {meta['product_name']}
+URL: {meta['url']}
+Brand: {meta['brand']}
+Category: {meta['category']}
+Features: {short_desc}
+Ingredients: {ingredients or 'N/A'}
+"""
+        )
 
     context = "\n".join(context_blocks)
 
     system_prompt = """
-You are an expert and helpful assistant on Nestlé products. Be concise, friendly, and informative.
-If the user's question is about ingredients, health, flavors, or comparisons, answer using only the products provided.
+You are a friendly expert on Nestlé products. When answering the user's question:
 
-At the end of your answer, suggest 3 interesting follow-up queries based on what the user might want to know next.
+- Start with a concise and helpful summary.
+- Then list the top 3 matching products like this:
+
+  1. Product Name – short description.
+     [1] View Product →
+
+- Use the [1], [2], etc. references to match the right product.
+- End the answer with a friendly section:
+  "You might also be interested in:"
+  followed by 3 smart follow-up searches.
+
+Be accurate and helpful. Never make up ingredients or benefits.
 """
 
     user_prompt = f"""
-Here are the top related Nestlé products based on the user query:
+Here are the top 3 matched Nestlé products:
 
 {context}
 
 User question: "{query}"
 
-Answer the question using the information above. Then suggest 3 search prompts.
+Answer using the format above.
 """
 
     return system_prompt.strip(), user_prompt.strip()
 
 
 def generate_answer(query):
-    # Get top 3 product tuples (score, metadata)
     top_products = graph_reranked_top_products(query, return_data=True)
-
     system, user = build_prompt(query, top_products)
 
     print("🧠 Sending to LLM...\n")
 
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": user},
-        ],
-        temperature=0.7,
-        max_tokens=600,
-    )
+    response = client.chat.completions.create(model="gpt-3.5-turbo",
+    messages=[
+        {"role": "system", "content": system},
+        {"role": "user", "content": user},
+    ],
+    temperature=0.7,
+    max_tokens=600)
 
     print("✅ Answer:\n")
     print(response.choices[0].message.content)
