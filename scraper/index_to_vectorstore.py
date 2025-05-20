@@ -1,5 +1,3 @@
-# index_to_vectorstore.py
-
 import os
 import json
 import faiss
@@ -21,8 +19,9 @@ def build_vector_index():
 
     texts = []
     metadata = []
+    seen_texts = set()
 
-    for product in products:
+    for product in tqdm(products, desc="📦 Processing products"):
         name = product.get("name", "")
         brand = product.get("brand", "")
         category = product.get("category", "")
@@ -35,8 +34,10 @@ def build_vector_index():
         ]
 
         for chunk_type, text in chunks:
-            if text.strip():
-                texts.append(text.strip())
+            clean_text = text.strip()
+            if clean_text and clean_text.lower() not in seen_texts:
+                seen_texts.add(clean_text.lower())
+                texts.append(clean_text)
                 metadata.append({
                     "chunk_type": chunk_type,
                     "product_name": name,
@@ -55,10 +56,10 @@ def build_vector_index():
     index.add(embeddings)
 
     faiss.write_index(index, INDEX_FILE)
-    with open(METADATA_FILE, "w") as f:
+    with open(METADATA_FILE, "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2)
 
-    print(f"✅ Indexed {len(texts)} chunks across {len(products)} products")
+    print(f"\n✅ Indexed {len(texts)} unique chunks from {len(products)} products")
 
 if __name__ == "__main__":
     build_vector_index()

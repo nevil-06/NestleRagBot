@@ -4,12 +4,13 @@ import os
 import json
 from openai import OpenAI
 from dotenv import load_dotenv
+
 load_dotenv()
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-from graph_rag_retrieve import graph_reranked_top_products, get_structured_by_name
+from .graph_rag_retrieve import graph_reranked_top_products, get_structured_by_name
 
-  # Set this in your environment
+# Set this in your environment
 
 
 def build_prompt(query, top_products):
@@ -75,16 +76,19 @@ def generate_answer(query):
 
     print("🧠 Sending to LLM...\n")
 
-    response = client.chat.completions.create(model="gpt-3.5-turbo",
-    messages=[
-        {"role": "system", "content": system},
-        {"role": "user", "content": user},
-    ],
-    temperature=0.7,
-    max_tokens=600)
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+        temperature=0.7,
+        max_tokens=600,
+    )
 
-    print("✅ Answer:\n")
-    print(response.choices[0].message.content)
+    # print("✅ Answer:\n")
+    # print(response.choices[0].message.content)
+    return response.choices[0].message.content
 
 
 if __name__ == "__main__":
