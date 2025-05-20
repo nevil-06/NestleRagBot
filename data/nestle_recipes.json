@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Nescafé Iced Dalgona Coffee",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-iced-dalgona",
+    "description": "Treat yourself with this delicious twist on iced coffee! Our dalgona coffee recipe is easily made in 3 quick steps, then you can sit back, relax and enjoy",
+    "image": "/sites/default/files/2025-04/nescafe-dalgona-coffee.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Iced Coconut Latte",
+    "url": "https://www.madewithnestle.ca/recipe/iced-coconut-latte-nescafe",
+    "description": "A chilled tropical latte, sweetened with cane sugar",
+    "image": "/sites/default/files/2025-04/coconut-latte-recipe.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Espresso Martini",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-espresso-martini",
+    "description": "This deliciously creamy espresso martini is the perfect mocktail to bond over.",
+    "image": "/sites/default/files/2025-05/nescafe-martini-espresso.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Carnation Hot Chocolate Mocha Sphere",
+    "url": "https://www.madewithnestle.ca/recipe/carnation-hot-chocolate-mocha-sphere",
+    "description": "Unleash your inner chocolatier and have a blast preparing these indulgent treats. As you melt open the chocolate shell, be prepared to discover a hidden treasure of mini marshmallows, perfectly blended with the richness of Carnation Hot Chocolate and your favourite Nescafé. These mocha spheres offer a special moment to cozy up and treat yourself to a comforting and heavenly chocolatey experience.",
+    "image": "/sites/default/files/2024-10/Mocha-Sphere.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Mexican Hot Chocolate",
+    "url": "https://www.madewithnestle.ca/recipe/mexican-hot-chocolate",
+    "description": "Our Mexican Hot Chocolate recipe combines the smooth and creamy texture of Carnation Hot Chocolate with a subtle kick of cayenne pepper and the comforting warmth of cinnamon. Whether you're seeking a cozy treat on a chilly evening or looking to add a touch of excitement to your hot chocolate routine, our Mexican Hot Chocolate recipe is the perfect choice. Grab your favorite mug and prepare to savour every sip.",
+    "image": "/sites/default/files/2024-10/Mexican-hot-Choc.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  }
+]

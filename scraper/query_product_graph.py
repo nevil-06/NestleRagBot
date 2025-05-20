@@ -1,3 +1,5 @@
+# query_product_graph.py
+
 import pickle
 import networkx as nx
 
