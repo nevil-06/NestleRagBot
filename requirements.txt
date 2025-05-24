@@ -4,3 +4,6 @@ openai
 python-dotenv
 faiss-cpu
 sentence-transformers
+bs4
+fake_useragent
+lxml

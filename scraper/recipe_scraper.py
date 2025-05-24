@@ -55,7 +55,7 @@ while True:
     time.sleep(1)
 
 # Save to JSON
-with open("nestle_recipes.json", "w", encoding="utf-8") as f:
+with open("data/nestle_recipes.json", "w", encoding="utf-8") as f:
     json.dump(all_recipes, f, ensure_ascii=False, indent=2)
 
-print(f"\n✅ Saved {len(all_recipes)} recipes to 'nestle_recipes.json'")
+print(f"\n✅ Saved {len(all_recipes)} recipes to 'data/nestle_recipes.json'")

@@ -1,5 +1,3 @@
-# extract_product_links.py
-
 import os
 import json
 import time
@@ -14,6 +12,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+MAX_PAGES_PER_BRAND = 10  # 🧠 Limit to avoid infinite scraping
+
 def extract_product_links():
     with open(INPUT_FILE) as f:
         nav_data = json.load(f)
@@ -27,7 +27,7 @@ def extract_product_links():
         print(f"\n🔎 Scraping brand: {brand} under {category}")
 
         page_num = 0
-        while True:
+        while page_num < MAX_PAGES_PER_BRAND:
             paged_url = f"{base_url}?page={page_num}" if page_num > 0 else base_url
             print(f"   🔄 Page {page_num + 1}: {paged_url}")
             res = requests.get(paged_url, headers=HEADERS)
@@ -61,6 +61,9 @@ def extract_product_links():
 
             page_num += 1
             time.sleep(1)
+
+        if page_num >= MAX_PAGES_PER_BRAND:
+            print(f"   ⏭️ Reached page limit ({MAX_PAGES_PER_BRAND}) — skipping to next brand")
 
     os.makedirs("data", exist_ok=True)
     with open(OUTPUT_FILE, "w") as f:

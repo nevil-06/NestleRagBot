@@ -168,5 +168,2410 @@
     "category": "Chocolate & Treats",
     "brand": "Aero",
     "product_url": "https://www.madewithnestle.ca/aero/aero-peppermint-multipack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-mega-cold-brew"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-easter-hide-me-chocolate-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-double-double-wafer-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-double-double-king"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-frozen-dessert-bars"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-50-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-pops-carton-70g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-pops-pouch-170g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-minis-classic"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-minis-double-double-pouch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-juniors-treat-size"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-mini-wafer-bars"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-halloween-25ct-box"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "COFFEE CRISP",
+    "product_url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-tablet-salted-caramel"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-tablet-hazelnut"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-classic-tablet"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-chunky-peanut-butter-mega-size"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-nhl-chocolate-hockey-stick"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-mega"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-chunky-extreme-choc-wafer-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-chunky-rolo-wafer-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-chunky-drumstick"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-chunky-milk-chocolate-wafer-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/nestle-kitkat-chocolate-easter-bunny-gift-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-aero-minis"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-easter-break-chocolate-and-wafer-bunnies-12-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-milk-chocolate-easter-bunny"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/kitkat-easter-break-bunny"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-easter-break-bunny"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-smarties"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-4-x-45-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kitkat/kit-kat-chunky"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-4-finger-wafer-bar-milk-chocolate"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-hazelnut"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-snacks-pouch-170-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-milk-chocolaty-snacks-carton-70-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kitkat-valentine-30-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-lovers-minis-individually-wrapped"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kitkat/kitkat-chunky-minis"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-minis-pantry-size-pouch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-single-bars-frozen-dessert"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-ice-cream-bars"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-holiday-santa-chimney"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-christmas-holiday-advent-calendar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-hockey-holidays-nhl-advent-calendar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-holiday-cabin-kit"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/kitkat-festive-friends"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Kit Kat",
+    "product_url": "https://www.madewithnestle.ca/holiday-favourites/kitkat-holiday-milk-santa-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-dark-mint-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-classic-mint-thins"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-strawberry-mint-thins"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/holiday-favourites/after-eight-orange"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-skyline-tin"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-straws"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-giftbox-trio"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "After Eight",
+    "product_url": "https://www.madewithnestle.ca/after-eight/after-eight-advent-calendar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Big Turk",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Crunch",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Drumstick bites",
+    "product_url": "https://www.madewithnestle.ca/drumstick-bites/drumstick-bites-milk-chocolatey-cones"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Drumstick bites",
+    "product_url": "https://www.madewithnestle.ca/drumstick-bites/drumstick-bites-dark-chocolatey-cones"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/kit-kat-easter-hide-me-chocolate-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/aero/aero-hide-me-eggs-100g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-easter-hide-me-chocolate-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/aero/aero-easter-chocolate-lamb-5-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/aero/nestle-aero-novelty-bunny-94g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/nestle-kitkat-chocolate-easter-bunny-gift-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/smarties/nestle-smarties-chocolate-easter-bunny-gift-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-easter-break-chocolate-and-wafer-bunnies-12-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-milk-chocolate-easter-bunny"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/kitkat-easter-break-bunny"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-easter-break-bunny"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-egg-hunt-kit"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-45-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-chicken"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Easter chocolates and treats",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/smarties-easter-milk-chocolate-pack-30"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mackintosh Toffee",
+    "product_url": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-pieces"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mackintosh Toffee",
+    "product_url": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-tin"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mackintosh Toffee",
+    "product_url": "https://www.madewithnestle.ca/mackintosh-toffee/mackintosh-toffee-bars"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/crunch-pops"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/crunch-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complimentary-brands/big-turk-share-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/big-turk"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/complementary-brands/mirage-bar-4-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/nestle-buncha-crunch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Mirage",
+    "product_url": "https://www.madewithnestle.ca/crunch/crunch-chocolate-bar"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Quality Street",
+    "product_url": "https://www.madewithnestle.ca/quality-street/quality-street-small-tin"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Quality Street",
+    "product_url": "https://www.madewithnestle.ca/quality-street/quality-street-holiday-gift-tin"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Quality Street",
+    "product_url": "https://www.madewithnestle.ca/quality-street/quality-street-holiday-gift-box"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Quality Street",
+    "product_url": "https://www.madewithnestle.ca/quality-street/quality-street-tin"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Quality Street",
+    "product_url": "https://www.madewithnestle.ca/quality-street/quality-street-bag"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Rolo",
+    "product_url": "https://www.madewithnestle.ca/rolo/rolo-0"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Rolo",
+    "product_url": "https://www.madewithnestle.ca/rolo/rolo-mini-0"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Rolo",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties-birthday-cake"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-mini-candy-coated-milk-chocolate"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-0"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/nestle-smarties-carton-25"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/nestle-smarties-chocolate-easter-bunny-gift-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/assorted-hide-me-eggs"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-203g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-multipack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/easter-chocolate-assorted-hide-me-eggs-pouch"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-45-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-strawberry"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-130-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-203-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-pops-smarties"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-candy-coated-milk-chocolate-1-kg"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-share-size-candy-coated-milk-chocolate"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/nestl%C3%A9-smarties-multipack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-valentines-treat-size-0"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-egg-hunt-kit"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-45-g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-easter-chocolate-chicken"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/easter-chocolates-and-treats/smarties-easter-milk-chocolate-pack-30"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-25-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-50-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/prepared-canada/assorted-minis-carton-100-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/halloween/nestle-assorted-minis-carton-pack"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Smarties",
+    "product_url": "https://www.madewithnestle.ca/smarties/smarties-mini-ornaments-bag"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-share-bag-100g"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-holiday-gift-chocolates"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-classic-holiday-giftbox"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-share-bag"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-holiday-gift-box"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-classic-recipe-gift-box-carton"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-caramel-pecans-chocolate"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-mega"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-minis-classic"
+  },
+  {
+    "category": "Chocolate & Treats",
+    "brand": "Turtles",
+    "product_url": "https://www.madewithnestle.ca/turtles/turtles-assorted-holiday-gift-chocolates"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-gold-single-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-gold-wafer-flavoured-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/coffee-crisp-bars-frozen-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/rolo-cone-frozen-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kitkat-mini-bars-frozen-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/coffee-crisp-frozen-cone"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-cones"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/rolo-sundae-cones"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/kit-kat-frozen-double-crunch-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/christie%C2%AE-oreo%C2%AE-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/coffee-crisp/coffee-crisp-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/rolo-cones-frozen-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/rolo-1.5-l"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/kit-kat-1.5-l"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/smarties-1.5-l"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/cadbury%C2%AE-caramilk%C2%AE-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/coffee-crisp-1.5-l"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/christie-oreo-1.5-l"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/christie%C2%AE-oreo%C2%AE-sandwich-4-pack"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/lifesavers-ice-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/lifesavers-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/christie-oreo-sandwich-125-ml"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/confectionery-frozen-desserts/life-savers-0"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/ice-cream-frozen-desserts/life-savers-sweet-meets-sour-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kitkat-single-bars-frozen-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Confectionery Frozen Desserts",
+    "product_url": "https://www.madewithnestle.ca/kit-kat/kit-kat-ice-cream-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-strawberry-and-lemon-sorbet"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-tropical-mango-sorbet"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-raspberries-and-chocolate-gelato"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-mango-frozen-fruit-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-mixed-berry-peach-ice-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-strawberry-frozen-fruit-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Del Monte",
+    "product_url": "https://www.madewithnestle.ca/del-monte/del-monte-coconut-and-pineapple-frozen-dairy-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/vanilla-caramel-half-dipped-frozen-dessert-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/juicy-pops-mango-peach-cherry-flavoured-ice-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-vanilla"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/french-vanilla-frozen-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-chocolate-banana"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-butterscotch-sundae"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-chocolate"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-cookies-cream"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-heavenly-hash"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-maple-walnut"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-mint-chocolate-swirl"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-neapolitan"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-minis-fudge-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-minis-vanilla-sandwiches"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-fudge-bar"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-vanilla-ice-cream-sandwich"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-dipped-bars"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-assorted-cream-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-super-sandwich"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-super-fudge-bar"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-chocolate-twin-pops"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-strawberry-dessert"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Parlour",
+    "product_url": "https://www.madewithnestle.ca/parlour/parlour-vanilla-sandwich"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/real-dairy-maple-walnut"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/real-dairy-creme-brulee"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/real-dairy-50-less-fat-natural-vanilla"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/real-dairy-cherry"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/real-dairy-natural-vanilla"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/french-vanilla-premium-ice-cream"
+  },
+  {
+    "category": "Ice Cream & Frozen Treats",
+    "brand": "Real Dairy",
+    "product_url": "https://www.madewithnestle.ca/real-dairy/real-dairy-chocolate"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-liquid-seasoning-0"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-liquid-seasoning"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-hot-and-sweet-sauce"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-tamarina-sauce"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-chilli-masala-sauce"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-2-minute-noodles-masala"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-chicken-flavour-bouillon"
+  },
+  {
+    "category": "Meal Times Made Easy",
+    "brand": "MAGGI",
+    "product_url": "https://www.madewithnestle.ca/maggi/maggi-vegetable-bouillon"
+  },
+  {
+    "category": "Nutrition +",
+    "brand": "BOOST Kids",
+    "product_url": "https://www.madewithnestle.ca/boost/boost-kids-essentials-vanilla"
+  },
+  {
+    "category": "Nutrition +",
+    "brand": "BOOST Kids",
+    "product_url": "https://www.madewithnestle.ca/boost/boost-kids-fruit-essentials"
+  },
+  {
+    "category": "Nutrition +",
+    "brand": "BOOST Kids",
+    "product_url": "https://www.madewithnestle.ca/boost/boost-kids-essentials-chocolate"
+  },
+  {
+    "category": "Nutrition +",
+    "brand": "BOOST Kids",
+    "product_url": "https://www.madewithnestle.ca/boost/boost-kids-fruit-essentials-tropical"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-rich-creamy-hot-chocolate-canister"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-hot-chocolate-rich-creamy-canister"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-rich-and-creamy-hot-chocolate"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/light"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-rich-and-creamy-hot-chocolate-30-capsules"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-marshmallow-canister"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/marshmallow"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/turtles"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-variety-pack-hot-chocolate-carton"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Carnation Hot Chocolate",
+    "product_url": "https://www.madewithnestle.ca/carnation-hot-chocolate/carnation-aero-smores-hot-chocolate-carton"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesquik",
+    "product_url": "https://www.madewithnestle.ca/nesquik/nesquik-chocolate-syrup-700-ml"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesquik",
+    "product_url": "https://www.madewithnestle.ca/nesquik/nesquik-less-sugar-chocolate-syrup"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesquik",
+    "product_url": "https://www.madewithnestle.ca/nesquik/nesquik-chocolate-syrup-14-l"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesquik",
+    "product_url": "https://www.madewithnestle.ca/nesquik/nesquik-strawberry-syrup"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesquik",
+    "product_url": "https://www.madewithnestle.ca/nesquik/nesquik-chocolate-powder-540-g"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "GoodHost",
+    "product_url": "https://www.madewithnestle.ca/goodhost/good-host-original-0"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "GoodHost",
+    "product_url": "https://www.madewithnestle.ca/goodhost/goodhost-liq-water-enhancer-12x52m"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Milo",
+    "product_url": "https://www.madewithnestle.ca/milo/milo"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Milo",
+    "product_url": "https://www.madewithnestle.ca/milo/milo-0"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "NESTEA",
+    "product_url": "https://www.madewithnestle.ca/nestea/nestea-lemon-iced-tea-less-sugar"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "NESTEA",
+    "product_url": "https://www.madewithnestle.ca/nestea/nestea-green-tea-honey-lemon-liquid-water-enhancer"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "NESTEA",
+    "product_url": "https://www.madewithnestle.ca/nestea/nestea-original-lemon-iced-tea"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesfruta",
+    "product_url": "https://www.madewithnestle.ca/nesfruta/nesfruta-orange-peach-mango"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesfruta",
+    "product_url": "https://www.madewithnestle.ca/nesfruta/nesfruta-coconut-pineapple"
+  },
+  {
+    "category": "Quick-Mix Drinks",
+    "brand": "Nesfruta",
+    "product_url": "https://www.madewithnestle.ca/nesfruta/nesfruta-raspberry"
   }
 ]

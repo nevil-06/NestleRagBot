@@ -38,5 +38,2333 @@
     "image": "/sites/default/files/2024-10/Mexican-hot-Choc.jpg",
     "prep_time_mins": 5,
     "cook_time_mins": 0
+  },
+  {
+    "title": "Iced Kit Kat Whipped Hot Chocolate",
+    "url": "https://www.madewithnestle.ca/recipe/iced-kit-kat-whipped-hot-chocolate",
+    "description": "Indulge in the ultimate chocolate lover's dream with our decadent Kit Kat Whipped Hot Chocolate recipe. Sip, savour, and enjoy the blissful combination of creamy Carnation Hot Chocolate Whip Cream, rich and smooth Kit Kat spread, crunchy KitKat toppings and refreshing cold milk. Our Iced Kit Kat Whipped Hot Chocolate is the ultimate indulgence, perfect for any time of the year. Treat yourself to this delightful creation and let the flavours transport you to a world of chocolatey paradise.",
+    "image": "/sites/default/files/2024-10/Kitkat-Whipped-Choc.jpg",
+    "prep_time_mins": 3,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Decorated Carnation Hot Chocolate Mocha",
+    "url": "https://www.madewithnestle.ca/recipe/decorated-carnation-hot-chocolate-mocha",
+    "description": null,
+    "image": "/sites/default/files/2024-10/Decorated-Carnation-Hot-Chocolate-Mocha.png",
+    "prep_time_mins": 13,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Nescafé Caramel Latte",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-caramel-latte",
+    "description": "A rich, velvety caramel latte, with smooth, frothy milk and a hint of indulgent sweetness.",
+    "image": "/sites/default/files/2024-10/caramel_latte.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Iced Shaken Espresso",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-iced-shaken-espresso",
+    "description": "This smooth iced classic sweetened with vanilla extract is the ultimate pick-me-up.",
+    "image": "/sites/default/files/2024-10/Iced-Shaken-Espresso.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé French Vanilla Cappuccino",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-french-vanilla-cappuccino",
+    "description": "The classic cappuccino, infused with the delicate, slightly sweet flavour of vanilla. Enjoy every sip with flair.",
+    "image": "/sites/default/files/2024-10/French-Vanilla-Cappuccino.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Nescafé Maple Pecan Latte",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-maple-pecan-latte",
+    "description": "Our maple pecan latte recipe combines sweet and nutty flavours for a delicious taste experience - not to mention it's super simple to make too!",
+    "image": "/sites/default/files/2024-10/maple-pecan-latte.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Iced Caramel Macchiato",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-iced-caramel-macchiato",
+    "description": "A chilled favourite of rich coffee sweetened with caramel. Oh so refreshing!",
+    "image": "/sites/default/files/2024-10/Iced-Caramel-Latte-Macchiato.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Shaken Brown Sugar Iced Latte",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-shaken-brown-sugar-iced-latte",
+    "description": "Elevate your iced coffee with toasty notes of brown sugar and cinnamon.",
+    "image": "/sites/default/files/2024-10/Shaken-Brown-Sugar-Iced-Latte.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Vietnamese Iced Coffee",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-vietnamese-iced-coffee",
+    "description": "A robust Vietnamese style iced coffee with the bold taste you love, stirred with condensed milk and served with ice.",
+    "image": "/sites/default/files/2024-10/Vietnamese-Iced-Coffee-resized.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Nescafé Iced Pumpkin Spice Latte",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-iced-pumpkin-spice-latte",
+    "description": "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "image": "/sites/default/files/2024-10/Nescafe%20Iced%20Pumpkin%20Spiced%20Latte.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nescafé Flat White",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-flat-white",
+    "description": "Open up the possibilities of your day with this cozy recipe.",
+    "image": "/sites/default/files/2024-10/Nescafe%20Flat%20White.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": null
+  },
+  {
+    "title": "AERO and TURTLES Bite Size Chocolate Pecan Rugelach",
+    "url": "https://www.madewithnestle.ca/recipe/aero-and-turtles-bite-size-chocolate-pecan-rugelach",
+    "description": "Deriving from the Yiddish word meaning “little twists,” these delicious bite-size cookies are traditionally served during Hanukkah, and can be made with dried fruit, nuts, jams or, as in this recipe, chocolate! Aero and chocolate add decadence and delight to this holiday favourite",
+    "image": "https://images.aws.nestle.recipes/original/361d5cc19a3581f8f5b8aa8f3aacea81_chocolate_pecan_rugelach-027-960x640-_low_res.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "German Lebkuchen",
+    "url": "https://www.madewithnestle.ca/recipe/german-lebkuchen",
+    "description": "Lebkuchen, sometimes called Pfefferkuchen, is a German treat somewhat similar to gingerbread. These soft, moist and nutty cookies have become a part of Germany’s Christmas traditions. Try these honey-sweetened cookies made with NESTLÉ CLASSIC Semisweet Chocolate, almonds, cloves and nutmeg.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/a2a5db65c46b0532ff45ded59239ee3f_lebkuchen-receitas-nestle.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Classic Filipino Silvana Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/classic-filipino-silvana-cookies",
+    "description": "Silvanas, originated from the Philippines. This absolute classic Filipino sweet treat is a frozen sandwich cookies that includes a cashew meringue, rich buttercream and cookie crumb coating.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/48e8c3d47ed2cf97a69fce47387d0ef6_silvanas.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 40
+  },
+  {
+    "title": "S. PELLEGRINO Chatpati Shikanji",
+    "url": "https://www.madewithnestle.ca/recipe/s-pellegrino-chatpati-shikanji",
+    "description": "Add a special sparkle to your Diwali celebrations with S.PELLEGRINO Naturali Limonata Chatpati Shikanji! Treat yourself and your guests to this zesty mix of ginger, mint, spice and lemon that will linger on your palate sip after sip. S. Pellegrino Limonata enhances this drink with its refreshing and bright flavours made with carefully selected Sicilian lemons.",
+    "image": "https://images.aws.nestle.recipes/original/2b57b6237e2215e5414c0598fb5646da_san_pell_horizontal_mwn_final.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "MAGGI Biryani Noodles Recipe",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-biryani-noodles-recipe",
+    "description": "Biryani or your favourite MAGGI Masala Noodles? Now you don't have to choose. This epic MAGGI Noodles Biryani Recipe combines your favourite 2-Minute Masala Noodles with a Biryani twist. Packed with lots of vegetables and aromatic spices, this easy and delicious meal will be a hit with the whole family. It can be served at home for everyday cooking or for special occasions like holidays and celebrations.",
+    "image": "https://images.aws.nestle.recipes/original/9347c1a6cfafc5b077fbe85efe630b8a_a42i0655.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 40
+  },
+  {
+    "title": "KIT KAT Spiked Hot Chocolate",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-spiked-hot-chocolate",
+    "description": "Hot chocolate on its own is great. But hot chocolate + KIT KAT and coffee liqueur, now that's just unfair.",
+    "image": "https://images.aws.nestle.recipes/original/40bcb80ad10e39824e10385d305784d4_kk_dec_hotchoo_gingerbread.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Cereal Clusters",
+    "url": "https://www.madewithnestle.ca/recipe/cereal-clusters",
+    "description": "This easy to make recipe is an amazing afternoon treat or fun, on-the-go snack.",
+    "image": "https://images.aws.nestle.recipes/original/4b1305221dcf39ac839169ed1d1cd772_cerealclusters_carousel_960x640.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Hidden Veggie Orange Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/hidden-veggie-orange-smoothie",
+    "description": "Tired of dipping carrots in hummus? Get some carrots in by adding this amazing smoothie to your breakfast - made with carrot-orange juice, banana, yogurt and of course, BOOST.",
+    "image": "https://images.aws.nestle.recipes/original/8464d07cc9284d73d0a38eb417ba86f5_hiddenveggieorangesmoothie_carousel_960x640.jpg",
+    "prep_time_mins": 2,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "TURTLES Eggnog Fudge",
+    "url": "https://www.madewithnestle.ca/recipes/turtles-eggnog-fudge",
+    "description": "When you combine two holiday favourites, do you get a favourite, favourite?",
+    "image": "https://images.aws.nestle.recipes/original/dfaee27204e9e4320ee9ebcf547cdda6_turtles_eggnog_fudge.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "BOOST High Protein Banana Chocolate Buckwheat Pancakes",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-banana-chocolate-buckwheat-pancakes",
+    "description": "Buckwheat is an ancient grain packed with, vitamins, minerals and antioxidants and fibre. When combined with chocolate and bananas this snack packs a wallop of flavour.",
+    "image": "https://images.aws.nestle.recipes/original/232ebfa11692df160785dd2ed3b6be85_boost_high_protein_banana_chocolate_buckwheat_pancakes.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "BOOST Original Tropical Smoothie Pops",
+    "url": "https://www.madewithnestle.ca/recipes/boost-original-tropical-smoothie-pops",
+    "description": "Tropical fruits make these into exotic and refreshing pops, perfect for a hot summer day.",
+    "image": "https://images.aws.nestle.recipes/original/1457dd99f8279568e796aeb29594b912_boost_original_tropical_smoothie_pops.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Canadian SMARTIES Cookies",
+    "url": "https://www.madewithnestle.ca/recipes/original-smarties-cookies-recipe",
+    "description": "Did you know that SMARTIES are a Canadian-centered confectionery product? Try these yummy, chocolatey Canadian Cookies! A treat kids of all ages will love.",
+    "image": "https://images.aws.nestle.recipes/original/b8116aa764bb34acdaaa3e63ecb83991_the_original_smarties_cookies_recipe.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 9
+  },
+  {
+    "title": "Vegan Sensational Samosas",
+    "url": "https://www.madewithnestle.ca/recipe/vegan-sensational-samosas",
+    "description": "These delicious vegan samosas are the perfect snack or  starters for your Indian-inspired dinner menu. These savoury goodies are sure to become your next party favourite - enjoy for Diwali or any day of the week!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/d3a7436e15d15deac6c55ef565282e23_210525_gg_travel_indian-samosa-with-mince.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Orange scented Gulab Jamun",
+    "url": "https://www.madewithnestle.ca/recipe/orange-scented-gulab-jamun",
+    "description": "Gulab jamun is an Indian dessert of fried dough balls that are soaked in a sweet, sticky sugar syrup. As per tradition, the syrup has a delicate rose flavour: Gulab means 'rose water' and jamun refers to a berry of a similar size and colour.Try making this delicious orange scented Gulab Jamun and elevate your next dinner party.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/14f6fa5c9f8cc85065f6c0ef7f02e10b_nestle_eid_recipe__web_orange_scented_gulab_jamun.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Dulce de Leche",
+    "url": "https://www.madewithnestle.ca/recipe/dulce-de-leche",
+    "description": "This simple sauce makes practically everything better. Actually, it makes everything better.",
+    "image": "https://images.aws.nestle.recipes/original/7685b48fabfa54e6f8b6d3aa2e2c510e_Dulce_de_Leche.jpg",
+    "prep_time_mins": 2,
+    "cook_time_mins": 60
+  },
+  {
+    "title": "Crispy Chocolate Banana Pecan Rice Bars",
+    "url": "https://www.madewithnestle.ca/recipe/crispy-chocolate-banana-pecan-rice-bars",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/a64343a1adcbebdaae0a8596fa2a307c_crispy_chocolate_banana_pecan_rice_bars[1].jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "BOOST High Protein Strawberry Sesame Smoothie",
+    "url": "https://www.madewithnestle.ca/protein-strawberry-smoothie",
+    "description": "Sesame gives this breakfast smoothie an exotic taste with tangy fresh strawberry flavour from the Boost.",
+    "image": "https://img.youtube.com/vi/M2MVy6BfM5w/hqdefault.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein Berry Smoothie Bowl",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-berry-smoothie-bowl",
+    "description": "A delicious, fruity snack featuring the complete nutrition of BOOST!",
+    "image": "https://images.aws.nestle.recipes/original/ee0dd59e091facae712cd408432e2d55_BOOST_High_Protein_Berry_Smoothie_Bowl.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "CARDAMOM DONUTS WITH VANILLA BEAN ICE CREAM",
+    "url": "https://www.madewithnestle.ca/recipe/cardamom-donuts-vanilla-bean-ice-cream",
+    "description": "Did anyone say ice cream?! These cardamon donuts are taken to the next level with Haagen Dazs flavoured vanilla bean ice cream. Once the donuts are done they are drizzled with honey for an epic bite sure to knock your socks off. For extra flavour, sprinkle cinnamon and cardamon on the ice cream, yum!",
+    "image": "https://images.aws.nestle.recipes/original/df439cec4b358fc90b6a8449cbc2e60b_hdz-cardamom-vanilla-donuts.png",
+    "prep_time_mins": 8,
+    "cook_time_mins": 9
+  },
+  {
+    "title": "Green Monster Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/green-monster-smoothie",
+    "description": "Morning can be a monster, but it doesn’t have to be, by adding this easy recipe to your breakfast made with kale and BOOST® Nutrition Powder.",
+    "image": "https://images.aws.nestle.recipes/original/987cc8d9dd6b2d69a8be0857af9e4eae_greenmonstersmoothie.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Grilled Kofta from the Middle East",
+    "url": "https://www.madewithnestle.ca/recipe/grilled-kofta-middle-east",
+    "description": "Bring the family together and enjoy the delicious taste of grilled kofta prepared with Maggi BBQ Seasoning for a quick and simple recipe you can cook in no time!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/704e77b4907727287a1e3b8cb6b63343_grilled-kofta.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Chingri Malai Curry from India",
+    "url": "https://www.madewithnestle.ca/recipe/chingri-malai-curry-india",
+    "description": "A conversation about traditional Bengali cuisine can never be complete without Chingri-Malai Curry! ‘Chingri’ means prawn and ‘Malai’ means cream, but it’s the coconut milk in this recipe that gives it the creaminess and smooth texture. So, if you love seafood and are in the mood to have something delicious, this is a recipe you need to try!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/2164af6420e3e789a09a82021f352f86_A42I9916.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "Besan Laddoo (Besan ke laddu)",
+    "url": "https://www.madewithnestle.ca/recipe/besan-laddoo-besan-ke-laddu",
+    "description": "Besan laddoo (Besan ke laddu)  is a popular sweet dish made of besan (chickpea flour or gram flour), sugar, and ghee. The secret of these irresistible sweet balls full of flavor lies in the careful preparation of the right ingredients. Besan laddoos are often served during religious festivals. Try them for Diwali!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/6d1a173d397da166c8b37684730fcc4f_dsc09936.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 16
+  },
+  {
+    "title": "Mawa Kheer",
+    "url": "https://www.madewithnestle.ca/recipe/mawa-kheer",
+    "description": "Similar to rice pudding and sprinkled with raisins, almonds, and cashews, this decadent treat, often made for special occasions such as Ramadan, Holi or Diwali, makes a great special pudding any time. Try this Mawa Kheer recipe and discover an easy and quick dessert to impress your friends and family at home.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/d493abf0b253ee76ec8f24e14e688868_nestle_eid_recipe__web_mawa_kheer.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Coconut Meatball Curry made with MAGGI",
+    "url": "https://www.madewithnestle.ca/recipe/coconut-meatball-curry-made-maggi",
+    "description": "Packed with hidden veggies, this curry-inspired one-pot dish is perfect for big-batch cooking to keep you fuelled for the week! Coconut milk powder provides creaminess that perfectly balances the warm spice of curry paste and the hot and sweet chili sauce.",
+    "image": "https://images.aws.nestle.recipes/original/333ad62df5940dab69296477ba4ec6fa_coconut_meatball_curry-025-960x640.jpg",
+    "prep_time_mins": 40,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "Vegan Pride Rainbow Toppings Pizza",
+    "url": "https://www.madewithnestle.ca/recipe/vegan-pride-rainbow-toppings-pizza",
+    "description": "Celebrate Pride with this tasty vegan rainbow recipe! A simple, colorful and fun recipe that everyone will love.",
+    "image": "https://images.aws.nestle.recipes/original/8d889e658517ed2403a098ba4bd57d48_210429_gg_ukfop_gif_pizza_opbouw_v2014_(1).jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "NESQUIK Vanilla Northern Doughnuts",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-vanilla-northern-doughnuts",
+    "description": "A classic, these doughnuts are a dining table staple in many Indigenous communities. Finished with cinnamon and sugar, or paired with a tart Indigenous-inspired Wojapi Sauce, these doughnuts are perfect for a snack or dessert. For reducing food waste –donut holes can be fried separately to create delicious bite-size pieces!",
+    "image": "https://images.aws.nestle.recipes/original/ac00dfc9f3d1ecbc6f837afe7a9fa486_northern_doughnuts_or_traditional_inuvik_doughnuts-068_16x9.jpg",
+    "prep_time_mins": 45,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Savory Breakfast Belizean Fry Jacks",
+    "url": "https://www.madewithnestle.ca/recipe/savory-breakfast-belizean-fry-jacks",
+    "description": "Similar to beignets from New Orleans, these delicious pieces of fried dough are a popular staple in Belize, as well as throughout the Caribbean and Latin America. Commonly enjoyed for breakfast as fuel for the day ahead, fry jacks can be eaten sweet or savoury depending on the accompanying toppings and condiments.",
+    "image": "https://images.aws.nestle.recipes/original/cd390e2788f2131039a104c7b1fe9c66_belizean_fry_jacks-037-960x640.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 260
+  },
+  {
+    "title": "KitKat Almond Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-almond-cookies",
+    "description": "Almond cookies are acherished part of LunarNew Year as they areconsidered a symbol of goodfortune. We add a chocolateyKitKat crunch to our recipe,ensuring happiness allaround!This easy recipe bakes updelicious almond scentedcookies with a golden cracklyshell and soft, crumblyinterior, topped off with apiece of our irresistible KitKatMinis!",
+    "image": "https://images.aws.nestle.recipes/original/c3228db66d502a4ea4f338efce210559_1080x1080.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "NESQUIK Strawberry Gulabo",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-strawberry-gulabo",
+    "description": "This Diwali, mix it up with the creamy texture and luscious flavour of Nesquik Strawberry Gulabo! Let this recipe be the highlight of your festivities, bringing a burst of flavour, vibrant colour and a touch of sweetness to your celebrations. Enjoy every sip of these aromatic flavours including strawberry, cardamom and rosewater and share the joy of with your loved ones.",
+    "image": "https://images.aws.nestle.recipes/original/bd1c265beace2eb674142c36d6ef46c5_nesquik_gulabo-_website-_sept_29.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Cranberry Fusion Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/cranberry-fusion-smoothie",
+    "description": "Combine light cran-raspberry juice with BOOST and enjoy how good this Cranberry Fusion smoothie can taste.",
+    "image": "https://images.aws.nestle.recipes/original/56f27209d498cc7f641eaadfd2db6454_cranberryfusionsmoothie_carousel_916x636.jpg",
+    "prep_time_mins": 2,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Chocolate Chip Banana Bread with Baking Bits",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-chip-banana-bread-baking-bits",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/b008601cccded9bc78548585b332215a_bananabread_bb.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 55
+  },
+  {
+    "title": "MAGGI Masala Chilli Chatpata Chicken",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-masala-chilli-chatpata-chicken",
+    "description": "A delicious way to break your fast at Iftar, this easy recipe comes together very quickly and tastes great with warm naan!",
+    "image": "https://images.aws.nestle.recipes/original/2a20f85e0df5537888b87844b99681c2_maggi_chicken_2.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 8
+  },
+  {
+    "title": "MAGGI Bouillon Three Sisters Soup",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-bouillon-three-sisters-soup",
+    "description": "“Three Sisters” refers to the main ingredients used by the Mohawk, Oneida, Onodaga, Cayuga, Seneca and  Tuscarora First Nations. This hearty, delicious meal is comprised primarily of – corn, beans, and squash – and the traditional methods used to cultivate these crops in a sustainable and productive way. This balanced soup is packed with healthy carbs, protein, and fibre, and is a culinary celebration of Indigenous cultures.",
+    "image": "https://images.aws.nestle.recipes/original/014fee1a9d69ffe0795fed3497cffba6_three_sisters_soup-044_960x640.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "BOOST High Protein Strawberries and Cream Overnight Oats",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-strawberries-and-cream-overnight-oats",
+    "description": "Start your morning with ease when you prepare these tasty oats, packed with protein from the night before.",
+    "image": "https://img.youtube.com/vi/15tPe-oXWDk/hqdefault.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "TURTLES Pumpkin Mug Cake",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-pumpkin-mug-cake",
+    "description": "What’s better than having a TURTLES-pumpkin cake all to yourself? This recipe is here to make your dream come true.",
+    "image": "https://images.aws.nestle.recipes/original/83faa959ed3b78174b599fffed45a03d_turtles_pumpkin_mug_cake.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "COFFEE CRISP Canada Day Birthday Shot",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-crisp-canada-day-birthday-shot",
+    "description": "What better way to say cheers for Canada’s 150th than with your favourite Canadian wafer bar? Wow your guests with this quick and easy recipe!",
+    "image": "https://images.aws.nestle.recipes/original/099b02f2fc8292b9a65bf039c5c75637_coffeecrispshotsbarshorz_resized.png",
+    "prep_time_mins": 4,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Meringue Sandwiches With Pineapple Coconut Ice Cream",
+    "url": "https://www.madewithnestle.ca/recipe/meringue-sandwiches-pineapple-coconut-ice-cream",
+    "description": "Delightful mini meringues served with sweet and refreshing pineapple coconut ice cream.",
+    "image": "https://images.aws.nestle.recipes/original/ff1ba80ec8bf015ec162cbe336210021_hdz-pineapple-coconut-meringue.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 120
+  },
+  {
+    "title": "Peanut Butter Soy Shake",
+    "url": "https://www.madewithnestle.ca/recipe/peanut-butter-soy-shake",
+    "description": "Peanut butter transforms a simple vanilla shake into a nutty treat everyone will love.",
+    "image": "https://images.aws.nestle.recipes/original/ba620e707997fe16fa8b15425b5377a7_cbe_peanut_butter_smoothie.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Peanut Butter Soft Serve",
+    "url": "https://www.madewithnestle.ca/recipe/peanut-butter-soft-serve",
+    "description": "This recipe has all your favourite flavours in one. We even packed it with vitamins and minerals so you like it even more.",
+    "image": "https://images.aws.nestle.recipes/original/70f1b94290a6dd075dcac715a85aa64f_peanutbutterchocolatebananasoftserve_carousel_960x640.jpg",
+    "prep_time_mins": 7,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Chocolate Orange Quinoa Parfait",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-orange-quinoa-parfait",
+    "description": "Tired of making the same old breakfast? Look no further. This fun recipe brings together so many flavours and is packed with added nutrients. Try it today.",
+    "image": "https://images.aws.nestle.recipes/original/f680dfa2c326736394a11425be42bcd1_chocolateorangequinoaparfait_carousel_960x640.jpg",
+    "prep_time_mins": 7,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Cinnamon Spice Popcorn Mix",
+    "url": "https://www.madewithnestle.ca/recipe/cinnamon-spice-popcorn-mix",
+    "description": "Make movie night even better with BOOST Popcorn Toss. It’s popcorn with a rich, chocolate twist.",
+    "image": "https://images.aws.nestle.recipes/original/a56d4ace2fb28e2dae94865490183259_cinnamonspicepopcornmix_carousel_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein Homemade Toaster Waffles",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-homemade-toaster-waffles",
+    "description": "Pop these homemade waffles in the toaster on busy mornings. Boost® adds protein to help fight those mid-morning hunger pangs.",
+    "image": "https://images.aws.nestle.recipes/original/812d1a8faad4d5b218bd8d38be06aafe_BOOST_High_Protein_Homemade_Toaster_Waffles.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "BOOST Chocolate Mocha Energy Bars",
+    "url": "https://www.madewithnestle.ca/recipe/boost-chocolate-mocha-energy-bars",
+    "description": "These energy bars are a great breakfast pick-me-up and even have espresso powder for your morning hit of caffeine.",
+    "image": "https://images.aws.nestle.recipes/original/9e6691365a52bea5f8bece29d3fcd978_BOOST_Chocolate_Mocha_Energy_Bars.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Banana Supreme Shake",
+    "url": "https://www.madewithnestle.ca/recipes/banana-supreme-shake",
+    "description": "A delicious way to start your day!",
+    "image": "https://images.aws.nestle.recipes/original/73a9c620c93227171d39877d8c2522fb_banana_supreme_shake.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Mexican Chocolate Pops",
+    "url": "https://www.madewithnestle.ca/recipe/mexican-chocolate-pops",
+    "description": "This easy recipe is a great way to cool off with the perfect blend of chocolate flavour and spice.",
+    "image": "https://images.aws.nestle.recipes/original/e1af47327798a4be68497c9fc7abb21b_Mexican_Chocolate_Pops.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Homemade Naan from Mauritius",
+    "url": "https://www.madewithnestle.ca/recipe/homemade-naan-mauritius",
+    "description": "This recipe yields soft and fluffy homemade naan bread that will have you coming back for more!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/4aa20d9d60ddcfec5d0198f4fdb134e0_eid_nestle-recette-homemade-naan-final_1500x700px.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Oyster Asian-Style Salad (Chicken and Lettuce) from the Philippines",
+    "url": "https://www.madewithnestle.ca/recipe/oyster-asian-style-salad-chicken-and-lettuce-philippines",
+    "description": "A tantalizing Asian-inspired dish that you'll want to make again and again!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/61cbac128ded430f6a9e846b3c84dc7e_Oystar_Asian-Style_Salad_(Chicken_and_Lettuce)_.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "MAGGI Subz Mast Masala",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-subz-mast-masala",
+    "description": "A deliciously different way to prepare sabzi, our Subz Mast Masala makes dinner prep easy, thanks to MAGGI Tamarina Sauce and MAGGI Masala Chilli Sauce. You don’t have to add any masalas, just add your favourite vegetables to this spicy roasted medley and watch your family savour this vegetarian dish that is crispy, tasty, and mast all at once!",
+    "image": "https://images.aws.nestle.recipes/original/350f90e2c9b822f2488e61543b13875e_maggi_final.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "Raspberry Acai Frozen Yogurt Bark",
+    "url": "https://www.madewithnestle.ca/recipe/raspberry-acai-frozen-yogurt-bark",
+    "description": "Don’t expect to make this recipe just once. It’s about to become a household favourite, and goes great with your balanced breakfast",
+    "image": "https://images.aws.nestle.recipes/original/c050adf235c66742ffc30a055e2360b2_rasberryacaifrozenyogurtbark.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Coconut Acai Smoothie Bowl",
+    "url": "https://www.madewithnestle.ca/recipe/coconut-acai-smoothie-bowl",
+    "description": "Coconut? Yep. Acai? Uh-huh. Wholesome nutrition? Of course. You’ll find them all in our new Coconut Acai Smoothie Bowl made with BOOST Original Powder. This delicious and nutritious recipe makes a great addition to a balanced breakfast.",
+    "image": "https://images.aws.nestle.recipes/original/3c24b5e13e5462f2bff20a5a430bc128_coconutacaismoothiebowl_carousel_960x640.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Hidden Veggie Blueberry Protein Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/hidden-veggie-blueberry-protein-smoothie",
+    "description": "This recipe is packed with kale and spinach. Although you’d never guess it because of all the blueberry and French Vanilla flavour. Make this smoothie as a tasty add on to your breakfast",
+    "image": "https://images.aws.nestle.recipes/original/163609eaf1842e6cb51da4f7d655f2d2_v2hiddenveggieblueberryproteinsmoothie_hero_1400x960.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Latin American Alfajores - Caramel Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/latin-american-alfajores-caramel-cookies",
+    "description": "Alfajores are a traditional dulce de leche sandwich cookie found in many Latin American countries. These cookies typically made of flour, honey, and nuts can be found in Argentina, Bolivia, Chile, Colombia, Ecuador, Paraguay, Peru, the Philippines, Puerto Rico, Southern Brazil, Southern France, Spain, Uruguay, and Venezuela. These butter cookie sandwiches with a dulce de leche filling are divine! Caramelizing sweetened condensed milk gives the filling richness, and rolling the finished sandwich cookies in coconut and nuts makes them pretty.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/53235f6c2efaf907a94b8e6695390e6d_alfajores.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 12
+  },
+  {
+    "title": "Caribbean Rice and Peas made with MAGGI",
+    "url": "https://www.madewithnestle.ca/recipe/caribbean-rice-and-peas-made-maggi",
+    "description": "Originally descending from West African tribes, the rice and peas combination was adapted in the Caribbean and has become a delicious staple throughout the Caribbean, with recipes handed down from generation to generation. This versatile dish can be enjoyed throughout the day as a side for breakfast, lunch or dinner.",
+    "image": "https://images.aws.nestle.recipes/original/2b1435546d1cfce5eaa2234cc9275561_caribbean_rice_and_peas-031-960x640.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 83
+  },
+  {
+    "title": "One-Pot Hidden-Veggie Bolognese",
+    "url": "https://www.madewithnestle.ca/recipe/one-pot-hidden-veggie-bolognese",
+    "description": "A veggie-packed variation on the traditional Italian ragù, this Bolognese is a one-pot dish that’s great for making ahead and preparing in batches for busy weeknight dinners. Originally from the Emilia-Romagna region, “Bolognese” refers to a slow-cooked meat sauce that was first developed in Bologna, Italy. This recipe includes loads of hidden vegetables so you can enjoy comfort-food classics while still getting important nutrients!",
+    "image": "https://images.aws.nestle.recipes/original/9cc6ae1fc742c57c18f868309b15069e_one_pot_hidden_veggie_bolognese-024-960x640.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 55
+  },
+  {
+    "title": "Lemon Vanilla Citrus Salad",
+    "url": "https://www.madewithnestle.ca/recipe/lemon-vanilla-citrus-salad",
+    "description": "Stacked with vibrant, colourful layers, this mason-jar salad is sure to keep you satisfied. Loaded with nourishing ingredients, this recipe makes for a perfect balanced lunch or a portable summery side dish for dining al fresco.",
+    "image": "https://images.aws.nestle.recipes/original/7c33a07e676c6e6658f15b0dfe0d5518_lemon_vanilla_custard-014-960x640.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Quality Street Chocolate Coconut Kulfi",
+    "url": "https://www.madewithnestle.ca/recipe/quality-street-chocolate-coconut-kulfi",
+    "description": "These milky, sweet, and delicious frozen treats are sure please everybody’s taste buds! Add cardamom, chocolate, coconut or coffee for a little extra flavour.",
+    "image": "https://images.aws.nestle.recipes/original/860048f4da6d5eeadd38492c750051eb_chocolate_coconut_kulfi-027-960x640-_high_res.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "Rachel’s BOOST High Protein Berry Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/rachel%E2%80%99s-boost-high-protein-berry-smoothie",
+    "description": "Skip the morning muffin, and take on the day like a Rachel Homan with this protein-packed smoothie.",
+    "image": "https://images.aws.nestle.recipes/original/7e58a2b1bb2b7ed1ddf0e12c550fee42_rachel’s_boost_high_protein_berry_smoothie.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein PB&J Pancakes",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-pbj-pancakes",
+    "description": "Who can resist the classic duo of peanut butter and jam nestled into fluffy buttermilk pancakes? These high-protein breakfast stackers are sure to bring you lasting energy for a busy morning.",
+    "image": "https://images.aws.nestle.recipes/original/09d6fbf08db28690cf9d5a407252a6c1_boost_high_protein_pb&j_pancakes.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 16
+  },
+  {
+    "title": "BOOST Original Vanilla Raspberry Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/boost-original-vanilla-raspberry-smoothie",
+    "description": "Share with a friend for a breakfast treat or a delicious anytime snack.",
+    "image": "https://images.aws.nestle.recipes/original/0c161b93aa20da44f70c0c48a107380f_BOOST_Original_Vanilla_Raspberry_Smoothie.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein Vanilla-Berry Blast Smoothie",
+    "url": "https://www.madewithnestle.ca/protein-vanilla-berry-smoothie",
+    "description": "Perfect as a high-protein breakfast treat or a delicious anytime snack.",
+    "image": "https://images.aws.nestle.recipes/original/36d75a4d88033163080a9f130f967366_BOOST_High_Protein_Vanilla-Berry_Blast_Smoothie.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein Peanut Butter Cup Smoothie",
+    "url": "https://www.madewithnestle.ca/high-protein-smoothie",
+    "description": "Perfect as a high-protein breakfast treat or a delicious anytime snack.",
+    "image": "https://images.aws.nestle.recipes/original/aea05eaf0b21ca8a93bcf37ddef2a111_BOOST_High_Protein_Peanut_Butter_Cup_Smoothie.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "MILO Malt & Chocolate Maple Taffy",
+    "url": "https://www.madewithnestle.ca/recipe/milo-malt-chocolate-maple-taffy",
+    "description": "This delicious recipe is inspired by the Huron-Wendat’s (and other Indigenous communities) cultural use and understanding of maple trees, its sap, and the traditional methods of processing used to create one of Canada’s most loved and well-known condiment – maple syrup. This sweet and interactive snack is now a popular attraction at sugar shacks (or cabane à sucre) across the country during harvest season.",
+    "image": "https://images.aws.nestle.recipes/original/685bccd6ea597cccdd7b8705fa4fd6a1_malt_and_chocolate_maple_taffy-032_960x640_(2).jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "KIT KAT Seattle Strips",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-seattle-strips",
+    "description": "KIT KAT, bacon and avocado",
+    "image": "https://images.aws.nestle.recipes/original/b37a848c4280c96928f9a00a4cd9dc18_hero_kitkat_seattlestrips_recipe.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "KIT KAT Cowboy Crudité",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-cowboy-crudite",
+    "description": "Fancy to say, couldn’t be less fancy to make.",
+    "image": "https://images.aws.nestle.recipes/original/65c4e9ea9786a43877074ce24290baf4_herowebimage_1440x600_cowboycrudite.jpg",
+    "prep_time_mins": 1,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "PISTACHIO AND COCOA DUSTED PICCOLINOS",
+    "url": "https://www.madewithnestle.ca/recipe/pistachio-and-cocoa-dusted-piccolinos",
+    "description": "Bite-size chocolate ice cream bites with artisanal inspired dustings of pistachio and cocoa.",
+    "image": "https://images.aws.nestle.recipes/original/c07de3fb355ee2ad6a611983931d0d25_hdz-dark-choc-piccolinos.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Honey Yogurt Fruit Dip",
+    "url": "https://www.madewithnestle.ca/recipe/honey-yogurt-fruit-dip",
+    "description": "This simple and wholesome snack is a great alternative to breaking out the ice cream when you’re binge watching your new favourite show.",
+    "image": "https://images.aws.nestle.recipes/original/b2219a45b0aebdbe385b54b7d676a98b_honeyyogurtfruitdip_carousel_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein Mocha Fruit Dip",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-mocha-fruit-dip",
+    "description": "Serve with fresh fruits for a perfect post-workout snack, or bring to a party for a completely nutritious treat!",
+    "image": "https://images.aws.nestle.recipes/original/bdb34e21912aa57996dff4ff33af7a3a_high_protein_mocha_fruit_dip-021_copy_3.57.49_pm.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Gulab Jamun",
+    "url": "https://www.madewithnestle.ca/recipe/gulab-jamun",
+    "description": "This traditional dessert is the centre of attraction in every festival and occasion in India (especially Diwali). This delicious dessert is not just loved in India but also, in countries like Nepal, Myanmar, Pakistan, Bangladesh, and Mauritius.  This sweet dish is delicious and adds soul to any dessert platter - try this for your next celebration.",
+    "image": "https://images.aws.nestle.recipes/original/5c9107fb37a52f16ecadb5a30c3fcf52_gulab.PNG",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Tabbouleh Salad from the Middle East",
+    "url": "https://www.madewithnestle.ca/recipe/tabbouleh-salad-middle-east",
+    "description": "Tabbouleh is a classic Middle Eastern salad, punchy with parsley and mint; and in this case, finished with sweet and sour MEZEAST pomegranate sauce.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/d7274026cf2a3d4edcf1bd74f043e3c7_6.02_MEZEAST_Recipe_TABBOULEH_SRH.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Caramel Apple Ice Cream Muffins",
+    "url": "https://www.madewithnestle.ca/recipe/caramel-apple-ice-cream-muffins",
+    "description": "APPLES AND CARAMEL ICE-CREAM MUFFINS",
+    "image": "https://images.aws.nestle.recipes/original/9d0f1419f53cfbc7d4a4fbe905e57c04_tfg_haagendazs_dulce_muffins_066_copy.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "Chocolate Hazelnut and Pistachio Burfi",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-hazelnut-and-pistachio-burfi",
+    "description": "Burfi (also known as barfi) is a popular dessert that is commonly served to celebrate a special occasion, such as a wedding or gathering, and throughout the Diwali festival! This delicious, fudge-like dessert can be made with a variety of toppings and flavourings (such as nuts, spices and floral essences like rose water or saffron). This rendition is made with creamy coconut milk and studded with decadent chocolate for the ultimate holiday indulgence",
+    "image": "https://images.aws.nestle.recipes/original/be5225ccac29717236f19f2c2bbe55d9_chocolate_hazelnut_pistachio_burfi-029-960x6400-_low_res.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "DECONSTRUCTED BANANA BOAT S’MORES",
+    "url": "https://www.madewithnestle.ca/recipe/deconstructed-banana-boat-smores",
+    "description": "DECONSTRUCTED BANANA BOAT S’MORES",
+    "image": "https://images.aws.nestle.recipes/original/1f44aa73db6d4ec5e9bad594ceeb2996_s_mores-kit-(960x640-english).jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Tacos Al Pastor made with MAGGI",
+    "url": "https://www.madewithnestle.ca/recipe/tacos-al-pastor-made-maggi",
+    "description": "Tacos al pastor is a Mexican street-food staple that was created by Lebanese immigrants in the 1930s. Cooked on a Middle Eastern shawarma–style spit called a trompo, this recipe — spiked with chiles, adobo sauce and orange juice, and topped with pineapple and cilantro — has been adapted to be easily created in your own kitchen – no trompo required.",
+    "image": "https://images.aws.nestle.recipes/original/511e0ec8450cfb99a1bdf69c0fb56e34_tacos-al-pastor.png",
+    "prep_time_mins": 45,
+    "cook_time_mins": 140
+  },
+  {
+    "title": "Boost Mango Lassi",
+    "url": "https://www.madewithnestle.ca/recipe/boost-mango-lassi",
+    "description": "BOOST Vanilla Simply+ Mango Lassi is a refreshing and nourishing delight made with just five ingredients. Not only is this quick and easy to make but it is also packed with goodness that will leave you feeling satisfied. The combination of the smooth vanilla flavour and the natural sweetness of mangoes creates a harmonious blend. For added richness, sprinkle crushed pistachios, dried rose petals or saffron strands on top.",
+    "image": "https://images.aws.nestle.recipes/original/5018cc77fe09e2607d53d776ab16aa92_mango-lassi-boost.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Classic chocolate chip muffins with Baking Bits",
+    "url": "https://www.madewithnestle.ca/recipe/classic-chocolate-chip-muffins-baking-bits",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/04bafb2a9e20aebb585b9365921d67e0_classic_chocolate_chip_muffins_with_baking_bits.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "BOOST High Protein Mocha Fruit Dip",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-mocha-fruit-dip-0",
+    "description": "Serve with fresh fruits for a perfect post-workout snack, or bring to a party for a completely nutritious treat!",
+    "image": "https://images.aws.nestle.recipes/original/8eed18a1b0b707efc1be10be36ad8254_BOOST_High_Protein_Mocha_Fruit_Dip.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Vanilla French Toast",
+    "url": "https://www.madewithnestle.ca/recipe/vanilla-french-toast",
+    "description": "Looking for a new spin on an all-time favorite? Voila! Here it is.",
+    "image": "https://images.aws.nestle.recipes/original/85c328579c5c6036322bd9fcfe528f8d_frenchvanillatoast_carousel_960x640.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Flavour-packed Chocolate Banana Protein Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/flavour-packed-chocolate-banana-protein-cookies",
+    "description": "Get your two favourite flavours and protein in your new favorite cookie recipe made with BOOST Chocolate Powder Drink Mix. .",
+    "image": "https://images.aws.nestle.recipes/original/8c0ad8246be077ee90dd077c5092f50c_chocolatebananapowercookie_carousel_960x640.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "COFFEE ICE CREAM FUDGE CAKE",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-ice-cream-fudge-cake",
+    "description": "Coffee ice cream sandwiched between layers of rich chocolate cake, coated in chocolate ganache.",
+    "image": "https://images.aws.nestle.recipes/original/45095be4c3c8e78ff56bb583e0177e59_haagen-dazs-fudge-cake.jpg",
+    "prep_time_mins": 33,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "Carnation Frozen Hot Chocolate",
+    "url": "https://www.madewithnestle.ca/recipe/carnation-frozen-hot-chocolate",
+    "description": "Create the perfect summer indulgent treat, frozen hot chocolate. Simply blend with ice and milk, then enjoy!",
+    "image": "https://images.aws.nestle.recipes/original/108bd0b85806acfaa65b569444087fd3_frozen-hot-chocolate.jpg",
+    "prep_time_mins": 3,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "MILO Pastillas",
+    "url": "https://www.madewithnestle.ca/recipe/milo-pastillas",
+    "description": "Indulge in a family-friendly, Filipino inspired treat that’s as easy to whip up as it is delicious. These no-bake, bite-sized delights are ideal for summer days when you want to avoid turning on the oven. Made with the rich and chocolatey flavour of MILO, each piece is a sweet, chewy and creamy treat.",
+    "image": "https://images.aws.nestle.recipes/original/037029570793214513378f78e7356f6b_milo-16x9-new.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "KIT KAT POPS Fruit Custard",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-pops-fruit-custard",
+    "description": "Enjoy a delightful twist on a popular Chinese-inspired recipe, perfect for the Mid-Autumn Festival. A creamy custard with fresh fruits mixed with KIT KAT POPS for an added chocolate crispy crunch. Plus, it's very easy to prepare, making it a fantastic family activity.",
+    "image": "https://images.aws.nestle.recipes/original/38c3060e8c2b0d83cb7c1c9b58560b75_kitkat_pops-16x9.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Nescafé Leche Flan",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-leche-flan",
+    "description": "Leche Flan is a beloved Filipino dessert, but we're putting a twist on the traditional recipe by adding Nescafé Rich Instant Coffee. This decadent caramel custard recipe only requires a few simple ingredients and is perfect for any family celebration.Use any kind of Nescafé instant coffee or espresso that you have on hand.",
+    "image": "https://images.aws.nestle.recipes/original/ccda9cc1eb998cb19908bcb786769ec4_nescafe-16x9.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "Nescafé Iced Vanilla Coffee",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-iced-vanilla-coffee",
+    "description": "Easy and delicious iced coffee with a hint of vanilla.",
+    "image": "https://images.aws.nestle.recipes/original/ce846c56279d52cb50b3db469fc6ab97_iced-coffee-1066x970.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Nescafé Ice Java Coffee Syrup",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-ice-java-coffee-syrup",
+    "description": "Easily recreate your favourite Nescafé Ice Java syrup at home with Nescafé Iced Instant Coffee.",
+    "image": "https://images.aws.nestle.recipes/original/94710a560304729f0d316ab34b56d10e_coffee_iced_02.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Classic Butter Tarts topped with TURTLES",
+    "url": "https://www.madewithnestle.ca/recipe/classic-butter-tarts-topped-turtles",
+    "description": "How do you turn butter tarts into better tarts? With TURTLES of course! Impress your friends with an elevated version of a classic dessert.",
+    "image": "https://images.aws.nestle.recipes/original/def7522668c528c09c43fa56c6591ecf_turtles_butter_tarts-025.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 12
+  },
+  {
+    "title": "Power Vanilla Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/power-vanilla-smoothie",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/12f62ddc9389c3f71bd323142d25f239_boost_power_vanilla_smoothie.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Nescafé Pumpkin Spice Latte",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-pumpkin-spice-latte",
+    "description": "Ah, the first of fall. Cozy sweaters, crunchy leaves and pumpkin spice! It’s easy to whip up a fancy pumpkin spice latte at home with Nescafé coffee, silky steamed froth and a hint of spice.",
+    "image": "/sites/default/files/2024-11/Nescaf%C3%A9-Pumpkin-Spice-Latte.jpg",
+    "prep_time_mins": 1,
+    "cook_time_mins": 3
+  },
+  {
+    "title": "BOOST Almond Mocha Dalgona Coffee",
+    "url": "https://www.madewithnestle.ca/recipe/boost-almond-mocha-dalgona-coffee",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/2b2eb7ee34009434118e7760eca1b03a_almond_mocha_dalgona_coffee-043.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "BOOST Strawberry Flavour Panna Cotta",
+    "url": "https://www.madewithnestle.ca/recipe/boost-strawberry-flavour-panna-cotta",
+    "description": "This strawberry panna cotta is a sweet and refreshing finish to any meal. Infused with lemon peel, vanilla and the strawberry flavour of BOOST",
+    "image": "https://images.aws.nestle.recipes/original/b9ae9e440d7206ed63e49c142fdf8d2c_strawberry_panna_cotta-043.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "BOOST Mini Chocolate Pumpkin Muffins",
+    "url": "https://www.madewithnestle.ca/recipe/boost-mini-chocolate-pumpkin-muffins",
+    "description": "Loaded with fibre and low on sugar, these chocolate and pumpkin mini muffins make it easy to eat healthy on the go. Make in advance or eat warm out of the oven.",
+    "image": "https://images.aws.nestle.recipes/original/d99799b4626021fad4b7f52e044d9370_mini_chocolate_pumpkin_muffins.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Quinoa Oatmeal Berry Parfait",
+    "url": "https://www.madewithnestle.ca/recipe/quinoa-oatmeal-berry-parfait",
+    "description": "Ancient grain, meet new recipe. Our Quinoa Oatmeal Berry Parfait is a great way to keep things fresh at the breakfast table.",
+    "image": "https://images.aws.nestle.recipes/original/03cf3d5471fe1470656558269be621a0_Quinoa_berry_parfait.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Potato Pie with Meat from the Ukraine",
+    "url": "https://www.madewithnestle.ca/recipe/potato-pie-meat-ukraine",
+    "description": "Pies can be more than just sweet. Potato pie with meat is a great option for dinner or a snack during the lunch break.This recipe does not use flour or yeast; only potatoes, minced chicken, cherry tomatoes and Torchin® seasoning \"10 vegetables\" for a rich vegetable taste and aroma of greens.Enjoy designing your own original dish!Simply bake in the oven for 30 minutes and serve!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://img.youtube.com/vi/IHOYd8tDtV4/hqdefault.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 46
+  },
+  {
+    "title": "Rich Maple Bison Chili with NESCAFE",
+    "url": "https://www.madewithnestle.ca/recipe/rich-maple-bison-chili-nescafe",
+    "description": "Bison is a rich source of protein, while being low in fat. Consuming less grass than cattle, bison is a reliable and abundant food source – providing not only nutrition for Indigenous people, but hides to make clothing and blankets, bones to create tools, jewelry, and fats used for cooking. All parts of the animal were used – and this chili recipe is a nod to sustainable cooking inspired by the First Nations and Métis communities.",
+    "image": "https://images.aws.nestle.recipes/original/707fff7e992e079556f214ff70674a4e_maple_coffee_bison_chili-035_16x9_(3).jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "MAGGI Juicy Jamaican Jerk Chicken",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-juicy-jamaican-jerk-chicken",
+    "description": "A classic throughout the Caribbean but famously known as a Jamaican staple, this beloved style of barbecue finds its roots from the Spanish term charqui, which means “dried strips of meat” and is reflective of the jerky-style texture and smoky flavour of meats cooked over burning coals.",
+    "image": "https://images.aws.nestle.recipes/original/8a27c405b05eeafde286a2bc9c017fa7_juicy_jamaican_jerk_chicken-041-960x640.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "TURTLES Baked Apples",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-baked-apples",
+    "description": "Treat the family to delicious TURTLES baked apples, and everyone will be thankful for YOU!",
+    "image": "https://images.aws.nestle.recipes/original/4d2475062c18a8f7f0886e2efb044bc2_turtles_bakedapples.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 40
+  },
+  {
+    "title": "BOOST High Protein Vanilla Chia Pudding",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-vanilla-chia-pudding",
+    "description": "Perfect as a breakfast treat or a delicious anytime snack.",
+    "image": "https://images.aws.nestle.recipes/original/dd7009dd53ce9afb5a5b319027070b9f_BOOST_High_Protein_Vanilla_Chia_Pudding.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Pad Thai arc-en-ciel sans noix | Découvrez Fait avec Nestlé",
+    "url": "https://www.madewithnestle.ca/recipe/pad-thai-arc-en-ciel-sans-noix-decouvrez-fait-avec-nestle",
+    "description": "Pad Thai was created in the 1930s in Thailand by Plaek Phibunsongkhram, who was the prime minister at the time. Noodles are economical to produce and could be dried and kept for long periods of time. The amount of rice used to make noodles was 50 per cent of what would be consumed if it was eaten unprocessed, so noodles essentially doubled Thailand’s rice stores. Colorful vegetables stir-fried with rice noodles and a lip-smacking sauce make this a delicious and easy alternative to take-out.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/5bf7903bc4df0d55c0a8c5452f7efeae_nut_free_rainbow_pad_thai-027_960x640.jpg",
+    "prep_time_mins": 40,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Chicken Cacciatore from Italy",
+    "url": "https://www.madewithnestle.ca/recipe/chicken-cacciatore-italy",
+    "description": "Did you know that \"cacciatore\" means \"hunter\" in Italian? Therefore, alla cacciatora usually means \"hunter style\". This particular dish incorporates a tomato-based sauce with onions and garlic; and is sure to be a family-favourite that everyone will love!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/a1e484739e97355fb93a8d364a28a9a9_Chicken-Cacciatore_Sofra.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "MAGGI Super Soup from Bosnia/Herzegovina",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-super-soup-bosniaherzegovina",
+    "description": "Surprise your family with your culinary skills by making this light meal, Maggi Cream Super Soup with broccoli, cauliflower and spinach. In addition to the creamy taste, Maggi Cream Super Soup is enriched with vitamin C - just another reason to have this soup on your table every day!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://img.youtube.com/vi/xenn-DzoOUY/hqdefault.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Joanne’s BOOST High Protein Chocolate Almond Smoothie",
+    "url": "https://www.madewithnestle.ca/chocolate-almond-smoothie",
+    "description": "Rich, creamy taste, long-lasting energy. That’s what Team Homan calls a win, win.",
+    "image": "https://images.aws.nestle.recipes/original/a3999fa23bbb7b107149793529b758a3_joanne’s_boost_high_protein_chocolate_almond_smoothie.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST High Protein Chocolate Banana Steel Cut Oats",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-chocolate-banana-steel-cut-oats",
+    "description": "This classic combination of banana and chocolate comes together in a warm hearty breakfast.",
+    "image": "https://images.aws.nestle.recipes/original/8d8fa9fe36f1c9a0a630edac34995677_banana_steel_cut_oats.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "AERO Dark Chocolate and Fruit Coins",
+    "url": "https://www.madewithnestle.ca/recipe/aero-dark-chocolate-and-fruit-coins",
+    "description": "These discs, also known as French chocolate mendicants, make a great hostess gift. Instead of an elaborate dessert, why not serve these delicious treats with after-dinner coffee?",
+    "image": "https://images.aws.nestle.recipes/original/e3168855c599684366d2c6722984b645_dark_chocolate_and_fruit_coins-021_1.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Chocolate Peanut Pretzel Dip",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-peanut-pretzel-dip",
+    "description": "Crunchy, peanut buttery and chocolatey? Does it get any better than this? Only if you add vitamins and minerals, which we totally did.",
+    "image": "https://images.aws.nestle.recipes/original/b23f2df0c48e13fde90c2645c23a88ab_chocolatepeanutpretzeldip.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Malted Almond Chai Granola",
+    "url": "https://www.madewithnestle.ca/recipe/malted-almond-chai-granola",
+    "description": "Mix up your granola routine with this simple and wholesome recipe made with BOOST.",
+    "image": "https://images.aws.nestle.recipes/original/2bc29bbb4da714518325026fc14fde6f_maltedalmondchaigranola_carousel_960x640.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "TURTLES & Strawberries",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-strawberries",
+    "description": "When TURTLES met Strawberry.",
+    "image": "https://images.aws.nestle.recipes/original/31cf81420e256b7a7263027860a0368d_tr_strawberries_1.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "TURTLES Bacon Cupcakes",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-bacon-cupcakes",
+    "description": "Good luck eating this one slowly.",
+    "image": "https://images.aws.nestle.recipes/original/c7014843b56e5cb78978fd3fefacec21_turtles_baconcupcakes.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "TURTLES Cheesecake",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-cheesecake",
+    "description": "TURTLES and cheesecake are match made in heaven.",
+    "image": "https://images.aws.nestle.recipes/original/52380a28ffcea31791dad0047254c6e1_turtles_cheesecake.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "BOOST High Protein Puffed Quinoa and Chocolate Pancakes",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-puffed-quinoa-and-chocolate-pancakes",
+    "description": "Chocolate for breakfast? Absolutely. These wholesome high-protein pancakes will fuel your busy day with the goodness of whole grains and the protein-rich, delicious chocolatey sweetness of Boost®.",
+    "image": "https://img.youtube.com/vi/DLE6f3-rHz4/hqdefault.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 9
+  },
+  {
+    "title": "AERO Bubbly Hot Chocolate",
+    "url": "https://www.madewithnestle.ca/recipe/aero-bubbly-hot-chocolate",
+    "description": "Fall and bubbly hot chocolate are so mint to be, don’t you think?",
+    "image": "https://images.aws.nestle.recipes/original/fdccd5002968716d1316bac118db0502_aero_bubbly_hot_chocolate.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Berry Bubbly AERO Kebobs",
+    "url": "https://www.madewithnestle.ca/recipe/berry-bubbly-aero-kebobs",
+    "description": "A fresh and fun idea for your Valentine's Day celebrations!",
+    "image": "https://images.aws.nestle.recipes/original/15ec05b26b2e7afab5de514b18fcd631_berry_bubbly_aero_kebobs.jpg",
+    "prep_time_mins": 2,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "TURTLES Caramel Cheesecake Mousse Parfaits",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-caramel-cheesecake-mousse-parfaits",
+    "description": "Find out what happens when TURTLES meets a mousse!",
+    "image": "https://images.aws.nestle.recipes/original/c14d7781c3485e8726049c8456ff5da3_turtles_caramel_cheesecake_mousse_parfaits.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "TURTLES Trifle",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-trifle",
+    "description": "Discover layer after delicious layer with this decadent trifle!",
+    "image": "https://images.aws.nestle.recipes/original/3017d5cc76fc24f732bf47cf42dc05ac_turtles_trifle.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "TURTLES Popcorn",
+    "url": "https://www.madewithnestle.ca/recipes/turtles-popcorn",
+    "description": "Kick back and relax with your favourite movie and TURTLES Popcorn",
+    "image": "https://images.aws.nestle.recipes/original/e1976adef49a05bd6cc516a68f755d37_turtles_popcorn.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "TURTLES Fritters",
+    "url": "https://www.madewithnestle.ca/recipes/turtles-fritters",
+    "description": "Move over apple fritters! These batter-coated TURTLES dusted with icing sugar are just like a day at the fair!",
+    "image": "https://images.aws.nestle.recipes/original/2740b6d176b6626895ec334b89ba4568_turtles_fritters.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "TURTLES Fudge Brownie Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-fudge-brownie-cookies",
+    "description": "All you need is five ingredients to make a gift for a few lucky friends.",
+    "image": "https://images.aws.nestle.recipes/original/7b1e6780a2130509d6525b63b4f3a585_turtles_fudge_brownie_cookies.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 12
+  },
+  {
+    "title": "TURTLES Raspberry Temptation",
+    "url": "https://www.madewithnestle.ca/recipes/turtles-raspberry-temptation",
+    "description": "If you didn’t have them at hello, you definitely will at TURTLES.",
+    "image": "https://images.aws.nestle.recipes/original/17163f079601e663df5433df2daff03c_turtles_raspberry_temptation.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "SMARTIES Street Racers",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-street-racers",
+    "description": "SMARTIES fans, start your chocolate engines.",
+    "image": "https://images.aws.nestle.recipes/original/aa31bf26e72deef0b7ba4d1c2ae67315_smarties_street_racers.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "SMARTIES Robots",
+    "url": "https://www.madewithnestle.ca/recipes/smarties-robots",
+    "description": "Hi! My name's Yum-o-tronic 3000.",
+    "image": "https://images.aws.nestle.recipes/original/4bc1dd9f278c7cc02ecb87acc34be3ac_smarties_robots.jpg",
+    "prep_time_mins": 1,
+    "cook_time_mins": 2
+  },
+  {
+    "title": "SMARTIES Snownuts",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-snownuts",
+    "description": "Turn your mini donut into a snownut.",
+    "image": "https://images.aws.nestle.recipes/original/9c8f368c6341a81c50bc3fba3a6f4427_smarties_snownuts.jpg",
+    "prep_time_mins": 12,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "SMARTIES Stop Signs",
+    "url": "https://www.madewithnestle.ca/recipes/smarties-stop-signs",
+    "description": "Candy-coat your fun with this special SMARTIES Stop Sign!",
+    "image": "https://images.aws.nestle.recipes/original/64e6988f860875f9fee9b87554c139ff_smarties_stop_signs.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "SMARTIES Cake Pops",
+    "url": "https://www.madewithnestle.ca/recipes/smarties-cake-pops",
+    "description": "A playful creation perfect for colourful celebrations!",
+    "image": "https://images.aws.nestle.recipes/original/aff61f45d2a0c8cfe412697e32a26cb2_smarties_cake_pops.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 16
+  },
+  {
+    "title": "SCARIES Cookie Monsters",
+    "url": "https://www.madewithnestle.ca/recipe/scaries-cookie-monsters",
+    "description": "These delicious monsters have more mmm than bite!",
+    "image": "https://images.aws.nestle.recipes/original/6f0264e620dd99d1f2c63bda77d9e3e8_scaries_cookie_monsters.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "SMARTIES Sushi",
+    "url": "https://www.madewithnestle.ca/recipes/smarties-sushi",
+    "description": "No fish are harmed in the making of THIS sushi!",
+    "image": "https://images.aws.nestle.recipes/original/402ee0a3f6bbd6141c381494da5d69a2_smarties_sushi.jpg",
+    "prep_time_mins": 18,
+    "cook_time_mins": 2
+  },
+  {
+    "title": "SMARTIES Holiday Bark",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-holiday-bark",
+    "description": "This tasty treat will cure any case of the Bah Humbugs.",
+    "image": "https://images.aws.nestle.recipes/original/aa3e832786d0a3e19308bd8cceaf92a0_smarties_holiday_bark.jpg",
+    "prep_time_mins": 3,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "SMARTIES Bananarama Pops",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-bananarama-pops",
+    "description": "You'll go bananas for this bite size treat!",
+    "image": "https://images.aws.nestle.recipes/original/93d6b3bfe1bec40638432900f09c2e99_smarties_bananarama_pops.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 2
+  },
+  {
+    "title": "SNICKERDOODLE CUPS WITH VANILLA ICE CREAM",
+    "url": "https://www.madewithnestle.ca/recipe/snickerdoodle-cups-vanilla-ice-cream",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/49c2f99b0c405d5829b50069168f4bb7_hdz_snickerdoodle_recipe_960x640.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 9
+  },
+  {
+    "title": "SCARIES Creepy Crawler Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/scaries-creepy-crawler-cookies",
+    "description": "These creepy, crawly cookies will cause delight, not fright!",
+    "image": "https://images.aws.nestle.recipes/original/222b073c8c01c036472155520e115486_scaries_creepy_crawler_cookies.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "SMARTIES Perfectly Portable Pumpkin Pies",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-perfectly-portable-pumpkin-pies",
+    "description": "Celebrate fall with SMARTIES Perfectly Portable Pumpkin Pies.",
+    "image": "https://images.aws.nestle.recipes/original/d3e5509e1b77a800150cc56832e5d549_smarties_perfectly_portable_pumpkin_pies.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Strawberry SMARTIES Hearts",
+    "url": "https://www.madewithnestle.ca/recipe/strawberry-smarties-hearts",
+    "description": "Fall in love with a new Valentine’s Day treat!",
+    "image": "https://images.aws.nestle.recipes/original/202cd9d409be7388d4a7a0abcec8f10f_strawberry_smarties_hearts.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "SMARTIES Mini Sweetie Pies",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-mini-sweetie-pies",
+    "description": "Bake up something special for your sweetie pie.",
+    "image": "https://images.aws.nestle.recipes/original/1de894bd26522964e483793ad087b7f4_smarties_mini_sweetie_pies.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 12
+  },
+  {
+    "title": "SMARTIES Pretzel Bites",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-pretzel-bites",
+    "description": "A sweet and salty way to say ‘Happy Valentine’s Day’. Just one is enough to melt your heart!",
+    "image": "https://images.aws.nestle.recipes/original/3f59c64ca8e402d520e0ae6e8035d28b_smarties_pretzel_bites.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Lisa’s BOOST Just Protein Green Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/lisas-boost-just-protein-green-smoothie",
+    "description": "Healthy smoothies don’t have to taste so… healthy. Fuel up for the big game with a mix of spinach, kale, mango and banana.",
+    "image": "https://images.aws.nestle.recipes/original/04f7b2dba6645c5a1b7e71ba0273f080_lisas_boost_just_protein_green_smoothie-023_copy.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Vanilla Mermaid Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/boost-vanilla-mermaid-smoothie",
+    "description": "Finally, a smoothie that looks as whimsical as it is delicious. With protein, fibre, and nutritious spirulina.",
+    "image": "https://images.aws.nestle.recipes/original/f4f688b9bfeb1772225c673c61618c86_vanilla_mermaid_smoothie_2.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Just Protein Banana Crunch Loaf",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-banana-crunch-loaf",
+    "description": "Banana bread is studded with chunks of walnuts and BOOSTed with protein powder for a great post-workout or midday snack.",
+    "image": "https://images.aws.nestle.recipes/original/ed73df597f5a21a8feef160a1d22651c_banana-crunch-loaf-016_919x636px.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 65
+  },
+  {
+    "title": "BOOST Just Protein Tropical Coconut Cups",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-tropical-coconut-cups",
+    "description": "These are terrific grab-and-go treats for breakfast or anytime of the day.",
+    "image": "https://images.aws.nestle.recipes/original/d00958d9556764f67822f6f9645a3236_tropical-coconut-cups-022_919x636px.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "BOOST Just Protein Coconut Energy Bites",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-coconut-energy-bites",
+    "description": "Coconut, apricots and oats are combined to form satisfying bite-size clusters that will give you a BOOST any time of the day.",
+    "image": "https://images.aws.nestle.recipes/original/effd38eac309e9fb379fb2c8d77d8a80_coconut-energy-bites.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Just Protein Banana Nut Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-banana-nut-smoothie",
+    "description": "Frozen bananas add texture, sweetness and a flavour BOOST to this protein-rich smoothie. Dates are a source of fibre and potassium.",
+    "image": "https://images.aws.nestle.recipes/original/15d6baeae3572f2930f6b75cbbe4d3e1_banana-nut-smoothie.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Just Protein Chocolate Chip Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-chocolate-chip-cookies",
+    "description": "Add protein powder to chocolate chip cookies to make them feel like a healthier indulgence.",
+    "image": "https://images.aws.nestle.recipes/original/0a824826ac33018bbdade380729c19a8_chocolate-chip-cookies-006_919x636px.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "BOOST Just Protein Zucchini Bake",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-zucchini-bake",
+    "description": "The addition of zucchini makes this loaf moist and flavourful. It’s a great snack for your after-morning workout – or anytime.",
+    "image": "https://images.aws.nestle.recipes/original/37edfa7a5b9df7a776af0be4e3e34efb_zucchini-protein-bake-006_919x636px1_2.jpg",
+    "prep_time_mins": 11,
+    "cook_time_mins": 50
+  },
+  {
+    "title": "BOOST Just Protein Spiced-Pineapple Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-spiced-pineapple-smoothie",
+    "description": "Brighten up your morning with this energy-boosting and protein-rich smoothie.",
+    "image": "https://images.aws.nestle.recipes/original/41a54f31f682092de1ef00cebe2a67b8_spice-pineapple-smoothie-021_919x636px.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Just Protein Chai-Spice Power Bowl",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-chai-spice-power-bowl",
+    "description": "Give your oatmeal an exotic feel with the warm flavours of chai.",
+    "image": "https://images.aws.nestle.recipes/original/10b332b7cbefd876959d29fff5c5286d_chai-spice-power-bowl.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Harvest Quinoa Breakfast Bowl",
+    "url": "https://www.madewithnestle.ca/recipe/harvest-quinoa-breakfast-bowl",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/b0c9553ce32fd8038e991259942f185b_apple_blueberry_quinoa_breakfast_bowl-046.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "BOOST Ginger Turmeric Loaf",
+    "url": "https://www.madewithnestle.ca/recipe/boost-ginger-turmeric-loaf",
+    "description": "A yellow, jewel-toned quick bread topped with candied ginger makes this a delicious treat you can enjoy on the go.",
+    "image": "https://images.aws.nestle.recipes/original/7486c3f370ecd5b2f19db39275c9e450_ginger_tumeric_loaf_2.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 60
+  },
+  {
+    "title": "Festive KITKAT Holiday Chocolate House",
+    "url": "https://www.madewithnestle.ca/recipe/festive-kitkat-holiday-chocolate-house",
+    "description": "Our KIT KAT House is the sweetest decoration around!",
+    "image": "https://images.aws.nestle.recipes/original/fb32172b32f84ca3c4031567323ca3dc_nestle_carousel_916x636px_kkhouse.jpg",
+    "prep_time_mins": 40,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Whole Grain Pasta with Strawberry Tomato Sauce",
+    "url": "https://www.madewithnestle.ca/recipe/boost-whole-grain-pasta-strawberry-tomato-sauce-0",
+    "description": "The flavour of this tomato sauce gets brought to life with the sweetness of BOOST Strawberry. Toss with whole wheat pasta and fresh parmesan—it's pasta night!",
+    "image": "https://images.aws.nestle.recipes/original/5d729d39c99a75c4802c402435c8fdd8_whole_grain_pasta_with_strawberry_tomato_sauce-056.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 55
+  },
+  {
+    "title": "COFFEE-MATE Café Mocha Tiramisu",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-mate-cafe-mocha-tiramisu",
+    "description": "A little taste of Italian heaven paired with your favourite COFFEE-MATE treat – what more could you ask for?",
+    "image": "https://images.aws.nestle.recipes/original/895cd2ed692a058b6f9bdef61b5d1f9d_coffeematetiramisu_2.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Pancake bear",
+    "url": "https://www.madewithnestle.ca/recipe/pancake-bear",
+    "description": "Breakfast is much more fun when there’s a pancake bear involved!",
+    "image": "https://images.aws.nestle.recipes/original/d1dead2546a1cf9390f7bfb08fa436d5__foxy_strawberry_pancake_bear.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Crispy Strawberry Coconut Rice Balls",
+    "url": "https://www.madewithnestle.ca/recipe/crispy-strawberry-coconut-rice-balls",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/b5d3524f5b3b76fd7e6be56b9b14ef22_crispy_strawberry_coconut_rice_balls[1].jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nesquik Granola Snack",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-granola-snack",
+    "description": "These homemade granola squares are easy to make and jam-packed with goodness. And best of all, no oven required! Mix it, chill it, and you're good to go.",
+    "image": "https://img.youtube.com/vi/h9McC4AYkUE/hqdefault.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Nesquik Breakfast Smoothies",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-breakfast-smoothies",
+    "description": "Whoever first combined strawberries and bananas was a true genius. We're just standing on the shoulders of smoothie giants with this chocolatey NESQUIK twist.",
+    "image": "https://img.youtube.com/vi/7hOsaBBYKIA/hqdefault.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Baked Almond Oatmeal Cups",
+    "url": "https://www.madewithnestle.ca/recipe/baked-almond-oatmeal-cups",
+    "description": "Portion-sized and portable, these delicious oatmeal cups make an easy and healthy grab-and-go breakfast option!",
+    "image": "https://images.aws.nestle.recipes/original/7295dd501d4e2245e9cc6c69a08747c1_baked_almond_oatmeal_cups_smaller_960x640.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Emma’s BOOST Just Protein Tropical Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/emmas-boost-just-protein-tropical-smoothie",
+    "description": "Chia seeds for protein and fiber, fresh pineapple and mango for game-winning taste.",
+    "image": "https://images.aws.nestle.recipes/original/efb487d0631d242129481ef3c73307a7_emmas_boost_just_protein_tropical_smoothie-013_copy_1.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Chocolate Chai Quinoa ‘Cookie’ Bites",
+    "url": "https://www.madewithnestle.ca/recipe/boost-chocolate-chai-quinoa-cookie-bites",
+    "description": "Satisfy those cookie cravings with these no bake, quinoa and chai-infused snack bites that will help fuel busy days.",
+    "image": "https://images.aws.nestle.recipes/original/e85086beeedcc80f998df25de267198a_chocolate_quinoa_cookie_bites_1.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Pumpkin Spice Rice Pudding",
+    "url": "https://www.madewithnestle.ca/recipe/pumpkin-spice-rice-pudding",
+    "description": "This will be a new fall favourite! Pumpkin puree and warm spices make this rice pudding extra special. COFFEE-MATE BLISS™ adds creaminess and flavour for the perfect dessert anytime.",
+    "image": "https://images.aws.nestle.recipes/original/00a078f3ed3945d0ac493fff3d8c9753_pumpkin_spice_rice_pudding_960x640.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 40
+  },
+  {
+    "title": "KIT KAT Chicago ReMix",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-chicago-remix",
+    "description": "Recipes, shmecipes. Just put tasty things in a bowl and then eat it.",
+    "image": "https://images.aws.nestle.recipes/original/5dbe92bafaec20595fad5a187e43c317_herowebimage_1440x600_chicagoremix.jpg",
+    "prep_time_mins": 1,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BUTTER PECAN PANCAKE ICE CREAM SUNDAE",
+    "url": "https://www.madewithnestle.ca/recipe/butter-pecan-pancake-ice-cream-sundae",
+    "description": "A heavenly sundae featuring layers of fluffy pancakes, butter pecan ice cream, and salted maple caramel sauce.",
+    "image": "https://images.aws.nestle.recipes/original/6d3b118c1e8e2fc0cc40d8357bfa4d0b_hdz-butter-pecan-sundae.png",
+    "prep_time_mins": 25,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "French Vanilla French Toast",
+    "url": "https://www.madewithnestle.ca/recipe/french-vanilla-french-toast",
+    "description": "A delectable twist on an old favourite.",
+    "image": "https://images.aws.nestle.recipes/original/64b08a6f111fc1b1278b5bf2561f44be_frenchtoast-hero.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "COFFEE CRISP Birthday Cake",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-crisp-birthday-cake",
+    "description": "A new take on a classic cake. There's no better way to celebrate than with this delicious birthday cake recipe. A COFFEE CRISP lover's dream!",
+    "image": "https://images.aws.nestle.recipes/original/f2e857ea4f3aa0a706f697846dfd8501_cc_cake_916x636.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 60
+  },
+  {
+    "title": "KIT KAT Banana Bread",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-banana-bread",
+    "description": "This KIT KAT Banana Bread is nothing like the one your mom used to make. Try, share and enjoy the recipe!",
+    "image": "https://images.aws.nestle.recipes/original/a35f2558bc1c7d4cdb73ef553279d170_kk_bananabread.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "KIT KAT Pizza",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-pizza",
+    "description": "Warning: The people you share this KIT KAT Pizza with may fall in love with you. And to repeat: KIT. KAT. PIZZA.",
+    "image": "https://images.aws.nestle.recipes/original/99d2ea06f10446e38fb52b25556888fe_pizza.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "NESQUIK Dalgona",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-dalgona",
+    "description": "Enjoy a whipped Strawberry or Chocolate Dalgona with this simple recipe - only 2 ingredients required!",
+    "image": "https://images.aws.nestle.recipes/original/0dbb6ac77256cf69dc59e13f523ecdfd_nesquik_dalgona_portrait.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "NESQUIK Orange Fish",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-orange-fish",
+    "description": "This healthy kids' snack pairs perfectly with a glass of NESQUIK. Turn any plate into a pool swimming with fun and friendly mandarin orange fishes.",
+    "image": "https://images.aws.nestle.recipes/original/12776d28a9cb97d910e21839b85a14b8__mandarin_fishy.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Coconut Breakfast Quinoa",
+    "url": "https://www.madewithnestle.ca/recipe/coconut-breakfast-quinoa",
+    "description": "A quick and easy make ahead breakfast - perfect for those busy mornings!",
+    "image": "https://images.aws.nestle.recipes/original/3eead6bddfc5a3a171a33eaba1da6f88_coconut_breakfast_quinoa_smaller_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Mayan Chocolate Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/boost-mayan-chocolate-smoothie",
+    "description": "Start the day with a cool and creamy chocolate smoothie with protein and fibre, plus a little kick from cayenne pepper.",
+    "image": "https://images.aws.nestle.recipes/original/dde6d526eaa8c8c526b4bc86bee91064_mayan_chocolate_smoothie_2.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Just Protein Peanut Butter Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/boost-just-protein-peanut-butter-cookies",
+    "description": "Peanut butter cookies sweetened with coconut sugar get an added crunch with roasted peanuts.",
+    "image": "https://images.aws.nestle.recipes/original/1059654bcbec91b8f70f9c1ef41f32a3_peanut-butter-cookies-011_919x636px.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "KIT KAT + SMARTIES Sponge Cake",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-smarties-sponge-cake",
+    "description": "The KIT KAT + SMARTIES Cake is surprisingly easy and obviously awesome.",
+    "image": "https://images.aws.nestle.recipes/original/f0fa06f98fe4f6f68a65112cbf8e7d44_kk_smarties_cake.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Refreshing PERRIER Passion Fruit Mojito",
+    "url": "https://www.madewithnestle.ca/recipe/refreshing-perrier-passion-fruit-mojito",
+    "description": "Refreshingly stylish, you'll love the PERRIER Passion Mojito.",
+    "image": "https://images.aws.nestle.recipes/original/6ed8e100184d35f7b2afb8b0394cc27d_perrier_passion_mojito-035-16x9.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "KIT KAT Witch’s Broomstick",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-witchs-broomstick",
+    "description": null,
+    "image": "https://img.youtube.com/vi/97_V2WcIoDM/hqdefault.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "NESCAFÉ Italian Biscotti",
+    "url": "https://www.madewithnestle.ca/recipe/nescafe-italian-biscotti",
+    "description": "Biscotti, also known as cantucci originated in the Tuscan city of Prato. Bake these Italian biscuits twice to make them crunchy enough for dunking in your favorite hot drink. Try this variation made with the special touch of NESCAFÉ GOLD.",
+    "image": "https://images.aws.nestle.recipes/original/1667584237470_d90c7276-811c-6377-b9d8-ff0000673b69-500x333-b-principal.png",
+    "prep_time_mins": 10,
+    "cook_time_mins": 70
+  },
+  {
+    "title": "Coffee Mexican Wedding Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-mexican-wedding-cookies",
+    "description": "Mexican wedding cookies, also known as Polvorones, are like a butter cookie with ground pecans. This cookie, which is actually enjoyed regularly in Mexico and other Latin countries, is even more delicious with added coffee flavour.",
+    "image": "https://images.aws.nestle.recipes/original/1667595419881_1a6b6676-811c-6377-b9d8-ff0000673b69-490x252-b-min.png",
+    "prep_time_mins": 52,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Mini Strawberry Cheesecakes",
+    "url": "https://www.madewithnestle.ca/recipe/mini-strawberry-cheesecakes",
+    "description": "Try these delicious mini cheesecakes using NESQUIK Strawberry Syrup!",
+    "image": "https://images.aws.nestle.recipes/original/a09307fbada42ede8c3f69647571aa0b_mini_strawberry_cheesecakes.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "KITKAT BUNNY & COCONUT MOUSSE",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-bunny-coconut-mousse",
+    "description": "Smooth, creamy, and decadent... these are just SOME of the amazing descriptors for out KitKat Coconut mousse. If you're looking for something new to try this Easter, you've found it.",
+    "image": "https://images.aws.nestle.recipes/original/23c20d294a8eeaf05ffa227547e96243_coconut_mousse2.jfif",
+    "prep_time_mins": 15,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "KITKAT BUNNY EASTER EGG",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-bunny-easter-egg",
+    "description": "Stop the hunt! We have found the perfect Easter egg recipe for everyone in the family to enjoy! Hop on board with KitKat bunnies and Smarties eggs for a delicious treat you won't want to miss!",
+    "image": "https://images.aws.nestle.recipes/original/13253ef3ea89d0527f0d8c555dd9f320_easterbunnyegg.jfif",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Double Chocolate Easter Muffins",
+    "url": "https://www.madewithnestle.ca/recipe/double-chocolate-easter-muffins",
+    "description": "Hop into the Easter fun with KitKat! Enjoy a delicious KitKat bunny with a Smarties infused chocolate muffin. You won't need an excuse to have more than one break!",
+    "image": "https://images.aws.nestle.recipes/original/4916ec23140c66bb22fdfbdb0405e270_muffins.jfif",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "NESFRUTA Lemonade Mojito Cocktail",
+    "url": "https://www.madewithnestle.ca/recipe/nesfruta-lemonade-mojito-cocktail",
+    "description": "Your favourite cocktail is just a squeeze away! Try our DELICIOUS version of a classic Mojito, Nestle style.",
+    "image": "https://images.aws.nestle.recipes/original/8dfd4363fb0e2d4f5c2cbf17028df468_nesfruta_mojito-010-16x9.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Festive SMARTIES Handles Treats",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-handles",
+    "description": "These festive treats love hanging with hot chocolate!",
+    "image": "https://images.aws.nestle.recipes/original/9b6aee0bd8f8ea8e9aa5e34a62b7452b_smarties_handles.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "SMARTIES Penguins made with Mashmellows",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-penguins",
+    "description": "These marshmallow penguins are almost too cute too eat!",
+    "image": "https://images.aws.nestle.recipes/original/1bc236a95e5d63410be4b4c83b9273ce_smarties_penguins.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "SMARTIES Chocolate Cupcake Snake",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-cupcake-snake",
+    "description": "This sneaky SMARTIES snake is sure to please the crowd!",
+    "image": "https://images.aws.nestle.recipes/original/e1f109f480120c6dfc571347a4ef0ab3_smarties_cupcake_snake.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Savoury NESCAFE Flavoured Beef Tourtière",
+    "url": "https://www.madewithnestle.ca/recipe/savoury-nescafe-flavoured-beef-tourtiere",
+    "description": "This savoury pie is a classic French-Canadian meal traditionally enjoyed as part of the Christmas Eve feast. This recipe is typically handed down through generations, with every family preparing a slight variation on the type of meat used for the pie. Here, Nescafé Rich and Maggi Seasoning bring depth and dimension — sure to become a new family favourite this holiday season",
+    "image": "https://images.aws.nestle.recipes/original/f6977abb69429882d8e7cfd2879f27bd_savoury_beef_tourtiere-029-960x640.jpg",
+    "prep_time_mins": 45,
+    "cook_time_mins": 110
+  },
+  {
+    "title": "MAGGI Pistachio and Dates Truffles",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-pistachio-and-dates-truffles",
+    "description": "Enjoy these tasty and nutritious Pistachio and dates truffles as a snack or quick dessert. Perfect for on the go or for a light treat to devour at home!",
+    "image": "https://images.aws.nestle.recipes/original/00def33fbbe9a51df6656fe52021a2c2_large_dates_181421081409ad8c5171d16d2e848fff000051d689.png",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Cinnamon French Toast Roll Ups",
+    "url": "https://www.madewithnestle.ca/recipe/cinnamon-french-toast-roll-ups",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/38ef9d2eaa52ebac7748560113a3a945_french_toast_roll_ups.jpg",
+    "prep_time_mins": 14,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Hot Fudge Sauce",
+    "url": "https://www.madewithnestle.ca/recipe/hot-fudge-sauce",
+    "description": "What more is there to say but “Mmmmmmm?”",
+    "image": "https://images.aws.nestle.recipes/original/5c2b7077e132587378b80f114f3aa7d2_v2-hotfudge_carousel_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "High Protein Green Tea Latte",
+    "url": "https://www.madewithnestle.ca/recipe/high-protein-green-tea-latte",
+    "description": "Rejuvenate with this refreshing recipe made with BOOST® Original Powder Drink Mix.",
+    "image": "https://images.aws.nestle.recipes/original/f0f3b37a4ed0a30f5a63756b98bb4a6b_greentealatte_carousel_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Salted Caramel Mocha Latte",
+    "url": "https://www.madewithnestle.ca/recipe/salted-caramel-mocha-latte",
+    "description": "Your afternoon just got amazing. Try this not-so-indulgent recipe!",
+    "image": "https://images.aws.nestle.recipes/original/522d9a36e98c186053c07f97436fb17f_saltedcaramelmochalatte_carousel_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Strawberry Cereal Bar",
+    "url": "https://www.madewithnestle.ca/recipe/strawberry-cereal-bar",
+    "description": "Mix up your breakfast routine by adding these easy to make bars that are loaded with nutrition and fibre.",
+    "image": "https://images.aws.nestle.recipes/original/ddd7e68cb08086d964d598f1cfba06c5_doublestrawberrycerealbar_carousel_960x640.jpg",
+    "prep_time_mins": 11,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Double Chocolate Easter Muffins - SRH TEST",
+    "url": "https://www.madewithnestle.ca/recipe/double-chocolate-easter-muffins-srh-test",
+    "description": "Hop into the Easter fun with KitKat! Enjoy a delicious KitKat bunny with a Smarties infused chocolate muffin. You won't need an excuse to have more than one break!",
+    "image": "/themes/custom/nestle-site-studio/nestle_search_placeholder.png",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Wake-Up Call",
+    "url": "https://www.madewithnestle.ca/recipe/wake-call",
+    "description": "Wake up to this nutritious drink which provides an excellent source of calcium and all the caffeine you need.",
+    "image": "https://images.aws.nestle.recipes/original/fb9add6f82d9b64c9ee7487d8fe5684b_wake_up_call-059.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "PAVLOVA WITH WHITE CHOCOLATE AND BERRY COULIS",
+    "url": "https://www.madewithnestle.ca/recipe/pavlova-white-chocolate-and-berry-coulis",
+    "description": "Looking for a delicious dessert that will impress your guests? This incredible dessert is exactly what you are craving. A crispy and soft meringue topped with chocolate, berries and Häagen-Dazs ice cream, a Pavlova is perfect for that sunny day or festive occasion.",
+    "image": "https://images.aws.nestle.recipes/original/abf46263257084b829cb87025afb76eb_white_chocolate_raspberry_truffle_tub_with_chocolate_garnish_(square_crop)_copy.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 80
+  },
+  {
+    "title": "Stuffed Zucchini and Vine Leaves with Lamb Chops from the Middle East",
+    "url": "https://www.madewithnestle.ca/recipe/stuffed-zucchini-and-vine-leaves-lamb-chops-middle-east",
+    "description": "Prepare this classic and delicious dish from the Middle East for your family and friends - it won't disappoint!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/52efa1abf6d35c6f9c85cffe8d5804d7_17177---Stuffed-Baby-Zucchini-and-Vine-Leaves-with-Lamb-Chops.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "AERO Truffle Tarts",
+    "url": "https://www.madewithnestle.ca/recipes/aero-truffle-tarts",
+    "description": "Tis the season for bubbly decadence!",
+    "image": "https://images.aws.nestle.recipes/original/d455d97ba3e5a96f35907a5232e0c046_aero_truffle_tarts.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Meringue ROLO Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/meringue-rolo-cookies",
+    "description": "The airy lightness of French meringue is beautifully contrasted by the gooey, caramel-filled ROLO Mini pieces. This easy dessert recipe combines the classic French baking techniques of the meringue, with the comfort of a traditional chocolate chip cookie.",
+    "image": "https://images.aws.nestle.recipes/original/085f8a40d5120b247bd5984ae09099be_rolo_meringue_cookies.png",
+    "prep_time_mins": 18,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "Chocolate Caramel Tarte au Sucre",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-caramel-tarte-au-sucre",
+    "description": "Inspired by traditional Quebecois cuisine, this ooey-gooey tart is a Canadian holiday classic. Originally made with just maple syrup for sweetness, as it was a common ingredient in the region, the recipe has been adapted over the years to include brown sugar as well. This modern version includes nutty Turtles chocolates and creamy Mackintosh Caramels for extra flavour, enhanced texture and added indulgence.",
+    "image": "https://images.aws.nestle.recipes/original/c158c064a4f9c64ebee5510c44642813_chocolate_caramel_tarte_au_sucre-038-960x640.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 61
+  },
+  {
+    "title": "Rich Milk Chocolate Crepes",
+    "url": "https://www.madewithnestle.ca/recipe/rich-milk-chocolate-crepes",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/ddb9a2999a834e6c69308f3a4207428e_rich_milk_chocolate_crepes-048.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 12
+  },
+  {
+    "title": "Easter Scavenger Hunt",
+    "url": "https://www.madewithnestle.ca/recipe/easter-scavenger-hunt",
+    "description": "Step up your Easter game with this fun and challenging quest for the children.",
+    "image": "https://images.aws.nestle.recipes/original/a28cea77aa8c08c566556c12125a9aba_step5.jfif",
+    "prep_time_mins": 60,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Austrian Linzer Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/austrian-linzer-cookies",
+    "description": "Linzer cookies are named after the city of Linz in Austria. These cookies originated from the Linzertorte, one of the oldest known tarts in Austria. Franz Holzlhuber, an Austrian baker, is recognized for introducing it to America and there have been many adaptations since. Try our version of a Linzer cookies and surprise your family with these delicious cookies with jam, ideal for any special occasion.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/1667312263554_c9356376-811c-6377-b9d8-ff0000673b69-490x252-b-principal.png",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "STRAWBERRY ICE CREAM PIE WITH CORN CRUST",
+    "url": "https://www.madewithnestle.ca/recipe/strawberry-ice-cream-pie-corn-crust",
+    "description": "A picture-perfect summer pie filled with delicious strawberry ice cream in a corn cookie crust.",
+    "image": "https://images.aws.nestle.recipes/original/56bf5dd3c2f197421ee45e83f1420f62_hdz-strawberry-icecream-pie.jpg",
+    "prep_time_mins": 37,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "NESTLÉ® TOLL HOUSE® Chocolate Chip Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/nestle-toll-house-chocolate-chip-cookies",
+    "description": "The NESTLÉ® TOLL HOUSE® Chocolate chip cookies all started in the United State in Massachusetts where Ruth Wakefield, who ran the Toll House Inn with her husband in the 1930’s, cut up NESTLÉ Semi-sweet chocolate bars and added them to her cookies. The chocolate bars didn’t melt, they softened, and this is now the history of the chocolate chip cookie! Chocolate chip cookies are delicious and perfect for every occasion. Try this classic cookie with more than 75 years of history.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/880847bdf091f0c9a71d673603c91c2a_chocolate_chip_cookie__4mb.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "Mozzarella Strawberry Salad with Chocolate Vinaigrette",
+    "url": "https://www.madewithnestle.ca/recipe/mozzarella-strawberry-salad-chocolate-vinaigrette",
+    "description": "Perfect for picnics or lunch on the go, these stacked mason-jar salads are easy to make yet impressive to serve. Play around with your favourite salad toppings for added texture and flavour, or omit prosciutto for a vegetarian alternative. This recipe is super versatile and is sure to be a crowd favourite.",
+    "image": "https://images.aws.nestle.recipes/original/e05cbc05093f453c2cf6abd4f28dd51f_mozzarella_strawberry_salad_w_chocolate_vinaigrette-023-960x640.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Masala Vegetable Fritter Eggs Benedict",
+    "url": "https://www.madewithnestle.ca/recipe/masala-vegetable-fritter-eggs-benedict",
+    "description": "Using whole veggies, and Indian-style garam masala – a fragrant spice blend made with a blend of warm, fragrant spices – this delicious twist on a brunch-time favourite is sure to be a delicious and eco-friendly hit! Blender hollandaise makes preparation a breeze, so less time is spent fussing in the kitchen and more time can be spent eating and enjoying around the table!",
+    "image": "https://images.aws.nestle.recipes/original/9d054906d3401b6b04ddeb9898b291c1_masala_vegetable_fritter_eggs_benedict-044-16x9_(1)-4mb.jpg",
+    "prep_time_mins": 26,
+    "cook_time_mins": 42
+  },
+  {
+    "title": "NESQUIK Chocolate Milkshake",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-chocolate-milkshake",
+    "description": "Transform your milk into this diner classic with NESQUIK Chocolate Syrup",
+    "image": "https://images.aws.nestle.recipes/original/2611edd09130528f5768ff28e5bb0af6_chocolate_milkshake.jpg",
+    "prep_time_mins": 2,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "NESQUIK Pineapple Robot",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-pineapple-robot",
+    "description": "Fruit just got fun again with this snack idea for kids. Build a ready-to-eat robot with their favourite fruit and serve with a glass of NESQUIK.",
+    "image": "https://images.aws.nestle.recipes/original/1e83555cb578b24f475714f26ed73cf8__fruity_robot.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Latin Burgers with Caramelized Onions",
+    "url": "https://www.madewithnestle.ca/recipe/latin-burgers-caramelized-onions",
+    "description": "Latin cuisine prides itself on the depth and diversity of flavors that result from using local and readily available ingredients. Latin food is sometimes known for being spicy, it’s true – but it’s also hearty, sweet, savory, refined, comforting, healthy, smoky, salty, and over-the-top delicious – just like this dish. These zesty burgers combine chorizo, a spicy jalapeño relish and Maggi Liquid Seasoning for a super-craveable Latin flavor explosion!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/798d926d34b86d55ddfc2ba4dda52b2b_latin_burger-045_960x640.jpg",
+    "prep_time_mins": 27,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Vanilla Almond Chia Pudding",
+    "url": "https://www.madewithnestle.ca/recipe/vanilla-almond-chia-pudding",
+    "description": "Ultra simple and super tasty – made with just 4 ingredients. This chia pudding makes a perfect protein filled snack. Customize with any combination of chopped fruit, nuts or seeds!",
+    "image": "https://images.aws.nestle.recipes/original/23f592aa6d746fb38468b7275dfe1417_vanilla_almond_chia_pudding_smaller.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "KIT KAT Chunky Sweet ‘n’ Salty Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-chunky-sweet-n-salty-cookies",
+    "description": "Who says sweet and salty can't live together? Pairing pretzels, peanuts and KIT KAT chocolate, these cookies provide historic flavour harmony with every bite.",
+    "image": "https://images.aws.nestle.recipes/original/7fe07867918a035e8beed2b8da0a5584_kit_kat_chunky_sweetnsalty_cookies_carousel_0.jpg",
+    "prep_time_mins": 13,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "KIT KAT Seattle Spread",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-seattle-spread",
+    "description": "Take a break from complicated recipes. Put KIT KAT Chunky and other stuff you like on a thing. Then eat it.",
+    "image": "https://images.aws.nestle.recipes/original/a0cd3e4b2b8fb9aa8cd656c242283206_herowebimage_seattlespread.jpg",
+    "prep_time_mins": 7,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "KIT KAT Break Pancakes",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-break-pancakes",
+    "description": "Change the way you do dessert, with Break Pancakes.",
+    "image": "https://images.aws.nestle.recipes/original/9d468177896c781054aadbeaf9348ead_nestle_grid_kitkat_pancakes.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "KIT KAT Pumpkin Cupbreaks",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-pumpkin-cupbreaks",
+    "description": "Pump(kin) up the volume at your Halloween party with these KIT KAT Pumpkin Cupbreaks.",
+    "image": "https://images.aws.nestle.recipes/original/799772af69db3e4d200c6b55e985b9d8_kk_pumpkincupcakes.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "MAGGI So Juicy Trinidadian-Style Doubles",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-so-juicy-trinidadian-style-doubles",
+    "description": "This sandwich-style Caribbean classic is made with fresh fry bread, called bara, and a curried chickpea stew, called chana, making this all-day staple a delicious vegetarian option. Dating back to the 1930s, this popular dish is believed to have been created by Indo-Trinidadians from the island’s Princes Town and it has been a cultural culinary tradition ever since! In fact, doubles have garnered worldwide attention, even having their own national day of celebration on May 30.",
+    "image": "https://images.aws.nestle.recipes/original/a7d1f0f90fca4bdcc766ef39c4b8b27e_trinidadian_style_doubles-015-960x640.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "Pistachio and Chocolate Burfi",
+    "url": "https://www.madewithnestle.ca/recipe/pistachio-and-chocolate-burfi",
+    "description": "Try this show-stopping Indian recipe that never fails to impress. This mouthwatering treat will become a request for every special event. For a nut-free version check out our traditional chocolate Barfi. Perfect for Diwali and all holiday occasions.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/89d581ca9210d93b69578fa369596e3d_nestle_eid_recipe__web_pistachio_and_chocolate_burfi.jpg",
+    "prep_time_mins": 21,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Dulce de Leche-Filled Muffin Tin Donuts",
+    "url": "https://www.madewithnestle.ca/recipe/dulce-de-leche-filled-muffin-tin-donuts",
+    "description": "Just say dulce de leche and you think of oooey gooey deliciousness! With cinnamon and nutmeg rounding out the flavours these show stopping donuts are sure to get anyone running to the kitchen asking for a taste. This slightly lighter version bakes the donuts instead of frying them, but don’t worry the taste is great and are sure to be a crowd pleaser .",
+    "image": "https://images.aws.nestle.recipes/original/e83f057443a3b2fdd1905aab853d8abc_Dulce_de_Leche_Filled_Muffin_Tin_Donuts.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Wild Rice & Smoked Salmon Salad",
+    "url": "https://www.madewithnestle.ca/recipe/wild-rice-smoked-salmon-salad",
+    "description": "For many Indigenous groups, salmon is a primary source of nourishment – and is a symbol of abundance, fertility, prosperity, and renewal. Smoking is a sustainable, and traditional method used to preserve the meat. This is a technique that is passed down from one generation to the next.",
+    "image": "https://images.aws.nestle.recipes/original/759b220ddcba766d429ec37cc935d1f0_wild_rice_and_smoked_salmon-034_16x9_(1).jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 45
+  },
+  {
+    "title": "AERO Brownies",
+    "url": "https://www.madewithnestle.ca/recipe/aero-brownies",
+    "description": "The AERO milk chocolate inside these delicious brownies gives it the effect of having the icing on the inside.",
+    "image": "https://images.aws.nestle.recipes/original/8aebac1e857cc1e79cf1ec6a8d0985d0_Aero_brownies.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 37
+  },
+  {
+    "title": "SEA SALT CHOCOLATE BROWNIE ICE CREAM SANDWICHES",
+    "url": "https://www.madewithnestle.ca/recipe/sea-salt-chocolate-brownie-ice-cream-sandwiches",
+    "description": "A decadent chocolate brownie cookie, topped with sea salt and filled with delicious Häagen-Dazs Dulce De Leche Ice Cream",
+    "image": "https://images.aws.nestle.recipes/original/eb3b7081da6f5f1cf2998e80c423b981_hdz_ice_cream_sandwich_960x640.jpg",
+    "prep_time_mins": 17,
+    "cook_time_mins": 8
+  },
+  {
+    "title": "RASPBERRY BROWN BUTTER CRÊPES À LA MODE",
+    "url": "https://www.madewithnestle.ca/recipe/raspberry-brown-butter-crepes-la-mode",
+    "description": null,
+    "image": "https://images.aws.nestle.recipes/original/b44e198b20060328fa4f52a800dcba7c_hdz_tfg_crepes.jpg",
+    "prep_time_mins": 12,
+    "cook_time_mins": 6
+  },
+  {
+    "title": "Coffee-Marinated Korean Short Ribs",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-marinated-korean-short-ribs",
+    "description": "Korean short ribs, otherwise known as “galbi,” refers to a strip of beef cut across the bone from the chuck end of the short ribs. Unlike American- and European-style short ribs, which include a thick slice of bone-in beef, Korean-style short ribs are cut lengthwise across the rib bone. The lengthwise cut helps to soak up the rich, Korean flavor–infused coffee marinade and serves to help grill it up quickly.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/7591885af73f3863064c7f92069d8213_coffee_crusted_korean_short_ribs-035_960x640.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "NESQUIK Colourful Butterfly",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-colourful-butterfly",
+    "description": "Catch the eye of your kids during snack time with this colourful fruit butterfly. Use their favourite fruits to make your creation and pair it with NESQUIK.",
+    "image": "https://images.aws.nestle.recipes/original/96303bc07f466d76f0d7a3aefe417e4e_butterfly_fruit_salad.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "BOOST Original Baked Chocolate Oatmeal Bars",
+    "url": "https://www.madewithnestle.ca/chocolate-oatmeal-bars",
+    "description": "These oat bars bake up in a jiffy and are great to have on hand. You can even freeze them and just thaw when you need a snack.",
+    "image": "https://images.aws.nestle.recipes/original/fc8691254bf25f2d3bbd531ae690732e_BOOST_Original_Baked_Chocolate_Oatmeal_Bars.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "SMARTIES Fruit n' Nut Bars",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-fruit-n-nut-bars",
+    "description": "SMARTIES Fruit n' Nut Bars are perfect egg hunt fuel",
+    "image": "https://images.aws.nestle.recipes/original/08fcdb1a3d453c669e3c917c52c9ca16_smarties_fruit_n__nut_bars.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Loukoumades (Greek Donuts)",
+    "url": "https://www.madewithnestle.ca/recipe/loukoumades-greek-donuts",
+    "description": "These little bites of heaven, enjoyed by Greek Jews during celebrations such as Hanukkah are also a very popular dessert in Middle Eastern countries such as Iraq, Cyprus and Turkey and perfect for any occasion. Save time spent in long line ups and try this quick and easy recipe! Made with simple ingredients, these fluffy honey balls have a long history. These delicious sweets were reportedly known as “honey tokens” and given as small gifts to winners of Olympic games.",
+    "image": "https://images.aws.nestle.recipes/original/e3fb43422f54ae6e4b211f8788fd5225_Greek_donuts_-_Copy.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "Energizing Acai Berry Bowl",
+    "url": "https://www.madewithnestle.ca/recipe/energizing-acai-berry-bowl",
+    "description": "Jam-packed with superfruits, this breakfast will kick start your day with a boost of energy. Add toppings like granola, pistachios or fruit for your perfect bowl.",
+    "image": "https://images.aws.nestle.recipes/original/af9ffef56f81236a66fdc0c7c85ba7b5_acai_berry_bowl_smaller_960x640_1.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Raspberry Cream Pops",
+    "url": "https://www.madewithnestle.ca/recipe/raspberry-cream-pops",
+    "description": "The perfect way to use fresh raspberries? Turn them into ice pops! The COFFEE-MATE BLISS™ swirled in before freezing gives a nice marbled effect.",
+    "image": "https://images.aws.nestle.recipes/original/11459cf643422aade92655d85565398f_raspberry_cream_pops_960x640.jpg",
+    "prep_time_mins": 9,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Slow Cooker Steel-Cut Oats",
+    "url": "https://www.madewithnestle.ca/recipe/slow-cooker-steel-cut-oats",
+    "description": "Hearty, healthy and ready to customize, you can make a big batch of these slow cooker steel-cut oats and enjoy a different breakfast every morning – just add different mix-ins!",
+    "image": "https://images.aws.nestle.recipes/original/bca8528f20722391e283ab9c3556384f_slow_cooker_steel_cut_oats_smaller.jpg",
+    "prep_time_mins": 7,
+    "cook_time_mins": 240
+  },
+  {
+    "title": "Easy One-Step French Vanilla Coffee",
+    "url": "https://www.madewithnestle.ca/recipe/easy-one-step-french-vanilla-coffee",
+    "description": "Be your own barista and make yourself a smooth and creamy French Vanilla coffee, right at home! Just 2 ingredients and 1 easy step to the perfect French Vanilla coffee.",
+    "image": "https://images.aws.nestle.recipes/original/0e685e402936bad926bf12d6a9507e59_basic_coffee.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "KIT KAT Chunky Cookie",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-chunky-cookie",
+    "description": "We're all about taking Breaks, so here's our no fuss KIT KAT Cookie recipe.",
+    "image": "https://images.aws.nestle.recipes/original/315267a5a72b1cbc03cba7dc957fd8f2_kk_chunkycookie.jpg",
+    "prep_time_mins": 11,
+    "cook_time_mins": 11
+  },
+  {
+    "title": "KIT KAT Chunky Brownie Cups",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-chunky-brownie-cups",
+    "description": "No matter who's playing in the big game, these football-shaped chocolate brownies will be the real winner. Bake a batch for your next team huddle.",
+    "image": "https://images.aws.nestle.recipes/original/88ffaccfd8d278a2ad986f443567dd2a_brownie_cups_carousel.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Chocolate Bannock Mixed Berry Shortcakes",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-bannock-mixed-berry-shortcakes",
+    "description": "This lightly sweetened and fresh fruit dessert is a healthier and lightened-up version of shortcake that tastes as good as it looks. Try this classic recipe with a hint of maple syrup and our added twist using BOOST Powdered Chocolate. Dusted with a bit of icing sugar or garnished with a fresh mint leaf, these 6 beautiful and delicious shortcakes will be great for sharing with your loved ones.",
+    "image": "https://images.aws.nestle.recipes/original/4ca7d9c8fab1f822375991e7da827a39_chocolate_bannock_mixed_berry_shortcakes-042-960x640.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Bite-Size Chocolate Cinnamon Pets de Soeur",
+    "url": "https://www.madewithnestle.ca/recipe/bite-size-chocolate-cinnamon-pets-de-soeur",
+    "description": "Pets de sœur, literally translated as Nun farts, and also known to some as “Croxignolles” is a French-Canadian dessert that is often made up from left over pie dough; at times from Tourtière. This quick and easy dessert was can be craft to avoid food waste and ensure that every last ingredient and bite is enjoyed and devoured. This take on a classic French-Canadian treat is rolled with an irresistible Carnation Hot Chocolate and cinnamon filling, then baked instead of fried.",
+    "image": "https://images.aws.nestle.recipes/original/af0e0a798936101927e0ad132340c08f_-chocolate_cinnamon_pets_de_soeur-032-16x9.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Sri Lankan Komala Watan",
+    "url": "https://www.madewithnestle.ca/recipe/sri-lankan-komala-watan",
+    "description": "Komala Watan is a must-try traditional Sri Lankan sweet. Try this delicious recipe from Sri Lanka using MAGGI coconut powder.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/d0dd7d00f6e7834de31ac5d6d56c3498_komala-watan.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 3
+  },
+  {
+    "title": "Vegan Patatas Bravas",
+    "url": "https://www.madewithnestle.ca/recipe/vegan-patatas-bravas",
+    "description": "Inspired by the classic Spanish tapas dish, these loaded potatoes are packed with zesty flavour, are easy to prepare and are perfect for Aperitivo-hour snacking. Boiling potatoes in carbonated water leads to a perfectly crispy outside, and creamy mashed potato inside for the ultimate texture and consistency. This recipe can also be served as a delicious side dish with chicken, beef or fish!",
+    "image": "https://images.aws.nestle.recipes/original/45afd9496c3936097bf3a653c0f23cb9_patatas_bravas-016-16x9_(1)-_4mb.jpg",
+    "prep_time_mins": 3,
+    "cook_time_mins": 42
+  },
+  {
+    "title": "Smoky Thai Garden Vegan Burgers",
+    "url": "https://www.madewithnestle.ca/recipe/smoky-thai-garden-vegan-burgers",
+    "description": "NESCAFÉ GOLD Medium Roast Instant Coffee adds rich, full-bodied flavour to these delicious plant-based burgers. This recipe is perfect for veggie lovers.",
+    "image": "https://images.aws.nestle.recipes/original/39a7c454068428604739fe02627dab7e_01-smokey-thai-garden-burgers-048-16x9.jpg",
+    "prep_time_mins": 23,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "AERO Truffle Tiramisu Cookies",
+    "url": "https://www.madewithnestle.ca/recipe/aero-truffle-tiramisu-cookies",
+    "description": "An impressive cookie, a spin on the classic tiramisu dessert.",
+    "image": "https://images.aws.nestle.recipes/original/03a30139edfc4a122b6cf0490444f0ed_aero-tiramisu-cookie-recipe-image.jpg",
+    "prep_time_mins": 21,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Colorful Chana Chaat Chickpea Salad",
+    "url": "https://www.madewithnestle.ca/recipe/colorful-chana-chaat-chickpea-salad",
+    "description": "This colourful Chana Chaat Chickpea Salad combines all the flavours, sweet, salty and uses our signature tangy Maggi Sweet and Hot Sauce. Give the recipe a try and enjoy it for your Holi celebrations or even just a nice side salad for your next dinner with the family!",
+    "image": "https://images.aws.nestle.recipes/original/9f0e69304e1558c8fcc0ba0c6cd12806_maggi_20003_world_foods_website_recipes_chickpea_salad_webpage.jpg",
+    "prep_time_mins": null,
+    "cook_time_mins": null
+  },
+  {
+    "title": "TURTLES Mason Jar S’more Parfait",
+    "url": "https://www.madewithnestle.ca/recipes/turtles-mason-jar-s%E2%80%99more-parfait",
+    "description": "Layer on the love with an indulgent treat that’s guaranteed to leave the whole family wanting s’more!",
+    "image": "https://images.aws.nestle.recipes/original/514330f480cbd34616b5ac43c0b18c6c_turtles_mason_jar_s’more_parfait.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 1
+  },
+  {
+    "title": "Nesquik Bûche de Noël",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-buche-de-noel",
+    "description": "A Yule log or bûche de Noël is a traditional Christmas cake.  This gluten-friendly dessert is flavoured with Nesquik and made up of a delicious cream cheese filling. Why not add to the celebration with some fun and festive SMARTIES! Get creative in the kitchen and decorate this classic holiday dessert to your liking. This dessert enjoyed by many French-Canadian families around the holidays will impress any dinner guests.",
+    "image": "https://images.aws.nestle.recipes/original/216fd4bd1fed29894f12240d33f80dab_nesquick_buche_de_noel-008-960x640.jpg",
+    "prep_time_mins": 63,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Mackintosh’s Chomeur Pudding",
+    "url": "https://www.madewithnestle.ca/recipe/mackintoshs-chomeur-pudding",
+    "description": "Fabricated during the Great Depression, this go to cake batter is made up of kitchen staples traditionally served with hot maple syrup or caramel. This classic French-Canadian dessert, also known as “unemployment cake”, is prepared with MacKintosh’s Toffee Bars for a wonderful sweet and creamy variation.",
+    "image": "https://images.aws.nestle.recipes/original/09a461ab73f3793aded28769cd699967_mackintosh_chomeur_bread_pudding-034-960x640.jpg",
+    "prep_time_mins": 23,
+    "cook_time_mins": 22
+  },
+  {
+    "title": "BOOST High Protein Lemon Blueberry Oatmeal Muffins",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-lemon-blueberry-oatmeal-muffins",
+    "description": "Best served warm with a cup of tea, this berry filled homemade muffin is a great way to start the day with the addition of protein and wholesome fibre.",
+    "image": "https://images.aws.nestle.recipes/original/62680b14de11758adb2d77472416685e_lemon_blueberry_muffins-033.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Cappuccino Cheesecake",
+    "url": "https://www.madewithnestle.ca/recipe/cappuccino-cheesecake",
+    "description": "A perfect treat to pair with your favourite cup of joe!",
+    "image": "https://images.aws.nestle.recipes/original/35f269e8689f71dfb4f251e1fdfc1a64_cheesecake-hero.jpg",
+    "prep_time_mins": 3,
+    "cook_time_mins": 65
+  },
+  {
+    "title": "Mango Peach Iced Tea Pops",
+    "url": "https://www.madewithnestle.ca/recipe/mango-peach-iced-tea-pops",
+    "description": "Chunks of mango and peach slices add fresh flavour and bright colour to these refreshing summery tea pops",
+    "image": "https://images.aws.nestle.recipes/original/f6abb1eb93b851292c444efca3a74c63_nestle_peach_recipe_image.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "NESQUIK Dragon Pancake",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-dragon-pancake",
+    "description": "Get creative with snack time for kids by breathing life (and fire) into a dragon pancake. Serve up alongside a cold glass of chocolatey NESQUIK.",
+    "image": "https://images.aws.nestle.recipes/original/daad3f5a68afae8055746cc7c4a72875__dinosaur_pancakes_.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Middle Eastern Cauliflower Bites with Coffee Tahini Dip",
+    "url": "https://www.madewithnestle.ca/recipe/middle-eastern-cauliflower-bites-coffee-tahini-dip",
+    "description": "Tahini, or toasted ground sesame seeds, comes from Persia, where it was called “ardeh.” For hundreds of years, only the aristocracy and wealthy could obtain the ingredients to make tahini – in some cultures, tahini was used as currency! Enjoy this delicious healthy appetizer that gets extra depth of flavor from Nescafé Gold.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/fa19c49e40f551b11d05e5183e8e927f_middle_eastern_cauliflower_bites_with_tahini_dip-044_960x640.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "KITKAT Witch’s Broomstick",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-witchs-broomstick",
+    "description": "These witchy KITKAT rice treats will make you want to fly away on a broomstick!",
+    "image": "https://images.aws.nestle.recipes/original/2965e5bb4f98a92d0390121b419669c7_kitkat_sm_witchsbroomstick_thumbanil.jpg",
+    "prep_time_mins": 30,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "TURTLES Pecan Praline Popcorn Balls",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-pecan-praline-popcorn-balls",
+    "description": "We're lovin' the 'no oven' for this creation (more time to bask in sweet & salty bliss).",
+    "image": "https://images.aws.nestle.recipes/original/64a63995767d911d1cffe2a337ec394c_turtles_pecan_praline_popcorn_balls.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "BOOST High Protein Lemon Blueberry Oatmeal Muffins",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-lemon-blueberry-oatmeal-muffins-0",
+    "description": "Best served warm with a cup of tea, this berry filled homemade muffin is a great way to start the day with the addition of protein and wholesome fibre.",
+    "image": "https://images.aws.nestle.recipes/original/72b3fb7415717bfe2f3d64bd119cc994_boost_high_protein_lemon_blueberry_oatmeal_muffins.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "QUALITY STREET Nankhatai",
+    "url": "https://www.madewithnestle.ca/recipe/quality-street-nankhatai",
+    "description": "Our decadent Nankhatai are imbued with the irresistible aroma of cardamom, caramel, and chocolate! QUALITY STREET Sweets make these Nankhatai unique as no two cookies taste the same! Serve these golden brown cookies with a cup of chai to your guests while they are still soft, gooey and warm from the oven! These Nankhatai cookies are the perfect celebration treat for Diwali and the holiday season.",
+    "image": "https://images.aws.nestle.recipes/original/b9a817ad2638857e8be0299ae535587c_qs_final_mwn.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "KITKAT BUNNY CARROT CAKE",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-bunny-carrot-cake",
+    "description": "Take a big break this Easter while enjoying a slice of KitKat bunny Carrot Cake!",
+    "image": "https://images.aws.nestle.recipes/original/3b82ccea14e3e9b12f3b24f2be959d8e_carrot_bunny_cake.jfif",
+    "prep_time_mins": 20,
+    "cook_time_mins": 50
+  },
+  {
+    "title": "Tamarind Fish Sauce from Vietnam",
+    "url": "https://www.madewithnestle.ca/recipe/tamarind-fish-sauce-vietnam",
+    "description": "Young tamarind fish sauce is used as a dip for various meats - such as boiled, steamed, grilled, fried - helping to add flavor and stimulate the appetite for dishes. With the natural sweet and sour taste from tamarind and the characteristic aroma of basil leaves, this dipping sauce will surely conquer you from the first taste.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/1a980ff9c2289c4fad9bafad199fd319_Thumb_-crop112_-__Ngan_hấp_sả_chấm_mắm_me_non_.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Chicken Tagine with Dates and Green Olives",
+    "url": "https://www.madewithnestle.ca/recipe/chicken-tagine-dates-and-green-olives",
+    "description": "Tagine is the name of the cooking vessel, used in Middle Eastern cooking. Don’t worry if you don’t have a tagine as we have made this recipe easy to cook in a casserole dish.",
+    "image": "https://images.aws.nestle.recipes/original/bb4a8e697840dc3c01657271fd14002c_150156bwchicken_tagine_with_dates_and_green_olives__mg_301065.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "Crispy Vegetarian Cauliflower Pakoras",
+    "url": "https://www.madewithnestle.ca/recipe/crispy-vegetarian-cauliflower-pakoras",
+    "description": "These crispy Indian-inspired pakoras are made using the Cauliflower crown, stems and leaves to make a perfect vegetarian snack. Carbonated water helps to create the perfect crunch when used in the batter. Creamy herbed yogurt dip offers a refreshing balance to these flavourful bite-sized delights and is a great way to use up fresh herbs that are past their prime.",
+    "image": "https://images.aws.nestle.recipes/original/5e95d74aa832a9e09fcbdbecfd8e1a97_cauliflower_pakora-067-16x9_(1)-_4mb.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Sweet & Salty TURTLES S'mmmores",
+    "url": "https://www.madewithnestle.ca/recipes/sweet-salty-turtles-smmmores",
+    "description": "Just add bonfire!",
+    "image": "https://images.aws.nestle.recipes/original/0cd2c4762c87546c39fd8476fa079bc1_sweet___salty_turtles_s_mmmores.jpg",
+    "prep_time_mins": 4,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Amazing AFTER EIGHT Mint Brownies",
+    "url": "https://www.madewithnestle.ca/recipes/amazing-after-eight-mint-brownies",
+    "description": "These irresistible mint brownies are the perfect after dinner dessert!",
+    "image": "https://images.aws.nestle.recipes/original/ca14dfff94123d1d3e2d1fdf55b972c3_holiday_mint_brownies-041-4x5_(1).jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 35
+  },
+  {
+    "title": "TURTLES Cheesecake Pops",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-cheesecake-pops",
+    "description": "Add a fun twist to traditional pumpkin treats this Thanksgiving with TURTLES.",
+    "image": "https://images.aws.nestle.recipes/original/7d71fb003b50e59bf660f98c9ce097f1_turtles_cheesecake_pops.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "TURTLES Hidden Gem Cupcakes",
+    "url": "https://www.madewithnestle.ca/recipes/turtles-hidden-gem-cupcakes",
+    "description": "There’s cupcakes, and then there’s surprise cupcakes! With whole TURTLES baked into fluffy cake, these delicious treats are sure to surprise and delight.",
+    "image": "https://images.aws.nestle.recipes/original/986169dfac2bf61b7d80ecf25e915c9b_turtles_hidden_gem_cupcakes.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "TURTLES Pumpkin Spice Bread",
+    "url": "https://www.madewithnestle.ca/recipe/turtles-pumpkin-spice-bread",
+    "description": "TURTLES and spice and everything nice.",
+    "image": "https://images.aws.nestle.recipes/original/db5e661b858f99906397c9d49adbcba4_turtles_pumpkin_spice_bread.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 40
+  },
+  {
+    "title": "SMARTIES Trees",
+    "url": "https://www.madewithnestle.ca/recipe/smarties-trees",
+    "description": "There's a berry yummy surprise hiding inside these merry treats!",
+    "image": "https://images.aws.nestle.recipes/original/34991b716807f52a427885519a256d30_smarties_trees.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "NESQUIK Hoo’s Hungry Owl",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-hoos-hungry-owl",
+    "description": "Add some fun to snack time by bringing Hoo's Hungry Owl to life! Serve with a glass of NESQUIK for empty plates and smiling faces all around.",
+    "image": "https://images.aws.nestle.recipes/original/d9fbf380e9726de0e82ccf5d44bdd751__curly_cucumber_owl.jpg",
+    "prep_time_mins": 6,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Super Fruit Bliss Green Smoothie",
+    "url": "https://www.madewithnestle.ca/recipe/super-fruit-bliss-green-smoothie",
+    "description": "Enjoy this Super Fruit Bliss Green Smoothie recipe anytime you want a deliciously smooth and fruity drink. Packed full of flavour, simply blend up the ingredients in your blender.",
+    "image": "https://images.aws.nestle.recipes/original/41cef07cedadf4662e74b2e125d9d708_super_fruit_bliss_green_smoothie_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "COFFEE-MATE Camping Pancakes",
+    "url": "https://www.madewithnestle.ca/recipe/coffee-mate-camping-pancakes",
+    "description": "Turn your camping trip to glamping with this easy-to-use COFFEE-MATE hack.",
+    "image": "https://images.aws.nestle.recipes/original/78176b7493ffb8155aeeb21223924777_coffeematepancakes_2.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Morning Mocha Chia Pudding",
+    "url": "https://www.madewithnestle.ca/recipe/morning-mocha-chia-pudding",
+    "description": "Morning? Pudding? Together? We get it—you’re in. This amazing recipe made with BOOST® Powder Drink Mix is a great addition to brunch.",
+    "image": "https://images.aws.nestle.recipes/original/2f36e9c8c506961537d950c288e145c4_morningmochachiapudding_carousel_960x640.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "NESQUIK Strawberry Milkshake",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-strawberry-milkshake",
+    "description": "Transform your milk into this diner classic.",
+    "image": "https://images.aws.nestle.recipes/original/fcb0cfd43d47980bee1eb44afe3a520f_strawberry_milkshake.jpg",
+    "prep_time_mins": 3,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "Spicy Vegetarian Chinese-inspired Breakfast Crepes",
+    "url": "https://www.madewithnestle.ca/recipe/spicy-vegetarian-chinese-inspired-breakfast-crepes",
+    "description": "Inspired by popular Chinese street food, these jianbing-style savoury crepes are packed with texture, colour, and flavour, and are balanced with the perfect amount of heat! Using carbonated water for the batter results in a fluffy, delicate consistency for these vegetarian breakfast crepes.",
+    "image": "https://images.aws.nestle.recipes/original/d8c1f06f1d1386849733ffeca7478ac8_spicy__chinese_breakfast_crepes-020-16x9_(2)_4mb.jpg",
+    "prep_time_mins": 7,
+    "cook_time_mins": 38
+  },
+  {
+    "title": "Fresh Strawberry Scones made with Häagen-Dazs",
+    "url": "https://www.madewithnestle.ca/recipe/strawberry-scones",
+    "description": "Try these delicious strawberry scones using ice cream!",
+    "image": "https://images.aws.nestle.recipes/original/d18caf864eaaf15fb3d2b5fc9035004d_hgd-strawberry-en.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "NESQUIK Cocoa Powder Whoopie Pie",
+    "url": "https://www.madewithnestle.ca/recipe/nesquik-cocoa-powder-whoopie-pie",
+    "description": "The ultimate decadent chocolate treat with your favourite Nesquik Cocoa powder!",
+    "image": "https://images.aws.nestle.recipes/original/91f0ba713bc4a3459ab52cb7da677152_whoopie_pie.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 22
+  },
+  {
+    "title": "BOOST High Protein Matcha Coconut Bars",
+    "url": "https://www.madewithnestle.ca/recipe/boost-high-protein-matcha-coconut-bars",
+    "description": "Matcha green tea powder provides a punch of healthy antioxidants. Combined with coconut, these bars become a decadent guiltless treat.",
+    "image": "https://images.aws.nestle.recipes/original/ebb3fba74b20c67147ee3f4cbf36616b_boost_high_protein_matcha_coconut_bars.jpg",
+    "prep_time_mins": 8,
+    "cook_time_mins": 25
+  },
+  {
+    "title": "Spicy Thai Coconut Soup",
+    "url": "https://www.madewithnestle.ca/recipe/spicy-thai-coconut-soup",
+    "description": "This soup, otherwise known in Thailand as Tom Kha, gets its name from tom, meaning soup, and kha, meaning “galangal,” a type of aromatic root vegetable. Make this quick and easy Thai classic at home, fragrant with herbs and spices, for dinner tonight.Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/676674bff1e5a90602efc93a24c12dd2_spicy_thai_coconut_soup-046_960x640.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "KitKat Scary Coffins",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-scary-coffins",
+    "description": "These scary coffins are a twist on the classic cupcake. A delicious KITKAT surprise lies waiting within.",
+    "image": "https://images.aws.nestle.recipes/original/6e1c6a37757e773c6f775129a1873c7b_1630006998-03_-_tfg_kitkat_halloween_hero.jpg",
+    "prep_time_mins": 40,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Dafaduka from Central/West Africa",
+    "url": "https://www.madewithnestle.ca/recipe/dafaduka-centralwest-africa",
+    "description": "Dafaduka is a delicious and traditional dish from Africa that is earthy and full of flavour. Give it a try and let us know what you think!Some of the products used in these recipes are not available for purchase Canada. Therefore we encourage you wherever possible to find local alternative products. Nestlé Canada Inc. does not recommend using Nestlé products not for sale in Canada and is not liable for any injuries related to the purchase and consumption of these products.",
+    "image": "https://images.aws.nestle.recipes/original/d2bd53f892808de90ec4dbca6dcea305_dafaduka.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 40
+  },
+  {
+    "title": "KIT KAT Ginger-Break",
+    "url": "https://www.madewithnestle.ca/recipe/kit-kat-ginger-break",
+    "description": "Dear Holiday Season, you're welcome. With love, Ginger-Break Men.",
+    "image": "https://images.aws.nestle.recipes/original/2e3cf7b1a454f6623c768c3f28eb998b_kk_dec_gingerbread.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 12
+  },
+  {
+    "title": "Chocolate Hazelnut Mug Cake",
+    "url": "https://www.madewithnestle.ca/recipe/chocolate-hazelnut-mug-cake",
+    "description": "When you start thinking this recipe is pure indulgence, remember it’s also loaded with nutrition. You know, balance.",
+    "image": "https://images.aws.nestle.recipes/original/ca22929dde81b6f3f6f1428a6e5b6833_chocolatehazelnutmugcake.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 5
+  },
+  {
+    "title": "Caramelized Onions & Dates Lamb Stew",
+    "url": "https://www.madewithnestle.ca/recipe/caramelized-onions-dates-lamb-stew",
+    "description": "A hearty stew for a family occasion. The caramelized onions and dates lend a sweet taste to this comforting savory stew. A meat stew is a hearty delightful meal to enjoy.",
+    "image": "https://images.aws.nestle.recipes/original/650e860f002d8434be03ac649fe84958_caramelized-onions-(1).jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 88
+  },
+  {
+    "title": "MacKintosh's Caramel Apple Beignets",
+    "url": "https://www.madewithnestle.ca/recipe/mackintoshs-caramel-apple-beignets",
+    "description": "These delicious doughy treats get their name from the French term for “fritter”. This doughnut pastry is best served warm and offers 16 fresh and easy to make beignets sure to please your friends and family. Dotted with chopped Mackintosh toffee bits and dried apple and dusted with cinnamon sugar, these beignets will be perfect as a holiday treat.",
+    "image": "https://images.aws.nestle.recipes/original/d322be7e1ee8b7c23d8a54a02393a93a_caramel_apple_beignets-039-960x640.jpg",
+    "prep_time_mins": 25,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "Quality Street Khajoor Cake",
+    "url": "https://www.madewithnestle.ca/recipe/quality-street-khajoor-cake",
+    "description": "Perfect for Iftar, this cake is rich with dates that restore energy after a day of fasting. The chocolates add a wonderful depth and flavour to this cake!",
+    "image": "https://images.aws.nestle.recipes/original/0999efe191ea816120ec5731f7ef8a14_khajoor_cake-_website_final.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 30
+  },
+  {
+    "title": "KitKat Bar Matka Kulfi",
+    "url": "https://www.madewithnestle.ca/recipe/kitkat-bar-matka-kulfi",
+    "description": "A delicious way to celebrate Eid, our Matka Kulfi is going to bring back nostalgic memories of strolling in the bazaar and sampling kulfi from a matka!",
+    "image": "https://images.aws.nestle.recipes/original/d3ec551eb0a39952cdd1015594cab714_kitkat_kulfi_1.jpg",
+    "prep_time_mins": 15,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "AERO Caramel Truffles Yule Log Cake",
+    "url": "https://www.madewithnestle.ca/recipe/aero-caramel-truffles-yule-log-cake",
+    "description": "AERO Caramel Truffles Yule Log Cake",
+    "image": "https://images.aws.nestle.recipes/original/a4dfd3d53f5f85010407250811ff5c08_yule-log-cake-(960x640).jpg",
+    "prep_time_mins": 45,
+    "cook_time_mins": 15
+  },
+  {
+    "title": "Sparkling Perrier Jamaican Ginger Beer",
+    "url": "https://www.madewithnestle.ca/recipe/sparkling-perrier-jamaican-ginger-beer",
+    "description": "Fresh and spicy, this popular nonalcoholic sparkling beverage has deep roots in the Caribbean due to the global spice trade. Historically one of the world’s most well-known growers of ginger and sugarcane, Jamaica popularized this carbonated drink by way of British influence. It is perfect as a refreshing drink on its own or can be added to a variety of cocktails, such as the famous Moscow mule.",
+    "image": "https://images.aws.nestle.recipes/original/a491d6dde29a9750992121666d3dca56_jamaican_ginger_beer-081-960x640.jpg",
+    "prep_time_mins": 20,
+    "cook_time_mins": 0
+  },
+  {
+    "title": "MAGGI Egg Bhurji Noodles",
+    "url": "https://www.madewithnestle.ca/recipe/maggi-egg-bhurji-noodles",
+    "description": "Looking for a quick and easy Maggi Egg Recipe? Look no further than our Egg Bhurji recipe! This classic and simple dish takes scrambled eggs to a whole new level of deliciousness. With just 8 simple ingredients, you can whip up a delicious meal that combines the goodness of scrambled eggs with the convenience of Maggi 2 minute noodles. In just a few minutes, you'll have a hearty, satisfying and comforting dinner. Grab your favourite pack of MAGGI Masala Noodles and get cooking.",
+    "image": "https://images.aws.nestle.recipes/original/8a952b6bbe9ada695dfb3e1eff23c027_a42i7984.jpg",
+    "prep_time_mins": 10,
+    "cook_time_mins": 20
+  },
+  {
+    "title": "BOOST Whole Grain Pasta with Strawberry Tomato Sauce",
+    "url": "https://www.madewithnestle.ca/recipe/boost-whole-grain-pasta-strawberry-tomato-sauce",
+    "description": "The flavour of this tomato sauce gets brought to life with the sweetness of BOOST Strawberry. Toss with whole wheat pasta and fresh parmesan—it's pasta night!",
+    "image": "https://images.aws.nestle.recipes/original/6ccd89039a959b6ba8eec93fae2f6660_whole_grain_pasta_with_strawberry_tomato_sauce.jpg",
+    "prep_time_mins": 0,
+    "cook_time_mins": 55
+  },
+  {
+    "title": "Strawberry Panna Cotta",
+    "url": "https://www.madewithnestle.ca/recipe/strawberry-panna-cotta",
+    "description": "This strawberry panna cotta is a sweet and refreshing finish to any meal. Infused with lemon peel, vanilla and the strawberry flavour of BOOST.",
+    "image": "https://images.aws.nestle.recipes/original/6538f2ebc8b8a88a240cf1c9759695f3_strawberry_panna_cotta.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 10
+  },
+  {
+    "title": "Mango Peach Iced Tea Pops",
+    "url": "https://www.madewithnestle.ca/recipes/mango-peach-iced-tea-pops",
+    "description": "Chunks of mango and peach slices add fresh flavour and bright colour to these refreshing summery tea pops",
+    "image": "https://img.youtube.com/vi/6gkkkOdWMO0/hqdefault.jpg",
+    "prep_time_mins": 5,
+    "cook_time_mins": 5
   }
 ]

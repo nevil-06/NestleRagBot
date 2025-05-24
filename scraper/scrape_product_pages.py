@@ -1,5 +1,3 @@
-# scrape_product_pages.py
-
 import json
 import os
 import time
@@ -20,17 +18,17 @@ def scrape():
     scraped = []
     failed = []
 
-    headers = {
-        "User-Agent": ua.random,
-        "Accept-Language": "en-US,en;q=0.9",
-    }
-
     for entry in product_links:
         url = entry["product_url"]
         category = entry["category"]
         brand = entry["brand"]
 
         print(f"\n🔎 Fetching: {url}")
+
+        headers = {
+            "User-Agent": ua.random,
+            "Accept-Language": "en-US,en;q=0.9",
+        }
 
         try:
             res = requests.get(url, headers=headers, timeout=15)
@@ -45,13 +43,34 @@ def scrape():
 
             print("   ➤ Container found, extracting text...")
 
+            # Fallback full raw text
             raw_texts = [text.strip() for text in container.stripped_strings if text.strip()]
+
+            # 🌿 Enhanced ingredient extraction (supports both <p> and raw text in .sub-ingredients)
+            ingredients = []
+
+            # 1. Try specific <p> tags inside .sub-ingredients or field--name-field-ingredient-fullname
+            ingredients_tags = soup.select("div.field--name-field-ingredient-fullname, div.sub-ingredients p")
+            ingredients.extend(tag.get_text(strip=True) for tag in ingredients_tags if tag.get_text(strip=True))
+
+            # 2. Fallback: direct text from .sub-ingredients divs (if no <p> inside)
+            if not ingredients:
+                for div in soup.select("div.sub-ingredients"):
+                    text = div.get_text(strip=True)
+                    if text:
+                        ingredients.append(text)
+
+            # Log if none found
+            if not ingredients:
+                print(f"⚠️ No ingredients found for {url}")
+
 
             scraped.append({
                 "url": url,
                 "brand": brand,
                 "category": category,
-                "raw_data": raw_texts
+                "raw_data": raw_texts,
+                "explicit_ingredients": ingredients,
             })
 
             time.sleep(1)

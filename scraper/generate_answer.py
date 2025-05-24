@@ -1,80 +1,86 @@
-# generate_answer.py
-
 import os
 import json
 from openai import OpenAI
 from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer, util
+import faiss
+import numpy as np
+from .rerank_crossencoder import rerank_with_crossencoder
 
 load_dotenv()
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-from .graph_rag_retrieve import graph_reranked_top_products, get_structured_by_name
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-# Set this in your environment
+INDEX_FILE = "data/faiss_index_combined.bin"
+METADATA_FILE = "data/faiss_metadata_combined.json"
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
+def load_index():
+    index = faiss.read_index(INDEX_FILE)
+    with open(METADATA_FILE) as f:
+        metadata = json.load(f)
+    return index, metadata
 
-def build_prompt(query, top_products):
-    context_blocks = []
-    structured = json.load(open("data/structured_product_data.json"))
+def build_prompt(query, top_chunks):
+    blocks = []
 
-    for i, (score, meta) in enumerate(top_products):
-        product_struct = get_structured_by_name(meta["product_name"], structured)
-        features = product_struct.get("features_benefits", "").strip()
-        ingredients = product_struct.get("ingredients", "").strip()
+    for meta in [item[1] for item in top_chunks]:
+        if meta["source"] == "product":
+            block = (
+                f"- [{meta.get('product_name')}]({meta.get('url')})\n"
+                f"  - Brand: {meta.get('brand', '')}\n"
+                f"  - Category: {meta.get('category', '')}\n"
+                f"  - Description: {meta.get('description', '')}\n"
+                f"  - Features: {meta.get('features_benefits', '')}\n"
+                f"  - Weight: {meta.get('weight', '')}"
+            )
+            blocks.append(block)
+        else:
+            block = (
+                f"- [{meta.get('recipe_title')}]({meta.get('url')})\n"
+                f"  - Skill Level: {meta.get('skill_level', '')}\n"
+                f"  - Prep Time: {meta.get('prep_time', 'N/A')} mins\n"
+                f"  - Cook Time: {meta.get('cook_time', 'N/A')} mins\n"
+                f"  - Servings: {meta.get('servings', '')}"
+            )
+            blocks.append(block)
 
-        # Grab only the first sentence of the feature as a short description
-        short_desc = (
-            features.split(".")[0].strip() if features else "No description available"
-        )
-
-        context_blocks.append(
-            f"""
-[{i+1}] {meta['product_name']}
-URL: {meta['url']}
-Brand: {meta['brand']}
-Category: {meta['category']}
-Features: {short_desc}
-Ingredients: {ingredients or 'N/A'}
-"""
-        )
-
-    context = "\n".join(context_blocks)
+    context = "\n\n".join(blocks)
 
     system_prompt = """
-You are a friendly expert on Nestlé products. When answering the user's question:
+You are a helpful assistant answering questions about Nestlé products and recipes.
 
-- Start with a concise and helpful summary.
-- Then list the top 3 matching products like this:
+- If the query is about a product (e.g., "Is Aero gluten free?"), use product information only.
+- If the query is about recipes (e.g., "How do I make mocha with Carnation?"), use recipe information only.
+- If the user asks if a product contains an ingredient, answer precisely based on product data.
+- Do not mention both recipes and products unless the question asks for both.
+- Use proper markdown-style hyperlinks like [Product Name](url). Do not use 'View →' or numeric references.
 
-  1. Product Name – short description.
-     [1] View Product →
-
-- Use the [1], [2], etc. references to match the right product.
-- End the answer with a friendly section:
-  "You might also be interested in:"
-  followed by 3 smart follow-up searches.
-
-Be accurate and helpful. Never make up ingredients or benefits.
+Answer clearly and concisely.
 """
 
-    user_prompt = f"""
-Here are the top 3 matched Nestlé products:
+    user_prompt = f"""Context:
 
 {context}
 
-User question: "{query}"
-
-Answer using the format above.
-"""
+Q: {query}
+A:"""
 
     return system_prompt.strip(), user_prompt.strip()
 
-
 def generate_answer(query):
-    top_products = graph_reranked_top_products(query, return_data=True)
-    system, user = build_prompt(query, top_products)
+    index, metadata = load_index()
+    query_vec = model.encode([query])
+    scores, indices = index.search(np.array(query_vec).astype("float32"), 50)
 
-    print("🧠 Sending to LLM...\n")
+    candidates = []
+    for idx in indices[0]:
+        meta = metadata[idx]
+        meta["chunk_text"] = meta.get("chunk_type", "")
+        candidates.append(meta)
+
+    reranked = rerank_with_crossencoder(query, candidates, top_k=5)
+    system, user = build_prompt(query, reranked)
 
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -82,21 +88,8 @@ def generate_answer(query):
             {"role": "system", "content": system},
             {"role": "user", "content": user},
         ],
-        temperature=0.7,
-        max_tokens=600,
+        temperature=0.5,
+        max_tokens=700,
     )
 
-    # print("✅ Answer:\n")
-    # print(response.choices[0].message.content)
-    return response.choices[0].message.content
-
-
-if __name__ == "__main__":
-    import sys
-
-    if len(sys.argv) < 2:
-        query = input("Ask a Nestlé product question: ").strip()
-    else:
-        query = " ".join(sys.argv[1:])
-
-    generate_answer(query)
+    return response.choices[0].message.content.strip()
