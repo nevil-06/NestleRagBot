@@ -1,3 +1,5 @@
+# index_to_vectorstore.py
+
 import os
 import json
 import faiss
@@ -48,7 +50,12 @@ def build_vector_index():
                         "product_name": name,
                         "brand": product.get("brand", ""),
                         "category": product.get("category", ""),
-                        "url": product.get("url", "")
+                        "url": product.get("url", ""),
+                        "description": desc,
+                        "features_benefits": features,
+                        "weight": product.get("weight", ""),
+                        "ingredients": ingredients,
+                        "nutrition": product.get("nutrition", "")
                     })
 
     # Load recipe data
@@ -104,6 +111,8 @@ def build_vector_index():
         json.dump(metadata, f, indent=2)
 
     print(f"✅ Indexed {len(texts)} unique chunks from products and recipes")
+    print("FAISS Index Size:", index.ntotal)
+    print("Metadata Length:", len(metadata))
 
 if __name__ == "__main__":
     build_vector_index()
