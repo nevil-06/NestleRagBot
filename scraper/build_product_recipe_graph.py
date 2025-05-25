@@ -1,113 +1,129 @@
 import json
-import re
 from neo4j import GraphDatabase
+from difflib import SequenceMatcher
 
-# Load data
-with open("data/structured_product_data.json", "r", encoding="utf-8") as f:
-    products = json.load(f)
+# File paths
+PRODUCT_FILE = "data/structured_product_data.json"
+RECIPE_FILE = "data/full_nestle_recipes.json"
 
-with open("data/full_nestle_recipes.json", "r", encoding="utf-8") as f:
-    recipes = json.load(f)
-
-# Neo4j config
+# Neo4j credentials
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "admin1234"
 
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
-def normalize(text):
-    return re.sub(r"[^a-z0-9]", "", text.lower()) if text else ""
+# Load JSON
+with open(PRODUCT_FILE, "r", encoding="utf-8") as f:
+    products = json.load(f)
+
+with open(RECIPE_FILE, "r", encoding="utf-8") as f:
+    recipes = json.load(f)
+
+
+def similar(a, b):
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio()
+
 
 def create_graph(tx):
-    tx.run("MATCH (n) DETACH DELETE n")
+    tx.run("MATCH (n) DETACH DELETE n")  # Clear DB
 
+    # Create Product nodes
     for product in products:
-        tx.run("""
-            MERGE (p:Product {name: $name})
-            SET p.brand = $brand,
-                p.category = $category,
-                p.description = $description,
-                p.features = $features,
-                p.ingredients = $ingredients,
-                p.url = $url
-        """, name=product["name"],
-             brand=product.get("brand", ""),
-             category=product.get("category", ""),
-             description=product.get("description", ""),
-             features=product.get("features_benefits", ""),
-             ingredients=product.get("ingredients", ""),
-             url=product.get("url", ""))
+        tx.run(
+            """
+            MERGE (p:Product {
+                name: $name,
+                brand: $brand,
+                category: $category,
+                url: $url,
+                description: $description
+            })
+        """,
+            name=product["name"],
+            brand=product.get("brand", ""),
+            category=product.get("category", ""),
+            url=product.get("url", ""),
+            description=product.get("description", ""),
+        )
 
-        # Brand and Category nodes
-        if product.get("brand"):
-            tx.run("""
-                MERGE (b:Brand {name: $brand})
-                WITH b
-                MATCH (p:Product {name: $name})
-                MERGE (p)-[:IS_BRAND]->(b)
-            """, name=product["name"], brand=product["brand"])
-
-        if product.get("category"):
-            tx.run("""
-                MERGE (c:Category {name: $category})
-                WITH c
-                MATCH (p:Product {name: $name})
-                MERGE (p)-[:IS_TYPE]->(c)
-            """, name=product["name"], category=product["category"])
-
+    # Create Recipe nodes
     for recipe in recipes:
         tx.run("""
-            MERGE (r:Recipe {title: $title})
-            SET r.url = $url,
-                r.description = $description,
-                r.skill_level = $skill_level,
-                r.ingredients = $ingredients,
-                r.instructions = $instructions
+            MERGE (r:Recipe {title: $title, url: $url})
+            SET r.skill_level = $skill_level,
+                r.prep_time = $prep_time,
+                r.cook_time = $cook_time,
+                r.servings = $servings
         """, title=recipe["title"],
              url=recipe["url"],
-             description=recipe.get("description", ""),
-             skill_level=recipe.get("skill_level", ""),
-             ingredients=recipe.get("ingredients", []),
-             instructions=recipe.get("instructions", []))
+             skill_level=recipe.get("skill_level"),
+             prep_time=recipe.get("prep_time_mins"),
+             cook_time=recipe.get("cook_time_mins"),
+             servings=recipe.get("servings"))
 
-        for ing in recipe.get("ingredients", []):
-            ing_clean = ing.strip()
-            tx.run("""
-                MERGE (i:Ingredient {name: $ing})
+
+        for ingredient in recipe.get("ingredients", []):
+            tx.run(
+                """
+                MERGE (i:Ingredient {name: $name})
                 WITH i
-                MATCH (r:Recipe {title: $title})
-                MERGE (i)-[:USED_IN]->(r)
-            """, ing=ing_clean, title=recipe["title"])
+                MATCH (r:Recipe {title: $recipe_title})
+                MERGE (r)-[:USES_INGREDIENT]->(i)
+            """,
+                name=ingredient.strip(),
+                recipe_title=recipe["title"],
+            )
 
-    # Fuzzy product-ingredient mapping
+    # Link Products to Ingredients
     for product in products:
-        pname = product["name"]
-        pname_tokens = normalize(pname).split()
-        pbrand = normalize(product.get("brand", ""))
+        name = product["name"]
+        brand = product.get("brand", "")
+        ingredients_text = product.get("ingredients", "")
+        for raw_ingredient in ingredients_text.split(","):
+            ingredient = raw_ingredient.strip()
+            if ingredient:
+                tx.run(
+                    """
+                    MERGE (i:Ingredient {name: $name})
+                    WITH i
+                    MATCH (p:Product {name: $product_name})
+                    MERGE (p)-[:HAS_INGREDIENT]->(i)
+                """,
+                    name=ingredient,
+                    product_name=name,
+                )
 
-        for recipe in recipes:
-            matched = False
-            for ing in recipe.get("ingredients", []):
-                ing_norm = normalize(ing)
-
-                if pbrand and pbrand in ing_norm:
-                    matched = True
-                elif any(token in ing_norm for token in pname_tokens):
-                    matched = True
-
-                if matched:
-                    tx.run("""
-                        MATCH (p:Product {name: $pname}), (r:Recipe {title: $rtitle})
+    # Create fuzzy MENTIONED_IN_INGREDIENT links
+    for recipe in recipes:
+        recipe_title = recipe["title"]
+        for recipe_ing in recipe.get("ingredients", []):
+            ing_lc = recipe_ing.lower()
+            for product in products:
+                prod_name = product["name"]
+                brand = product.get("brand", "")
+                if (
+                    brand
+                    and brand.lower() in ing_lc
+                    or any(token in ing_lc for token in prod_name.lower().split())
+                ):
+                    tx.run(
+                        """
+                        MATCH (p:Product {name: $product_name})
+                        MATCH (r:Recipe {title: $recipe_title})
                         MERGE (p)-[:MENTIONED_IN_INGREDIENT]->(r)
-                    """, pname=pname, rtitle=recipe["title"])
-                    break
+                    """,
+                        product_name=prod_name,
+                        recipe_title=recipe_title,
+                    )
+
 
 def main():
     with driver.session() as session:
-        print("📦 Building graph...")
+        print("🔄 Rebuilding graph...")
         session.execute_write(create_graph)
-        print("✅ Graph created!")
+        print("✅ Graph updated with products, ingredients, and recipes")
+
 
 if __name__ == "__main__":
     main()
