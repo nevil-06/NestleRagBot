@@ -93,7 +93,12 @@ def combined_retrieve(query, top_k=5):
     elif intent == "recipe":
         filtered = [r for r in all_results if r.get("source", "").startswith("recipe") or "recipe_title" in r]
     else:
-        filtered = all_results
+        # Allow products, recipes, and articles
+        filtered = [
+            r for r in all_results
+            if r.get("source", "").startswith(("product", "recipe", "article"))
+            or any(k in r for k in ["product_name", "recipe_title", "title"])  # title for articles
+        ]
 
     print("\n✅ Filtered Results:")
     for r in filtered:

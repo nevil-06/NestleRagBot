@@ -1,11 +1,17 @@
-# index_to_vectorstore.py
-
-import os
+import os, re
 import json
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from tqdm import tqdm
+import logging
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
+logger = logging.getLogger(__name__)
 
 INPUT_PRODUCT_FILE = "data/structured_product_data.json"
 INPUT_RECIPE_FILE = "data/full_nestle_recipes.json"
@@ -97,11 +103,41 @@ def build_vector_index():
                         "url": recipe.get("url", "")
                     })
 
-    print("🧠 Encoding text chunks...")
+    # Load article/about page data (flat text style)
+    ARTICLE_FILE = os.path.join(os.path.dirname(__file__), "../data/nestle_articles_detailed_cleaned.json")
+    if os.path.exists(ARTICLE_FILE):
+        with open(ARTICLE_FILE, "r", encoding="utf-8") as f:
+            articles = json.load(f)
+
+        for article in articles:
+            title = article.get("title", "").strip()
+            url = article.get("url", "").strip()
+            desc = article.get("description", "").strip()
+            body_raw = article.get("content", "").strip()
+            # Clean raw content
+            body_clean = re.sub(r"\n{2,}", "\n", body_raw)             # Collapse multiple newlines
+            body_clean = re.sub(r"\t+", " ", body_clean)               # Replace tabs with space
+            body_clean = re.sub(r"(LATEST|NUTRITION|Latest)", "", body_clean)  # Remove repeated headings
+            body_clean = re.sub(r" +", " ", body_clean)                # Collapse multiple spaces
+
+            text = f"{title}\n{desc}\n{body_clean}".strip()
+            if len(text.strip()) > 20:
+                texts.append(text)
+                metadata.append({
+                    "chunk_type": "article_full",
+                    "source": "article",
+                    "title": title,
+                    "url": url,
+                    "published": article.get("published", "")
+                })
+    else:
+        logger.warning(f"❌ Article file not found: {ARTICLE_FILE}")
+
+    logger.info("🧠 Encoding text chunks...")
     embeddings = model.encode(texts, show_progress_bar=True)
     embeddings = np.array(embeddings).astype("float32")
 
-    print("📦 Creating FAISS index...")
+    logger.info("📦 Creating FAISS index...")
     dim = embeddings.shape[1]
     index = faiss.IndexFlatL2(dim)
     index.add(embeddings)
@@ -110,9 +146,9 @@ def build_vector_index():
     with open(METADATA_FILE, "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2)
 
-    print(f"✅ Indexed {len(texts)} unique chunks from products and recipes")
-    print("FAISS Index Size:", index.ntotal)
-    print("Metadata Length:", len(metadata))
+    logger.info(f"✅ Indexed {len(texts)} unique chunks from products, recipes, and articles")
+    logger.info(f"FAISS Index Size: {index.ntotal}")
+    logger.info(f"Metadata Length: {len(metadata)}")
 
 if __name__ == "__main__":
     build_vector_index()

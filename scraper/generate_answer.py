@@ -1,4 +1,3 @@
-# ✅ Updated generate_answer.py with safer JSON parsing
 import os
 import json
 import re
@@ -18,6 +17,7 @@ INDEX_FILE = "data/faiss_index_combined.bin"
 METADATA_FILE = "data/faiss_metadata_combined.json"
 PRODUCT_FILE = "data/structured_product_data.json"
 RECIPE_FILE = "data/full_nestle_recipes.json"
+ARTICLE_FILE = "data/nestle_articles_detailed_cleaned.json"
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
@@ -27,18 +27,26 @@ with open(PRODUCT_FILE, "r", encoding="utf-8") as f:
 with open(RECIPE_FILE, "r", encoding="utf-8") as f:
     ALL_RECIPES = json.load(f)
 
+with open(ARTICLE_FILE, "r", encoding="utf-8") as f:
+    ALL_ARTICLES = json.load(f)
+
+
 def load_index():
     index = faiss.read_index(INDEX_FILE)
     with open(METADATA_FILE, "r") as f:
         metadata = json.load(f)
     return index, metadata
 
+
 def lookup_full_data(meta):
     if meta["source"] == "product":
         return next((p for p in ALL_PRODUCTS if p["url"] == meta.get("url")), None)
     elif meta["source"] == "recipe":
         return next((r for r in ALL_RECIPES if r["url"] == meta.get("url")), None)
+    elif meta["source"] == "article":
+        return next((a for a in ALL_ARTICLES if a["url"] == meta.get("url")), None)
     return None
+
 
 def build_context_block(full_data, meta, index):
     if meta["source"] == "product":
@@ -74,6 +82,17 @@ Instructions: {" ".join(full_data.get("instructions", []))[:300]}...
 URL: {full_data.get("url", "")}
 """.strip()
 
+    elif meta["source"] == "article":
+        return f"""
+[{index}] {full_data.get("title", "")}
+Type: Article
+Published: {full_data.get("published", "")}
+Description: {full_data.get("description", "")}
+Excerpt: {full_data.get("content", "")[:400]}...
+URL: {full_data.get("url", "")}
+""".strip()
+
+
 def build_prompt(query, reranked_entries):
     blocks = []
     for i, (score, meta) in enumerate(reranked_entries, start=1):
@@ -93,7 +112,7 @@ You are a helpful assistant for Nestlé Canada. When a user asks a question, use
   "items": [
     {
       "title": "...",
-      "type": "product" or "recipe",
+      "type": "product" or "recipe" or "article",
       "description": "...",
       "url": "...",
       "category": "...",
@@ -112,7 +131,7 @@ You are a helpful assistant for Nestlé Canada. When a user asks a question, use
 - No emojis or special characters
 - Keep it short, clean, and structured
 - Only use context
-"""
+""".strip()
 
     user_prompt = f"""
 ### Context:
@@ -124,7 +143,8 @@ You are a helpful assistant for Nestlé Canada. When a user asks a question, use
 Use the JSON structure described in the system prompt.
 """.strip()
 
-    return system_prompt.strip(), user_prompt.strip()
+    return system_prompt, user_prompt
+
 
 def safe_json_parse(text):
     try:
@@ -139,6 +159,7 @@ def safe_json_parse(text):
                 "items": [],
                 "followups": []
             }
+
 
 def generate_answer(query):
     index, metadata = load_index()
