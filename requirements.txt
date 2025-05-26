@@ -7,3 +7,4 @@ sentence-transformers
 bs4
 fake_useragent
 lxml
+playwright

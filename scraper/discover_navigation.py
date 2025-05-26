@@ -1,9 +1,17 @@
 # discover_navigation.py
 
-from playwright.sync_api import sync_playwright
-import json
 import os
+import json
+import logging
 from urllib.parse import urljoin
+from playwright.sync_api import sync_playwright
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
+logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.madewithnestle.ca/"
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/nav_structure.json")
@@ -17,33 +25,33 @@ def discover_brand_only():
         page.goto(BASE_URL)
         page.wait_for_load_state("networkidle")
 
-        # ✅ Accept cookies
+        # Accept cookies
         try:
             page.click("button:has-text('Accept')", timeout=5000)
-            print("✅ Accepted cookies")
+            logger.info("Accepted cookies")
         except:
-            print("⚠️ No cookie banner found")
+            logger.warning("No cookie banner found")
 
-        # ✅ Close optional modal popup
+        # Close optional modal popup
         try:
             page.click(".popup-close, .modal-close, .close-button", timeout=3000)
-            print("✅ Closed modal popup")
+            logger.info("Closed modal popup")
         except:
-            print("✅ No modal popup appeared")
+            logger.info("No modal popup appeared")
 
-        # ✅ Hover on "Brand" menu
+        # Hover on "Brand" menu
         try:
             page.hover("nav >> text=Brand")
             page.wait_for_timeout(1500)
-            print("✅ Hovered on 'Brand'")
+            logger.info("Hovered on 'Brand'")
         except Exception as e:
-            print(f"❌ Failed to hover on 'Brand': {e}")
+            logger.error(f"Failed to hover on 'Brand': {e}")
             browser.close()
             return
 
-        # ✅ Find and loop through submenus
+        # Find and loop through submenus
         submenus = page.query_selector_all(".menu-level-2-ul > li")
-        print(f"🔎 Found {len(submenus)} subcategories under Brand")
+        logger.info(f"Found {len(submenus)} subcategories under Brand")
 
         for submenu in submenus:
             try:
@@ -64,21 +72,26 @@ def discover_brand_only():
                             "url": urljoin(BASE_URL, href)
                         })
 
-                # ✅ Exit after scraping "Quick-Mix Drinks"
                 if title.lower() == "quick-mix drinks":
-                    print(f"✅ Finished scraping '{title}' — stopping early.")
+                    logger.info(f"Finished scraping '{title}' — stopping early.")
                     break
 
             except Exception as e:
-                print(f"⚠️ Error in submenu '{title}': {e}")
+                logger.warning(f"Error in submenu '{title}': {e}")
 
-        # ✅ Save and exit
-        os.makedirs("data", exist_ok=True)
+        # Save and exit
+        os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(nav_data, f, indent=2)
-        print(f"✅ Saved {len(nav_data)} links to {OUTPUT_FILE}")
+        logger.info(f"Saved {len(nav_data)} links to {OUTPUT_FILE}")
 
         browser.close()
 
+def run():
+    if os.path.exists(OUTPUT_FILE):
+        logger.warning(f"Navigation data already exists at {OUTPUT_FILE}. Skipping scraping.")
+    else:
+        discover_brand_only()
+
 if __name__ == "__main__":
-    discover_brand_only()
+    run()

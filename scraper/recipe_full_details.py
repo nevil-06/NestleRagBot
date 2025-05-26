@@ -4,9 +4,20 @@ from bs4 import BeautifulSoup
 import time
 from collections import OrderedDict
 import re
+import os
+import logging
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
+logger = logging.getLogger(__name__)
+
+INPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/nestle_recipes.json")
+OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/full_nestle_recipes.json")
 
 # ---------- Cleaning Helpers ----------
-
 def clean_text(text):
     if not isinstance(text, str):
         return text
@@ -25,10 +36,6 @@ def clean_ingredients(ingredients):
         cleaned.append(clean_text(item))
     return cleaned
 
-# ---------- Load Seed Recipes ----------
-with open("data/nestle_recipes.json", "r", encoding="utf-8") as f:
-    recipes = json.load(f)
-
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
@@ -38,7 +45,7 @@ def extract_full_recipe(url):
     try:
         res = requests.get(url, headers=headers)
         if res.status_code != 200:
-            print(f"Failed to fetch: {url}")
+            logger.warning(f"Failed to fetch: {url}")
             return None
 
         soup = BeautifulSoup(res.text, "html.parser")
@@ -55,11 +62,7 @@ def extract_full_recipe(url):
         cook_time = int(cook.text.strip()) if cook and cook.text.strip().isdigit() else None
 
         serving_tag = soup.select_one("span.serving-value.value")
-        if serving_tag:
-            match = re.search(r"\d+", serving_tag.get_text())
-            servings = int(match.group()) if match else None
-        else:
-            servings = None
+        servings = int(re.search(r"\d+", serving_tag.get_text()).group()) if serving_tag and re.search(r"\d+", serving_tag.get_text()) else None
 
         skill_tag = soup.select_one("span.skill-level-value.value")
         skill_level = skill_tag.get_text(strip=True) if skill_tag else None
@@ -78,11 +81,10 @@ def extract_full_recipe(url):
         ]
         seen = OrderedDict()
         for step in raw_steps:
-            if step not in seen:
-                seen[step] = None
+            seen[step] = None
         instructions = list(seen.keys())
 
-        # ---------- CLEANING ----------
+        # CLEANING
         title = clean_text(title)
         description = clean_text(description)
         skill_level = clean_text(skill_level)
@@ -102,48 +104,56 @@ def extract_full_recipe(url):
         }
 
     except Exception as e:
-        print(f"Error at {url}: {e}")
+        logger.error(f"Error at {url}: {e}")
         return None
 
-# ---------- Run the Scraper ----------
-enhanced = []
-for recipe in recipes:
-    print(f"Scraping: {recipe['title']}")
-    details = extract_full_recipe(recipe["url"])
-    time.sleep(1)
+def run():
+    if os.path.exists(OUTPUT_FILE):
+        logger.warning(f"Full recipe data already exists at {OUTPUT_FILE}. Skipping.")
+        return
 
-    if details:
-        # Use fallback description if needed, and clean it
-        description = details.get("description") or recipe.get("description")
-        description = clean_text(description) if description else None
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        recipes = json.load(f)
 
+    enhanced = []
 
-        full_recipe = {
-            "title": details["title"],
-            "description": description,
-            "prep_time_mins": details["prep_time_mins"] or recipe.get("prep_time_mins"),
-            "cook_time_mins": details["cook_time_mins"] or recipe.get("cook_time_mins"),
-            "servings": details["servings"],
-            "skill_level": details["skill_level"],
-            "ingredients": details["ingredients"],
-            "instructions": details["instructions"],
-            "url": recipe["url"]
-        }
+    for recipe in recipes:
+        logger.info(f"Scraping: {recipe['title']}")
+        details = extract_full_recipe(recipe["url"])
+        time.sleep(1)
 
-        # Remove redundant first instruction if same as description
-        if (
-            full_recipe.get("instructions")
-            and full_recipe["instructions"][0]
-            and full_recipe.get("description")
-            and isinstance(full_recipe["description"], str)
-            and full_recipe["instructions"][0].strip().lower() == full_recipe["description"].strip().lower()
-        ):
-            full_recipe["instructions"] = full_recipe["instructions"][1:]
+        if details:
+            description = details.get("description") or recipe.get("description")
+            description = clean_text(description) if description else None
 
-        enhanced.append(full_recipe)
+            full_recipe = {
+                "title": details["title"],
+                "description": description,
+                "prep_time_mins": details["prep_time_mins"] or recipe.get("prep_time_mins"),
+                "cook_time_mins": details["cook_time_mins"] or recipe.get("cook_time_mins"),
+                "servings": details["servings"],
+                "skill_level": details["skill_level"],
+                "ingredients": details["ingredients"],
+                "instructions": details["instructions"],
+                "url": recipe["url"]
+            }
 
-# ---------- Save Output ----------
-with open("data/full_nestle_recipes.json", "w", encoding="utf-8") as f:
-    json.dump(enhanced, f, ensure_ascii=False, indent=2)
+            if (
+                full_recipe.get("instructions")
+                and full_recipe["instructions"][0]
+                and full_recipe.get("description")
+                and isinstance(full_recipe["description"], str)
+                and full_recipe["instructions"][0].strip().lower() == full_recipe["description"].strip().lower()
+            ):
+                full_recipe["instructions"] = full_recipe["instructions"][1:]
 
-print(f"\n✅ Done! Saved {len(enhanced)} recipes to 'data/full_nestle_recipes.json'")
+            enhanced.append(full_recipe)
+
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(enhanced, f, ensure_ascii=False, indent=2)
+
+    logger.info(f"\n✅ Done! Saved {len(enhanced)} recipes to '{OUTPUT_FILE}'")
+
+if __name__ == "__main__":
+    run()

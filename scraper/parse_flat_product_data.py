@@ -1,96 +1,69 @@
 import json
 import os
+import logging
 import re
-from collections import OrderedDict
 
-# SECTION HEADINGS TO LOCATE
-SECTION_KEYS = ["features", "nutrition", "ingredients"]
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
+logger = logging.getLogger(__name__)
+
+INPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/full_product_data.json")
+OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/structured_product_data.json")
 
 def clean_text(text):
-    if not isinstance(text, str):
-        return text
-    text = text.replace("’", "'")          # Curly apostrophe → straight
-    text = text.replace("–", "-")          # En dash → hyphen
-    text = re.sub(r"[®™‡*]", "", text)     # Remove special marks
-    text = text.replace("\u200b", "")      # Zero-width space
-    text = re.sub(r"\s+", " ", text)       # Collapse multiple spaces
-    return text.strip()
+    return re.sub(r"\s+", " ", text.replace("\n", " ")).strip()
 
-def find_section_indices(lines, keys):
-    result = []
-    for i, line in enumerate(lines):
-        for key in keys:
-            if key.lower() in line.lower():
-                result.append((key.lower(), i))
-    return sorted(result, key=lambda x: x[1])
+def parse_product_data():
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        raw_data = json.load(f)
 
-def extract_structured_fields(entry):
-    raw = entry["raw_data"]
-    data = {
-        "url": entry["url"],
-        "brand": clean_text(entry["brand"]),
-        "category": clean_text(entry["category"]),
-        "name": "",
-        "weight": "",
-        "description": "",
-        "features_benefits": "",
-        "nutrition": "",
-        "ingredients": ""
-    }
+    parsed_data = []
 
-    # Use explicit ingredients if available
-    if entry.get("explicit_ingredients"):
-        data["ingredients"] = clean_text(", ".join(entry["explicit_ingredients"]))
+    for item in raw_data:
+        parsed_item = {
+            "name": item.get("name", "").strip(),
+            "category": item.get("category", "").strip(),
+            "brand": item.get("brand", "").strip(),
+            "weight": item.get("weight", "").strip(),
+            "url": item.get("url", "").strip(),
+            "ingredients": "",
+            "nutrition": "",
+            "features": "",
+            "description": ""
+        }
 
-    # Extract name
-    for line in raw:
-        if len(line.split()) > 1 and all(x not in line.lower() for x in ["share", "facebook", "email", "twitter", "pinterest", "yum"]):
-            data["name"] = clean_text(line)
-            break
+        sections = item.get("description", "").lower().split("\n")
+        for section in sections:
+            section_clean = clean_text(section)
 
-    # Extract weight
-    for line in raw:
-        if re.search(r"\b\d+(?:[.,]\d+)?\s?(g|kg|ml|l)\b", line, re.IGNORECASE):
-            data["weight"] = clean_text(line)
-            break
+            if "ingredients" in section:
+                parsed_item["ingredients"] += section_clean + " "
+            elif "nutrition" in section:
+                parsed_item["nutrition"] += section_clean + " "
+            elif "features" in section or "benefits" in section:
+                parsed_item["features"] += section_clean + " "
+            else:
+                parsed_item["description"] += section_clean + " "
 
-    # Section parsing
-    anchors = find_section_indices(raw, SECTION_KEYS)
-    sections = {}
-    for i, (label, start) in enumerate(anchors):
-        end = anchors[i + 1][1] if i + 1 < len(anchors) else len(raw)
-        section_lines = raw[start:end]
+        for key in ["ingredients", "nutrition", "features", "description"]:
+            parsed_item[key] = clean_text(parsed_item[key])
 
-        if ":" in section_lines[0]:
-            section_content = section_lines[0].split(":", 1)[1].strip()
-        else:
-            section_content = " ".join(section_lines[1:]).strip()
+        parsed_data.append(parsed_item)
 
-        sections[label] = section_content
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(parsed_data, f, indent=2)
 
-    data["description"] = clean_text(" ".join(raw[:anchors[0][1]]).strip() if anchors else " ".join(raw).strip())
-    data["features_benefits"] = clean_text(sections.get("features", ""))
-    data["nutrition"] = clean_text(sections.get("nutrition", ""))
+    logger.info(f"Structured {len(parsed_data)} product entries to {OUTPUT_FILE}")
 
-    # Only fallback to parsed ingredients if explicit was not used
-    if not data["ingredients"]:
-        data["ingredients"] = clean_text(sections.get("ingredients", ""))
-
-    return data
-
-def parse_all_products():
-    with open("data/full_product_data.json", "r", encoding="utf-8") as f:
-        raw_products = json.load(f)
-
-    structured = []
-    for entry in raw_products:
-        structured.append(extract_structured_fields(entry))
-
-    os.makedirs("data", exist_ok=True)
-    with open("data/structured_product_data.json", "w", encoding="utf-8") as f:
-        json.dump(structured, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ Parsed and cleaned {len(structured)} products.")
+def run():
+    if os.path.exists(OUTPUT_FILE):
+        logger.warning(f"Structured product data already exists at {OUTPUT_FILE}. Skipping.")
+    else:
+        parse_product_data()
 
 if __name__ == "__main__":
-    parse_all_products()
+    run()
