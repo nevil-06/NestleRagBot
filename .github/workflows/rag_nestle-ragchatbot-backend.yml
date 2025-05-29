@@ -1,4 +1,6 @@
-name: Deploy FastAPI to Azure App Service
+# .github/workflows/deploy.yml
+
+name: Deploy FastAPI backend to Azure App Service
 
 on:
   push:
