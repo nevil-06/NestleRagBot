@@ -7,7 +7,15 @@ from sentence_transformers import SentenceTransformer
 from openai import OpenAI
 from dotenv import load_dotenv
 from .rerank_crossencoder import rerank_with_crossencoder
-from .graph_query_engine import GraphQueryEngine
+from .graph_query_engine_cosmosdb import GraphQueryEngine
+
+graph_query = GraphQueryEngine(
+    endpoint=os.getenv("COSMOS_ENDPOINT"),
+    key=os.getenv("COSMOS_KEY"),
+    database=os.getenv("COSMOS_DATABASE"),
+    graph=os.getenv("COSMOS_GRAPH")
+)
+
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -50,7 +58,10 @@ def lookup_full_data(meta):
 
 def build_context_block(full_data, meta, index):
     if meta["source"] == "product":
-        related_recipes = graph_query.get_recipes_using_product(full_data.get("name", ""))
+        related_recipes = graph_query.get_recipes_using_product(
+            full_data.get("name", "")
+        )
+
         related_section = ""
         if related_recipes:
             links = "\n".join(f"- [{r['title']}]({r['url']})" for r in related_recipes)
@@ -151,14 +162,41 @@ def safe_json_parse(text):
         return json.loads(text)
     except json.JSONDecodeError:
         try:
-            cleaned = re.sub(r',\s*([}\]])', r'\1', text)  # Remove trailing commas
+            cleaned = re.sub(r",\s*([}\]])", r"\1", text)  # Remove trailing commas
             return json.loads(cleaned)
         except Exception:
             return {
                 "summary": "Sorry, I couldn't parse the response.",
                 "items": [],
-                "followups": []
+                "followups": [],
             }
+
+
+# New context-aware wrapper
+conversation_history = []
+
+
+def generate_contextual_answer(new_user_query):
+    global conversation_history
+
+    # Add current user query to history
+    conversation_history.append({"role": "user", "content": new_user_query})
+
+    # Combine last few turns for context-aware query (e.g., last 3)
+    combined_query = ""
+    for turn in conversation_history[
+        -6:
+    ]:  # Limit to last 3 exchanges (user + assistant)
+        combined_query += f"{turn['role'].capitalize()}: {turn['content']}\n"
+
+    # Call the original generate_answer with this combined query
+    result = generate_answer(combined_query.strip())
+
+    # Add the assistant response summary to history for future context
+    if "summary" in result:
+        conversation_history.append({"role": "assistant", "content": result["summary"]})
+
+    return result
 
 
 def generate_answer(query):
@@ -182,13 +220,15 @@ def generate_answer(query):
             matches = graph_query.get_recipes_using_product(product["name"])
             for rec in matches:
                 if rec["url"] not in seen_urls:
-                    graph_candidates.append({
-                        "source": "recipe",
-                        "chunk_type": "graph_hint",
-                        "recipe_title": rec["title"],
-                        "url": rec["url"],
-                        "chunk_text": rec["title"]
-                    })
+                    graph_candidates.append(
+                        {
+                            "source": "recipe",
+                            "chunk_type": "graph_hint",
+                            "recipe_title": rec["title"],
+                            "url": rec["url"],
+                            "chunk_text": rec["title"],
+                        }
+                    )
                     seen_urls.add(rec["url"])
 
     all_candidates = faiss_candidates + graph_candidates
