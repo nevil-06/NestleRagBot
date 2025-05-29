@@ -8,12 +8,12 @@ from typing import Optional, List
 from dotenv import load_dotenv
 
 load_dotenv()
-g
 app = FastAPI(title="Nestlé Product Answer API")
+
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=os.environ.get("FRONTEND_URL"),
+    allow_origins=[os.environ.get("FRONTEND_URL") or "*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
