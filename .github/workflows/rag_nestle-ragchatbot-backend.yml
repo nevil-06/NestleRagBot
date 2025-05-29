@@ -28,5 +28,5 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'nestle-ragchatbot-backend'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09A60E13318452427485096A4B95BE9ED0A81EE65471 }}
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           package: .
