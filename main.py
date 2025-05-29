@@ -8,6 +8,7 @@ from typing import Optional, List
 from dotenv import load_dotenv
 
 load_dotenv()
+g
 app = FastAPI(title="Nestlé Product Answer API")
 
 app.add_middleware(

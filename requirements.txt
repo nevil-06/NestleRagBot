@@ -2,7 +2,7 @@ uvicorn
 fastapi
 openai
 python-dotenv
-# faiss-cpu
+faiss-cpu
 sentence-transformers
 bs4
 fake_useragent
